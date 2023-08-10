@@ -16,7 +16,7 @@ The `opus` folder contains data related to the OPUS corpus, a parallel data coll
 
 ### Jupyter Notebooks:
 
-- **1. opus_extraction.ipynb**: Parses data from the four different corpora.
+- **1.opus_extraction.ipynb**: Parses data from the four different corpora.
 - **2. intersection_algorithm_opus.ipynb**: Maps senses using the intersection algorithm on the OPUS data.
 - **3. opus_algorithm_based_conditions.ipynb**: Runs the mapped senses based on five conditions.
 - **4. opus_token_count.ipynb**: Counts the number of tokens in the OPUS corpus for data analysis.

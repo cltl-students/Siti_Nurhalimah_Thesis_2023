@@ -5,7 +5,7 @@ This repository is a part of the thesis project for MA Linguistics (Human Langua
 - [Opus Folder](#opus-folder)
 - [Wiktionary Folder](#wiktionary-folder)
 - [wn-msa-all Folder](#wn-msa-all-folder)
-- [requirement.txt] (#requirement.txt)
+- [requirement.txt](#requirementtxt)
 - [Usage](#usage)
 - [Contact](#contact)
 - [License](#license)
@@ -76,7 +76,7 @@ The `wn-msa-all` folder contains data related to the main file (https://sourcefo
 - **senses.ipynb**: This notebook handles sense-related analysis.
 - **classification_report_generator.py**: Generates a classification report in the `predictions_results` folder.
 
-# requirement.txt
+## requirement.txt
 This file contains all the information about the packages needed to run the code. 
 
 # Usage

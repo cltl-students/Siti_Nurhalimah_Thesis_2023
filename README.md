@@ -1,6 +1,15 @@
 # Description
 This repository is a part of the thesis project for MA Linguistics (Human Language Technology). The project focuses on conducting data analysis and implementing an intersection algorithm on the OPUS corpus from https://opus.nlpl.eu/ and the Wiktionary dataset from https://kaikki.org/dictionary/English/index.html. This repository contains tools and scripts for performing sense alignment and evaluation using various datasets and algorithms. The repository is organized into different subfolders and contains a variety of Jupyter notebooks and Python scripts to facilitate the process.
 
+## Table of Contents
+- [Opus Folder](#opus-folder)
+- [Wiktionary Folder](#wiktionary-folder)
+- [wn-msa-all Folder](#wn-msa-all-folder)
+- [requirement.txt] (#requirement.txt)
+- [Usage](#usage)
+- [Contact](#contact)
+- [License](#license)
+
 ## opus Folder
 
 The `opus` folder contains data related to the OPUS corpus, a parallel data collection. It is organized as follows:
@@ -67,18 +76,11 @@ The `wn-msa-all` folder contains data related to the main file (https://sourcefo
 - **senses.ipynb**: This notebook handles sense-related analysis.
 - **classification_report_generator.py**: Generates a classification report in the `predictions_results` folder.
 
-
-
+# requirement.txt
+This file contains all the information about the packages needed to run the code. 
 
 # Usage
 To use this repository, first clone or download it to your local machine. Then, navigate to the respective folders based on your requirements. Each folder contains notebooks or scripts for specific tasks related to data analysis and intersection algorithms. Follow the instructions provided in the notebooks or scripts to execute the necessary operations.
-
-# Requirements
-To run the code in this repository, ensure you have the following installed on your local machine:
-
-- Python 3
-- Jupyter Notebook or any Python IDE
-- The required Python packages mentioned in the notebooks or scripts
 
 # Contact
 If you have any questions or encounter any issues, please feel free to reach out to the project owner at s.nurhalimah@student.vu.nl

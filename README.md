@@ -16,14 +16,14 @@ The `opus` folder contains data related to the OPUS corpus, a parallel data coll
 
 ### Jupyter Notebooks:
 
-- **opus_extraction.ipynb**: Parses data from the four different corpora.
-- **intersection_algorithm_opus.ipynb**: Maps senses using the intersection algorithm on the OPUS data.
-- **opus_algorithm_based_conditions.ipynb**: Runs the mapped senses based on five conditions.
-- **opus_token_count.ipynb**: Counts the number of tokens in the OPUS corpus for data analysis.
-- **opus_languages_intersection_analysis.ipynb**: Counts the number of language intersections in the OPUS corpus.
-- **data_analysis.ipynb**: Counts the number of senses suggested by one or two languages in the development set for data analysis.
-- **error_analysis.ipynb**: Counts senses suggested by certain languages based on evaluation set results for error analysis.
-- **evaluation_set.ipynb**: Generates matching between OPUS and the evaluation set and runs the intersection algorithm using the best condition (condition 5).
+- **1. opus_extraction.ipynb**: Parses data from the four different corpora.
+- **2. intersection_algorithm_opus.ipynb**: Maps senses using the intersection algorithm on the OPUS data.
+- **3. opus_algorithm_based_conditions.ipynb**: Runs the mapped senses based on five conditions.
+- **4. opus_token_count.ipynb**: Counts the number of tokens in the OPUS corpus for data analysis.
+- **5. opus_languages_intersection_analysis.ipynb**: Counts the number of language intersections in the OPUS corpus.
+- **6. data_analysis.ipynb**: Counts the number of senses suggested by one or two languages in the development set for data analysis.
+- **7. error_analysis.ipynb**: Counts senses suggested by certain languages based on evaluation set results for error analysis.
+- **8. evaluation_set.ipynb**: Generates matching between OPUS and the evaluation set and runs the intersection algorithm using the best condition (condition 5).
 - **classification_report_generator.py**: Generates a classification report in the `predictions_results` folder.
 
 ## wiktionary Folder
@@ -37,15 +37,15 @@ The `wiktionary` folder contains data related to the Wiktionary dataset. It is s
 
 ### Jupyter Notebooks:
 
-- **wiktionary_extraction.ipynb**: Parses data from the Wiktionary JSON file downloaded from [kaikki.org](https://kaikki.org/dictionary/English/index.html).
-- **intersection_algorithm_wiktionary.ipynb**: Maps senses using the intersection algorithm on the Wiktionary data.
-- **wiktionary_algorithm_based_conditions.ipynb**: Runs the mapped senses based on five conditions.
-- **wiktionary_token_count.ipynb**: Counts the number of tokens in the Wiktionary dataset for data analysis.
-- **wiktionary_languages_intersection_analysis.ipynb**: Counts the number of language intersections in the Wiktionary dataset.
-- **POS_analysis.ipynb**: Counts the number of parts of speech (POS) in Wiktionary for data analysis.
-- **data_analysis.ipynb**: Counts the number of senses suggested by one or two languages in the development set for data analysis.
-- **error_analysis.ipynb**: Counts senses suggested by certain languages based on evaluation set results for error analysis.
-- **evaluation_set.ipynb**: Generates matching between Wiktionary and the evaluation set and runs the intersection algorithm using the best condition (condition 5).
+- **1. wiktionary_extraction.ipynb**: Parses data from the Wiktionary JSON file downloaded from [kaikki.org](https://kaikki.org/dictionary/English/index.html).
+- **2. intersection_algorithm_wiktionary.ipynb**: Maps senses using the intersection algorithm on the Wiktionary data.
+- **3. wiktionary_algorithm_based_conditions.ipynb**: Runs the mapped senses based on five conditions.
+- **4. wiktionary_token_count.ipynb**: Counts the number of tokens in the Wiktionary dataset for data analysis.
+- **5. wiktionary_languages_intersection_analysis.ipynb**: Counts the number of language intersections in the Wiktionary dataset.
+- **6. POS_analysis.ipynb**: Counts the number of parts of speech (POS) in Wiktionary for data analysis.
+- **7. data_analysis.ipynb**: Counts the number of senses suggested by one or two languages in the development set for data analysis.
+- **8. evaluation_set.ipynb**: Generates matching between Wiktionary and the evaluation set and runs the intersection algorithm using the best condition (condition 5).
+- **9. error_analysis.ipynb**: Counts senses suggested by certain languages based on evaluation set results for error analysis.
 - **classification_report_generator.py**: Generates a classification report in the `predictions_results` folder.
 
 ## wn-msa-all Folder
@@ -59,11 +59,11 @@ The `wn-msa-all` folder contains data related to the WordNet Multilingual Synset
 
 ### Jupyter Notebooks:
 
-- **development_evaluation_sets.ipynb**: Builds development and evaluation sets.
-- **goodness_labels_extraction.ipynb**: Extracts data from the main data (https://sourceforge.net/p/wn-msa/tab/HEAD/tree/trunk/) with labels B and I, extracting goodness labels to the development and evaluation sets.
-- **combined_datasets_on_eval.ipynb**: Combines both Wiktionary and OPUS data and runs the combined dataset on the evaluation set using the best condition. Generates a classification report.
-- **wn-msa_error_analysis.ipynb**: Suggests senses for the main data (https://sourceforge.net/p/wn-msa/tab/HEAD/tree/trunk/) using Wiktionary and OPUS data respectively for the final error analysis step. Takes 150 random samples from each data source.
-- **error_analysis_hand-checked.ipynb**: Obtains glosses of the 150 random samples and generates accuracy scores for both Wiktionary and OPUS for the last step of error analysis.
+- **1. development_evaluation_sets.ipynb**: Builds development and evaluation sets.
+- **2. goodness_labels_extraction.ipynb**: Extracts data from the main data (https://sourceforge.net/p/wn-msa/tab/HEAD/tree/trunk/) with labels B and I, extracting goodness labels to the development and evaluation sets.
+- **3. combined_datasets_on_eval.ipynb**: Combines both Wiktionary and OPUS data and runs the combined dataset on the evaluation set using the best condition. Generates a classification report.
+- **4. wn-msa_error_analysis.ipynb**: Suggests senses for the main data (https://sourceforge.net/p/wn-msa/tab/HEAD/tree/trunk/) using Wiktionary and OPUS data respectively for the final error analysis step. Takes 150 random samples from each data source.
+- **5. error_analysis_hand-checked.ipynb**: Obtains glosses of the 150 random samples and generates accuracy scores for both Wiktionary and OPUS for the last step of error analysis.
 - **senses.ipynb**: This notebook handles sense-related analysis.
 - **classification_report_generator.py**: Generates a classification report in the `predictions_results` folder.
 

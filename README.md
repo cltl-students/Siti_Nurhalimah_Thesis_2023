@@ -50,7 +50,7 @@ The `wiktionary` folder contains data related to the Wiktionary dataset. It is s
 
 ## wn-msa-all Folder
 
-The `wn-msa-all` folder contains data related to the WordNet Multilingual Synset Alignments (wn-msa) dataset:
+The `wn-msa-all` folder contains data related to the main file (https://sourceforge.net/p/wn-msa/tab/HEAD/tree/trunk/) and additional data from Wordnet Bahasa maintainers. It is structured as follows:
 
 ### Subfolders:
 

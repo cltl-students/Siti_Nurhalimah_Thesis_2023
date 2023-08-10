@@ -73,7 +73,7 @@ The `wn-msa-all` folder contains data related to the main file (https://sourcefo
 - **3. combined_datasets_on_eval.ipynb**: Combines both Wiktionary and OPUS data and runs the combined dataset on the evaluation set using the best condition. Generates a classification report.
 - **4. wn-msa_error_analysis.ipynb**: Suggests senses for the main data (https://sourceforge.net/p/wn-msa/tab/HEAD/tree/trunk/) using Wiktionary and OPUS data respectively for the final error analysis step. Takes 150 random samples from each data source.
 - **5. error_analysis_hand-checked.ipynb**: Obtains glosses of the 150 random samples and generates accuracy scores for both Wiktionary and OPUS for the last step of error analysis.
-- **senses.ipynb**: This notebook handles sense-related analysis.
+- **senses.ipynb**: Checks sense in WordNet.
 - **classification_report_generator.py**: Generates a classification report in the `predictions_results` folder.
 
 ## requirement.txt

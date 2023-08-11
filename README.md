@@ -88,10 +88,10 @@ This file contains all the information about the packages needed to run the code
 To use this repository, first clone or download it to your local machine. Then, navigate to the respective folders based on your requirements. Each folder contains notebooks or scripts for specific tasks related to data analysis and intersection algorithms. Follow the instructions provided in the notebooks or scripts to execute the necessary operations.
 
 # Contact
-If you have any questions or encounter any issues, please feel free to reach out to the project owner at s.nurhalimah@student.vu.nl
+If you have any questions or encounter any issues, please feel free to reach out to the project owner at s.nurhalimah@student.vu.nl.
 
 # [License.txt](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/blob/main/LICENSE.txt)
-Licence of the repository 
+Licence of the repository.
 
 ## References
 H. B. M. Noor, S. Sapuan, and F. Bond. [Creating the open Wordnet Bahasa](https://aclanthology.org/Y11-1027). In Proceedings of the 25th Pacific Asia Conference on Language, Information and Computa- tion, pages 255–264, Singapore, Dec. 2011. Institute of Digital Enhancement of Cog- nitive Processing, Waseda University.

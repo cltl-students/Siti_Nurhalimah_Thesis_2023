@@ -1,0 +1,4919 @@
+synset	lemma	annotation	goodness label	confidence	language
+01084900-a	penuh	KEEP	O	None	None
+15224486-n	masa	KEEP	O	1	Polish
+06845599-n	merek	KEEP	O	1	Polish
+90000187-n	Rumah Makan Minang	KEEP	None	None	None
+04697442-n	kesederhanaan	KEEP	L	1	English
+14524661-n	suasana hati	KEEP	X	1	Portuguese
+01843380-a	bersiaplah	KEEP	X	None	None
+03306385-n	ekspres	KEEP	L	1	Portuguese
+tag	clemma	KEEP	None	None	None
+90000158-n	serangoon road	KEEP	None	None	None
+02493030-v	berkunjung	KEEP	O	None	None
+01188725-v	menginginkan	KEEP	Y	None	None
+00920336-v	dapat melihat	KEEP	L	None	None
+01169067-v	makan	DELETE	O	None	None
+01948450-v	berselancar	KEEP	None	None	None
+80001269-v	tiada	KEEP	None	None	None
+08556386-n	kejauhan	KEEP	L	1	English
+00233335-v	membatasi	KEEP	Y	None	None
+04849241-n	kebaikan	KEEP	Y	1	English
+00973677-a	trendi	KEEP	Y	None	None
+01192510-v	menikmati	KEEP	O	None	None
+14486122-n	antisipasi	KEEP	O	1	English
+00074201-r	balik	KEEP	O	None	None
+07573696-n	jalanan	KEEP	None	1	Finnish
+00212604-r	pernah	DELETE	O	None	None
+07417405-n	darurat	KEEP	Y	1	English
+03441112-n	sarung tangan	KEEP	Y	2	English, Greek
+09282724-n	busa	KEEP	O	1	Slovene
+00553140-a	menurut	KEEP	Y	None	None
+00161630-r	perlahan-lahan	KEEP	O	None	None
+10193719-n	pemburu	KEEP	O	1	English
+08561081-n	utara	KEEP	O	1	English
+00838367-n	makan	KEEP	O	1	English
+01326528-v	menyirnakan	DELETE	O	None	None
+03322836-n	farmhouse	KEEP	None	1	Portuguese
+00402535-n	pengisian	KEEP	O	1	Slovene
+03221720-n	pintu	KEEP	Y	1	Polish
+01002740-v	mengambil gambar	DELETE	O	None	None
+02685951-v	ke	DELETE	O	None	None
+05217168-n	rupa	DELETE	O	1	English
+00173761-n	cara	KEEP	O	1	English
+02671780-n	asesoris	KEEP	None	1	Polish
+00056930-v	menyambut	KEEP	O	None	None
+03128519-n	krim	KEEP	Y	1	English
+02072159-v	meluap	KEEP	O	None	None
+03748162-n	outlet	KEEP	None	1	English
+90000148-n	Mustafa Center	KEEP	None	None	None
+00196122-a	mendebarkan	KEEP	O	None	None
+01150559-v	mengacu	KEEP	O	None	None
+02966829-a	brazil	KEEP	None	None	None
+01539444-a	biasa	DELETE	O	None	None
+09260466-n	kristal	KEEP	O	1	English
+14513259-n	lingkup	KEEP	O	1	Spanish
+14437552-n	dipuja	KEEP	None	1	English
+00283327-a	keperakan	KEEP	O	None	None
+06929742-n	bahasa mandarin	KEEP	None	1	Polish
+02203373-a	ke-10	KEEP	None	None	None
+02062670-a	sama	KEEP	O	None	None
+14411884-n	mode	KEEP	O	1	English
+03386011-n	benteng	KEEP	O	1	Spanish
+06261744-n	multimedia	KEEP	O	1	Portuguese
+02647497-v	berterusan	DELETE	None	None	None
+02603699-v	manusia	DELETE	O	None	None
+03670208-n	limousine	KEEP	None	1	English
+07573696-n	hidangan	KEEP	Y	1	Finnish
+90000315-n	hajjah	KEEP	None	None	None
+00035058-r	seringkali	KEEP	X	None	None
+02604760-v	insan	DELETE	O	None	None
+02148788-v	tampilkan	KEEP	X	None	None
+10059582-n	penggemar	KEEP	O	1	Greek
+02163746-v	lihat	KEEP	None	None	None
+02202146-a	kedua	KEEP	O	None	None
+02685390-v	mengarungi	KEEP	O	None	None
+00027167-n	lokasi-lokasi	DELETE	X	1	Portuguese
+06694540-n	rekomendasi	KEEP	O	1	English
+08429052-n	jajaran	KEEP	O	1	Slovene
+02708420-v	melewati	KEEP	None	None	None
+02020590-v	membentuk	DELETE	O	None	None
+00594337-v	kenal	KEEP	Y	None	None
+00539009-a	padat	KEEP	O	None	None
+02397637-v	dijadikan	KEEP	None	None	None
+04334599-n	street	KEEP	None	1	English
+02742638-v	hadapkan	KEEP	None	None	None
+02005948-v	tiba	KEEP	O	None	None
+01565921-v	menghabiskan	DELETE	O	None	None
+00968730-a	eksotik	KEEP	Y	None	None
+05924920-n	kayu ukur	DELETE	None	1	English
+02716739-a	ekonomi	KEEP	O	None	None
+13955461-n	yang sebenarnya	KEEP	X	2	English, Spanish
+01825237-v	inginkan	KEEP	None	None	None
+01391351-a	kecil”	KEEP	None	None	None
+02621395-v	membuatkan	DELETE	O	None	None
+90000323-n	cahkwe	KEEP	None	None	None
+15237782-n	musim dingin	KEEP	O	1	Portuguese
+05120116-n	terlalu banyak	KEEP	X	1	Portuguese
+02999757-n	rantai	KEEP	Y	1	English
+01376522-a	kenal	KEEP	None	None	None
+05839024-n	kelas	DELETE	O	1	English
+04728068-n	bermutu	KEEP	Y	1	Finnish
+00772967-v	menghadirkan	KEEP	O	None	None
+01027174-v	pembekalan	DELETE	Y	None	None
+07663899-n	kue	KEEP	O	1	English
+01157517-v	menyapu bersih	DELETE	X	None	None
+02247584-v	terjual habis	KEEP	X	None	None
+01795933-a	kompleks	KEEP	O	None	None
+90000052-n	killiney road	KEEP	None	None	None
+08182379-n	keramaian	KEEP	Y	1	English
+00173338-v	meluwengkan	DELETE	O	None	None
+01410606-a	bagaikan	DELETE	O	None	None
+09144851-n	houston	KEEP	None	1	Portuguese
+00542120-v	jadi	KEEP	None	None	None
+00305821-r	suntuk	KEEP	L	None	None
+09139508-n	pierre	KEEP	None	1	Finnish
+02402825-v	memperhentikan	DELETE	O	None	None
+05249636-n	bukaan	KEEP	None	1	Finnish
+07967382-n	kelompok etnis	KEEP	X	1	Spanish
+02717102-v	mendukung	DELETE	O	None	None
+00923793-v	menunjukkan	KEEP	Y	None	None
+02620587-v	boleh disamakan	DELETE	X	None	None
+15164570-n	sabtu	KEEP	O	1	English
+02926936-a	kereta	KEEP	O	None	None
+05115568-n	banyak	KEEP	O	1	Portuguese
+00301951-a	tidak terhitung	KEEP	X	None	None
+13770169-n	sendok	KEEP	O	1	Greek
+02096167-v	makan	DELETE	O	None	None
+00851744-a	layak	KEEP	Y	None	None
+00715239-v	rasa	KEEP	O	None	None
+00038625-r	tentu	KEEP	None	None	None
+01653873-v	terbuat	KEEP	None	None	None
+00039941-r	nampak	KEEP	None	None	None
+01825237-v	ingin	KEEP	Y	None	None
+07399452-n	suara	KEEP	O	1	English
+07527352-n	kemeriahan	KEEP	None	1	Finnish
+03186285-n	dhow	KEEP	None	1	English
+02327200-v	menyediaka	KEEP	None	None	None
+00063014-n	mencatat	KEEP	Y	1	English
+03299261-n	lainnya	DELETE	None	None	None
+02699141-v	melambangkan	KEEP	O	None	None
+06414372-n	buku teks	KEEP	None	1	Polish
+05812038-n	tengah	KEEP	None	1	English
+05011790-n	suhu	KEEP	Y	1	English
+07614500-n	es krim	KEEP	O	1	Finnish
+09450163-n	surya	KEEP	O	1	Portuguese
+13327676-n	kehilangan	KEEP	Y	1	Polish
+90000098-n	singapore river festival	KEEP	None	None	None
+08179879-n	populasi	KEEP	None	1	Greek
+02930766-n	taxi	KEEP	X	1	Polish
+00582388-n	bidang	KEEP	O	1	Finnish
+02697725-v	insan	DELETE	O	None	None
+04877530-n	kesetiaan	KEEP	Y	2	Japanese, Portuguese
+05899087-n	program	KEEP	Y	1	Slovene
+05984287-n	edukasi	KEEP	O	1	Spanish
+02269635-a	tiap	KEEP	L	None	None
+15166191-n	sore	KEEP	O	1	English
+02150948-v	lihat	KEEP	O	None	None
+08544813-n	tanah	KEEP	O	1	Arabic
+02443907-a	tropis	KEEP	None	None	None
+08490039-n	terletak	KEEP	O	1	English
+00508032-v	menandai	KEEP	None	None	None
+00722232-v	berfokus	KEEP	O	None	None
+00744916-a	tidak mudah	KEEP	X	None	None
+07882497-n	racikan	KEEP	None	1	Slovene
+13270373-n	sesaji	KEEP	None	1	English
+01999798-v	meluwengkan	DELETE	O	None	None
+07623664-n	kue tar	KEEP	O	1	English
+80000397-n	serangoon	KEEP	None	None	None
+03316406-n	pabrik	KEEP	O	2	Portuguese, Spanish
+00250898-r	di antara	KEEP	L	None	None
+02415390-a	kental	KEEP	Y	None	None
+08902097-n	assam	KEEP	None	1	English
+09367991-n	barang kebutuhan	KEEP	X	1	Portuguese
+01212469-a	rendah	KEEP	O	None	None
+06980315-n	tamil	KEEP	None	1	English
+02563724-v	melengkapi	KEEP	O	None	None
+01664172-v	membimbing	DELETE	O	None	None
+90000230-n	Makanan Khas Singapura	KEEP	None	None	None
+10415638-n	penari	KEEP	O	1	Portuguese
+01388418-a	berskala	KEEP	None	None	None
+05955186-n	mainstream	KEEP	None	1	English
+13654777-n	gelang rantai	KEEP	O	1	English
+09788521-n	teman	KEEP	O	1	Spanish
+07680932-n	roti	KEEP	Y	1	English
+01046932-v	lolongan	DELETE	None	None	None
+02244956-v	menjual	KEEP	O	None	None
+02427103-v	dibangun	KEEP	None	None	None
+00043003-r	jadi	KEEP	O	None	None
+00080169-r	di atas	KEEP	None	None	None
+00816839-a	larut	KEEP	O	None	None
+07450842-n	upacara	KEEP	Y	1	Finnish
+04454240-n	gasing	KEEP	Y	1	English
+01160806-v	dorong	KEEP	None	None	None
+02641957-v	lewatkan	KEEP	X	None	None
+00173338-v	membawa	DELETE	O	None	None
+00758333-v	mengarik	DELETE	O	None	None
+02687385-v	memandu	DELETE	O	None	None
+06515662-n	hikayat	KEEP	O	1	English
+00813790-v	mengiring	DELETE	O	None	None
+00047534-r	turut	KEEP	None	None	None
+02359464-a	mengejutkan	KEEP	O	None	None
+04812268-n	elegan	KEEP	O	1	Arabic
+01987545-n	udang	KEEP	O	None	None
+13464820-n	perkembangan	KEEP	O	1	English
+14881303-n	kaca	KEEP	Y	1	English
+00030358-n	tindakan	KEEP	Y	1	Greek
+02236124-v	mengarik	DELETE	O	None	None
+00765213-v	menenangkan	KEEP	O	None	None
+03040587-n	pencuci	KEEP	O	1	English
+08438533-n	pepohonan	KEEP	None	1	Portuguese
+01204294-n	rangka	DELETE	O	1	English
+00339934-v	terjadi	KEEP	Y	None	None
+15228378-n	pukul	KEEP	Y	1	Finnish
+01992503-v	melaju	KEEP	None	None	None
+00885217-v	terikat	KEEP	O	None	None
+00616654-a	barbecued	KEEP	None	None	None
+00755447-v	memohon	KEEP	O	None	None
+02490877-v	rayakanlah	KEEP	None	None	None
+04388473-n	tandoor	KEEP	None	2	English, Polish
+02599636-v	mengajak	DELETE	O	None	None
+00184363-a	terdapat	KEEP	O	None	None
+01444563-v	menyate	KEEP	None	None	None
+00331030-a	tengah	KEEP	O	None	None
+07069948-n	ekspresi	KEEP	L	1	English
+07663592-n	daging sapi	KEEP	X	1	English
+07585107-n	kaldu ayam	KEEP	X	None	None
+01085098-n	pembagian	KEEP	None	1	English
+08633957-n	pelabuhan	KEEP	O	1	English
+02339413-v	lengkapi	KEEP	X	None	None
+08663860-n	puncak	KEEP	Y	1	English
+02627934-v	perlu	KEEP	O	None	None
+09206985-n	pendakian	KEEP	O	1	English
+00407848-v	didekorasi	KEEP	None	None	None
+90000014-n	kepiting pedas	KEEP	None	None	None
+05716577-n	manis	KEEP	O	1	English
+02764122-v	light up	KEEP	None	None	None
+00962129-n	berontak	KEEP	X	1	English
+01911526-v	berkeliling	KEEP	O	None	None
+06517942-n	bon	KEEP	O	1	English
+00734054-v	berpendapat bahawa	DELETE	X	None	None
+04617289-n	hal	KEEP	O	1	English
+02193194-v	terdengar	KEEP	O	None	None
+00674270-a	buatan sendiri	KEEP	L	None	None
+80001271-n	sang	KEEP	None	None	None
+02068730-a	tersebut	KEEP	None	None	None
+01027859-n	istiadat	KEEP	Y	1	Portuguese
+00363788-n	penambahan	KEEP	O	1	English
+00380696-n	pencampuran	KEEP	O	1	English
+01692222-a	luar	KEEP	Y	None	None
+08730354-n	taiwan	KEEP	None	1	Portuguese
+00652900-v	membandingkan	KEEP	Y	None	None
+01579128-a	lepas	DELETE	O	None	None
+01918984-a	tenang	KEEP	O	None	None
+07724943-n	kacang	KEEP	Y	1	Portuguese
+02599636-v	makan	DELETE	O	None	None
+02020590-v	terkena	DELETE	O	None	None
+02993546-n	pusat	KEEP	Y	1	Slovene
+01512625-v	tossed	KEEP	None	None	None
+06161223-n	estetika	KEEP	O	1	Portuguese
+07110615-n	suara	KEEP	O	1	English
+01586342-a	baik	KEEP	Y	None	None
+01928114-a	ras	KEEP	None	None	None
+02203976-a	ke 15	KEEP	None	None	None
+02587738-a	bernilai	KEEP	O	None	None
+00049003-n	kemasukan	DELETE	O	1	Spanish
+00238022-n	debut	KEEP	None	1	Spanish
+00429048-n	hiburan	KEEP	Y	1	Greek
+80000119-n	srikaya	KEEP	None	None	None
+09617867-n	juru	KEEP	Y	1	English
+01156834-v	menampung	DELETE	O	None	None
+02357479-a	terkejut	KEEP	Y	None	None
+07911677-n	koktil	KEEP	X	2	English, Spanish
+02020590-v	menimpa	DELETE	O	None	None
+00002621-r	hanya	KEEP	O	None	None
+00751567-v	membuat	KEEP	O	None	None
+09536058-n	tuhan	KEEP	L	1	English
+00060939-r	sebelumnya	KEEP	X	None	None
+07060167-n	musik rakyat	KEEP	O	1	English
+04564698-n	jalan	KEEP	O	1	Slovene
+00050037-n	pencatatan	KEEP	Y	2	Portuguese, Spanish
+90000191-n	tekka centre	KEEP	None	None	None
+08908509-n	bali	KEEP	None	1	Polish
+00601378-v	masukilah	KEEP	None	None	None
+00947128-n	menggunakan	KEEP	L	1	English
+80001019-v	buka	KEEP	None	None	None
+06650431-n	dokumentasi	KEEP	O	1	English
+00340239-a	tentu	KEEP	O	None	None
+01063930-v	berbagi	KEEP	None	None	None
+05839024-n	bentuk	DELETE	Y	1	English
+02531088-v	bersusah payah	KEEP	None	None	None
+08059870-n	firma	KEEP	Y	1	English
+10471250-n	pendeta	KEEP	O	1	English
+00890590-v	memastikan	KEEP	Y	None	None
+00607780-v	mengingat	KEEP	O	None	None
+10990963-n	garibaldi	KEEP	None	3	Finnish, English, Polish
+13746512-n	10	KEEP	None	1	English
+02623906-v	membentuk	DELETE	O	None	None
+00542120-v	menjadi	KEEP	None	None	None
+02193141-a	70	KEEP	None	None	None
+07581931-n	koktail	KEEP	O	None	None
+00087736-v	mengerut	DELETE	O	None	None
+01642437-v	perkenalkan	KEEP	L	None	None
+13862780-n	watak	DELETE	O	1	Polish
+03580615-n	internet	KEEP	X	1	English
+13932045-n	negeri impian	KEEP	X	1	Polish
+00986766-a	empuk	KEEP	None	None	None
+08613593-n	kelihatannya	DELETE	O	1	English
+02202712-a	kelima	KEEP	None	None	None
+00018043-r	walaupun	KEEP	L	None	None
+09989502-n	penari	KEEP	O	1	English
+00592341-v	menghargai	KEEP	O	None	None
+00028651-n	ruang tak terbatas	DELETE	X	1	English
+00643250-a	kreatif	KEEP	O	None	None
+02558767-a	natural	KEEP	None	None	None
+01664172-v	bercadang	DELETE	O	None	None
+07048000-n	nyanyian	KEEP	O	1	English
+01517921-a	sipil	KEEP	Y	None	None
+02163746-v	dilihat	DELETE	X	None	None
+02927512-a	amerika	KEEP	None	None	None
+00017881-r	seperti	KEEP	None	None	None
+15212167-n	juli	KEEP	O	1	Spanish
+01856626-v	bermigrasi	KEEP	Y	None	None
+01982650-n	lobster	KEEP	None	1	Japanese
+00341040-v	terjadi	KEEP	O	None	None
+00047534-r	selain	KEEP	L	None	None
+00024356-r	nggak	KEEP	None	None	None
+01647229-v	mendirikan	KEEP	O	None	None
+10967447-n	fatimah	KEEP	None	1	English
+01051410-a	celaka	KEEP	L	None	None
+02560585-v	buat	KEEP	Y	None	None
+01210854-a	tinggi	KEEP	Y	None	None
+04460130-n	menara	KEEP	Y	1	Spanish
+07749582-n	jeruk nipis	KEEP	O	2	English, Polish
+07110457-n	percakapan	KEEP	Y	1	English
+02920121-a	bersejarah	KEEP	Y	None	None
+01806106-a	jengkel	KEEP	None	None	None
+07823105-n	chutney	KEEP	X	3	Polish, English, Portuguese
+01002740-v	meluwengkan	DELETE	O	None	None
+08772922-n	frankfurt	KEEP	None	1	Greek
+01568684-a	seluruh dunia	KEEP	X	None	None
+01755816-v	melakukan	KEEP	O	None	None
+00758333-v	membutuhkan	DELETE	O	None	None
+90000067-n	miss sixty	KEEP	None	None	None
+05827509-n	tendangan	KEEP	Y	1	English
+06722453-n	pernyataan	KEEP	L	1	English
+02358034-v	terbuka	KEEP	L	None	None
+14588492-n	komposisi	KEEP	O	1	Greek
+12212361-n	sayuran	KEEP	Y	1	English
+02067719-a	berbeda	KEEP	O	None	None
+04763925-n	keistimewaan	KEEP	O	1	English
+01167981-v	bersantap malam	KEEP	X	None	None
+07724943-n	kacang buncis besar	DELETE	X	1	Portuguese
+00477661-a	seperti di rumah	KEEP	None	None	None
+01727926-a	dahulu	KEEP	Y	None	None
+08567877-n	tujuan	KEEP	Y	1	English
+01083373-v	memakan	DELETE	O	None	None
+00173338-v	menarik diri	DELETE	O	None	None
+10483530-n	nabi	KEEP	O	1	English
+07891726-n	anggur	KEEP	Y	1	Polish
+09877750-n	inggris	KEEP	None	None	None
+00233687-r	lalu	DELETE	O	None	None
+07217924-n	laporan	KEEP	O	1	Spanish
+00697419-v	simak	KEEP	None	None	None
+01998432-v	mengikuti	KEEP	Y	None	None
+07951464-n	koleksi	KEEP	Y	1	English
+07817465-n	ketumbar	KEEP	O	1	Japanese
+02394183-v	mengisi	DELETE	O	None	None
+04473432-n	transit	KEEP	L	1	English
+90000019-n	Citarasa Melayu	KEEP	None	None	None
+01664172-v	siaga	DELETE	Y	None	None
+07770289-n	pare	KEEP	O	None	None
+90000092-n	sim lim square	KEEP	None	None	None
+01348174-v	mengunci	KEEP	Y	None	None
+00061203-r	selepas	KEEP	O	None	None
+08406486-n	yayasan	KEEP	Y	1	Finnish
+03116530-n	konter	KEEP	None	1	Polish
+02898711-n	jembatan 17 lengkungan	KEEP	None	1	English
+02260730-a	kering	KEEP	O	None	None
+02264075-v	berkati	KEEP	X	None	None
+07737745-n	kacang tanah	KEEP	Y	1	English
+02187296-a	10	KEEP	None	None	None
+00013887-a	berlimpah	KEEP	None	None	None
+01972298-v	gugur	KEEP	O	None	None
+01096750-a	terpajang	KEEP	None	None	None
+05282746-n	gigi	KEEP	Y	1	Polish
+06359193-n	www.easibook.com	KEEP	None	1	Portuguese
+01083769-v	reguk	DELETE	O	None	None
+00515684-n	ekstravaganza	KEEP	None	1	English
+90000066-n	maxwell food centre	KEEP	None	None	None
+15218272-n	ramadan	KEEP	None	2	Polish, Portuguese
+00893955-n	training	KEEP	None	1	Portuguese
+07227772-n	komitmen	KEEP	O	1	Spanish
+02394183-v	berhasil	DELETE	O	None	None
+07071942-n	musik	KEEP	None	1	English
+00664449-a	ingin tahu	KEEP	O	None	None
+08630985-n	kawasan	KEEP	Y	1	English
+08641113-n	berhampiran	DELETE	Y	1	English
+02546467-v	akui	KEEP	X	None	None
+02096167-v	berpulas	DELETE	None	None	None
+04271891-n	tontonan	KEEP	None	2	English, Spanish
+03113835-n	kostum	KEEP	O	1	Portuguese
+07595180-n	caramel	KEEP	None	1	English
+00605516-a	menurut kebiasaan	DELETE	X	None	None
+05901508-n	kebijakan	KEEP	None	1	English
+02881193-n	mangkuk	KEEP	Y	1	English
+13817526-n	%	KEEP	None	1	English
+09526703-n	kali	KEEP	None	1	Portuguese
+00755745-v	bertanyakan	DELETE	None	None	None
+08642037-n	sebelah	KEEP	O	1	Thai
+90000333-n	nasi padang	KEEP	None	None	None
+02174115-v	berdentang	KEEP	O	None	None
+00173338-v	memasukkan	DELETE	O	None	None
+02968525-a	asia	KEEP	None	None	None
+00607780-v	mengenang	KEEP	Y	None	None
+02743214-v	berasal	KEEP	O	None	None
+00163233-n	tujuan	KEEP	Y	1	Slovene
+05091194-n	ukuran	KEEP	Y	1	Spanish
+00118523-v	bersambung	KEEP	Y	None	None
+01079480-v	bertanding	KEEP	O	None	None
+03723267-n	marquetry	KEEP	None	None	None
+02869563-a	visual	KEEP	O	None	None
+00255614-r	dengan ini	KEEP	M	None	None
+07851298-n	krim keju	KEEP	X	None	None
+80000945-x	alangkah	KEEP	None	None	None
+08646787-n	pemandangan	KEEP	O	1	Japanese
+09022265-n	uzbekistan	KEEP	None	1	English
+01948077-v	berselancar	KEEP	O	None	None
+00238022-n	sesuatu	DELETE	O	1	Spanish
+00965606-a	sudah biasa	DELETE	X	None	None
+08652970-n	angkasa	DELETE	O	1	English
+02187793-a	15	KEEP	None	None	None
+00025728-r	mana	KEEP	None	None	None
+01431471-a	penuh perhatian	KEEP	None	None	None
+00107416-r	ini baru	KEEP	None	None	None
+02186580-a	ketiga	KEEP	None	None	None
+00770437-v	dapat	DELETE	O	None	None
+07824988-n	acar	KEEP	O	1	English
+01593649-a	lazim	DELETE	O	None	None
+00166146-a	memikat	KEEP	O	None	None
+01204294-n	tali	DELETE	O	1	English
+07288215-n	kali	KEEP	L	1	English
+02445978-a	kenyal	KEEP	O	None	None
+01936184-a	mitologi	KEEP	M	None	None
+02002720-v	mengusir	KEEP	O	None	None
+01467370-v	kelilingi	KEEP	X	None	None
+09263811-n	dalam	DELETE	O	1	Thai
+00035718-r	cukup	KEEP	None	None	None
+15165289-n	pagi hari	KEEP	None	1	Portuguese
+10280130-n	maestro	KEEP	O	1	English
+08903872-n	mumbai	KEEP	None	1	English
+00190115-a	sadar	KEEP	O	None	None
+09644152-n	orang mongol	KEEP	None	1	Portuguese
+05790242-n	pilihan	KEEP	O	1	Greek
+00971075-a	modis	KEEP	Y	None	None
+00594621-v	kenal	KEEP	O	None	None
+03417345-n	suzhou	KEEP	None	1	Polish
+00616913-a	braised	KEEP	None	None	None
+07360841-n	peristiwa	KEEP	O	1	English
+09813126-n	artis	KEEP	O	1	Spanish
+05131647-n	ketinggian	KEEP	Y	1	Spanish
+04924103-n	umur	KEEP	Y	2	English, Spanish
+01452593-a	nyaring	KEEP	Y	None	None
+04319937-n	jangkungan	KEEP	O	None	None
+80001051-n	Tangs	KEEP	None	None	None
+06636524-n	catatan	KEEP	O	1	English
+01572831-a	bohongan	KEEP	None	None	None
+03542333-n	hotel 1929	KEEP	None	1	Polish
+14413265-n	dipersilakan	KEEP	None	1	English
+80000697-n	buah keluak	KEEP	None	None	None
+06784966-n	kasus	KEEP	L	1	Slovene
+90000325-n	terasie	DELETE	None	None	None
+02050132-v	melewati	KEEP	None	None	None
+00613018-v	kehilangan	KEEP	O	None	None
+01055954-n	kunjungan	KEEP	O	1	English
+01862386-a	premium	KEEP	None	None	None
+01955984-v	naik	KEEP	Y	None	None
+00599992-v	belajar	KEEP	O	None	None
+02620587-v	terdiri	KEEP	None	None	None
+02301560-a	mantap	KEEP	Y	None	None
+01010025-a	penutup	KEEP	L	None	None
+15122231-n	era	KEEP	O	1	Portuguese
+03570709-n	bahan	KEEP	Y	1	Finnish
+90000161-n	singapore dance theatre	KEEP	None	None	None
+02245765-v	bertransaksi	KEEP	X	None	None
+90000111-n	the heeren	KEEP	None	None	None
+02103162-v	tarik	KEEP	O	None	None
+00127948-a	berikut	KEEP	O	None	None
+07753592-n	pisang	KEEP	Y	1	English
+02118933-v	perhatikanlah	KEEP	None	None	None
+07596046-n	gula pasir	KEEP	O	1	Polish
+08871007-n	inggris	KEEP	O	1	Slovene
+05945642-n	pendapat	KEEP	O	1	English
+05548840-n	bahu	KEEP	Y	1	English
+02687385-v	ke	DELETE	O	None	None
+00485711-a	sama	DELETE	O	None	None
+80000797-n	olahraga ekstrem	KEEP	None	None	None
+00583246-n	memanggil	DELETE	O	1	English
+00834198-a	efektif	KEEP	Y	None	None
+07933799-n	secangkir teh	KEEP	X	1	English
+04096066-n	roads	KEEP	None	1	English
+01239862-a	berdiri	KEEP	O	None	None
+02339120-a	kemuka	KEEP	None	None	None
+02655135-v	orang	DELETE	O	None	None
+02698782-a	pantai	KEEP	O	None	None
+01012855-a	utama	KEEP	O	None	None
+09908025-n	muda	DELETE	O	1	Finnish
+09604451-n	Sherlock Holmes	KEEP	O	1	Polish
+02394183-v	menimbuni	DELETE	O	None	None
+00133669-a	sedap	KEEP	O	None	None
+02399595-a	tawar	KEEP	Y	None	None
+01167981-v	bersantap	KEEP	Y	None	None
+04010205-n	esplanade waterfront promenade	KEEP	None	1	English
+90000083-n	Pulau Sentosa	KEEP	None	None	None
+13947645-n	duduknya	DELETE	X	1	English
+00094001-n	penyelamatan	KEEP	O	1	English
+00082308-r	di sana	KEEP	O	None	None
+10415638-n	penghibur	KEEP	O	1	Portuguese
+02488488-v	mengunjungi	KEEP	O	None	None
+02664769-v	setara	DELETE	O	None	None
+07019172-n	musikal	KEEP	O	1	English
+00101051-r	jauh	KEEP	O	None	None
+05128519-n	seluas	KEEP	X	1	Polish
+03671473-n	para hadirin	DELETE	None	1	Spanish
+09972010-n	saudara”	KEEP	None	1	English
+05844105-n	bergaya	DELETE	Y	1	Portuguese
+02202712-a	lima	KEEP	None	None	None
+00221985-r	di belakang	KEEP	None	None	None
+00089408-r	amat	KEEP	O	None	None
+00323856-v	rebus	KEEP	None	None	None
+02129718-a	ditetapkan	KEEP	X	None	None
+07302836-n	kebakaran	KEEP	O	1	English
+01436003-a	singkat	KEEP	Y	None	None
+07229245-n	terima kasih	KEEP	Y	1	Finnish
+02284578-a	tertulis	KEEP	Y	None	None
+06747670-n	pemberitahuan	KEEP	Y	1	English
+15167474-n	malam	KEEP	O	1	Finnish
+07711371-n	kentang rebus	KEEP	X	None	None
+02152446-n	sayap	KEEP	O	1	Slovene
+08731148-n	hong kong	KEEP	None	1	Japanese
+00350104-v	menyambung semula	DELETE	X	None	None
+00744916-a	sukar	KEEP	Y	None	None
+08641113-n	sekitar	KEEP	O	1	English
+00173338-v	mengarik	DELETE	O	None	None
+00144722-r	benar	KEEP	None	None	None
+05813822-n	suvenir	KEEP	Y	1	English
+01729431-v	menyanyi	KEEP	Y	None	None
+05129201-n	panjang	KEEP	O	1	Finnish
+12897493-n	kentang	KEEP	Y	1	English
+00525453-a	komprehensif	KEEP	Y	None	None
+01031256-v	kirimkan	DELETE	None	None	None
+02399595-a	hambar	KEEP	Y	None	None
+00026385-v	santai	KEEP	None	None	None
+04674968-n	warna-warni	KEEP	None	1	English
+00973434-a	mewah	KEEP	O	None	None
+02225510-a	ahli	KEEP	O	None	None
+00041758-r	khusus	KEEP	None	None	None
+05181754-n	hak	KEEP	Y	1	Slovene
+02150328-v	simaklah	KEEP	X	None	None
+08431942-n	baris	KEEP	O	1	English
+01157517-v	meleburkan	DELETE	O	None	None
+01687586-a	inovatif	KEEP	L	None	None
+00436879-v	bervariasi	KEEP	O	None	None
+00028651-n	infinite	DELETE	X	1	English
+08399586-n	ragam	KEEP	None	1	English
+00744916-a	berat	KEEP	O	None	None
+02116118-v	memanjakan	KEEP	Y	None	None
+80001531-n	Teh susu mutiara	KEEP	None	None	None
+01052248-a	semerbak	KEEP	O	None	None
+01920698-v	menjelajah	KEEP	O	None	None
+06880249-n	cerminan	KEEP	L	1	English
+06799897-n	tali	DELETE	O	1	English
+05820620-n	misal	KEEP	Y	1	English
+06373314-n	jalan cerita	KEEP	X	1	English
+00029985-r	lanjut	KEEP	Y	None	None
+00585810-n	menteri	KEEP	O	1	English
+01714208-v	dipentaskan	KEEP	None	None	None
+00679389-v	memilih	KEEP	O	None	None
+01735736-a	sabar	KEEP	Y	None	None
+02536557-v	pengaruh	KEEP	O	None	None
+15206296-n	bulan	KEEP	O	2	Portuguese, Spanish
+02154312-v	melihat	KEEP	O	None	None
+04202417-n	ruko	KEEP	X	1	English
+00455750-v	melengkapi	KEEP	O	None	None
+01714208-v	tampil	KEEP	None	None	None
+01870889-a	berguna	KEEP	O	None	None
+02479323-v	bekalkan	DELETE	X	None	None
+02696503-v	menjulang	KEEP	O	None	None
+01436003-a	pendek	KEEP	Y	None	None
+00157462-v	semakin	KEEP	O	None	None
+02965043-a	japanese	KEEP	None	None	None
+08619795-n	medan	DELETE	O	1	Greek
+04026417-n	dompet	KEEP	O	1	English
+01027174-v	memberi	DELETE	O	None	None
+01673815-a	umum	KEEP	O	None	None
+08964810-n	Malaysia Barat	KEEP	None	1	Polish
+01168468-v	menangsel mulut	DELETE	O	None	None
+01065115-v	memperkenalkan	KEEP	O	None	None
+02967791-a	korea	KEEP	None	None	None
+90000225-n	makansutra singapore	KEEP	None	None	None
+90000300-n	prata	KEEP	None	None	None
+02687385-v	pimpin	DELETE	O	None	None
+07929519-n	kopi	KEEP	Y	1	English
+02620587-v	manusia	DELETE	O	None	None
+01712704-v	lakukan	KEEP	X	None	None
+02020590-v	mengenai	DELETE	O	None	None
+00031820-v	tertawa	KEEP	Y	None	None
+02621395-v	menubuhkan	DELETE	O	None	None
+02697725-v	orang	DELETE	O	None	None
+02006834-v	jatuh ke	DELETE	X	None	None
+00307631-n	perjalanan	KEEP	Y	1	English
+00450070-n	pacuan	KEEP	None	1	Japanese
+00094545-r	di atas	KEEP	None	None	None
+08568256-n	tata	KEEP	None	1	English
+09525579-n	dharma	KEEP	None	1	English
+02020590-v	tiba	DELETE	O	None	None
+90000044-n	Il Lido	KEEP	None	None	None
+02665282-v	mirip	KEEP	Y	None	None
+80001609-n	partikel gramatikal	KEEP	None	None	None
+00311687-n	ziarah	KEEP	O	1	Greek
+05816287-n	informasi	KEEP	L	1	English
+04683814-n	kecantikan	KEEP	O	1	Arabic
+00515380-a	penuh	KEEP	O	None	None
+02355596-v	membentuk	DELETE	O	None	None
+02809105-n	batik	KEEP	O	3	Polish, English, Portuguese
+02614181-v	bermukim	DELETE	O	None	None
+01189113-v	harus	KEEP	O	None	None
+90000336-n	loe mee	KEEP	None	None	None
+02249018-v	beralamat	KEEP	Y	None	None
+00347610-v	serang	KEEP	L	None	None
+06799897-n	baris	DELETE	O	1	English
+05629381-n	neraka	KEEP	Y	2	Thai, Finnish
+00953216-v	mengisahkan	KEEP	Y	None	None
+02471327-v	mendaftar	KEEP	O	None	None
+02742844-a	asal	KEEP	O	None	None
+02069355-a	lainnya	KEEP	None	None	None
+00947128-n	penggunaan	KEEP	O	1	English
+07768694-n	delima	KEEP	O	1	Polish
+02478215-a	terikat	KEEP	O	None	None
+03560161-n	patung	KEEP	O	1	English
+00967646-a	fantastis	KEEP	None	None	None
+12102133-n	rumput	KEEP	O	2	Slovene, Polish
+00575741-n	kerja	KEEP	O	1	Portuguese
+02204094-v	menyimpan	KEEP	O	None	None
+13396861-n	harus dibayar	KEEP	X	1	English
+00127948-a	depan	KEEP	None	None	None
+90000072-n	newton hawker centre	KEEP	None	None	None
+02378453-v	mempunyai	KEEP	O	None	None
+02020590-v	sampai ke	DELETE	X	None	None
+14436875-n	penghormatan	KEEP	Y	1	English
+02702508-v	menghargakan	DELETE	O	None	None
+02267686-n	apa saja	KEEP	None	None	None
+90000317-n	rojak	KEEP	None	None	None
+11456462-n	cerah	KEEP	O	1	English
+00133669-a	enak	KEEP	O	None	None
+00451510-a	dekat	KEEP	O	None	None
+90000015-n	China Selatan	KEEP	None	None	None
+02603056-v	menyatukan	KEEP	O	None	None
+90000331-n	nasi lemak	KEEP	None	None	None
+01035007-a	eksotik	KEEP	Y	None	None
+08731423-n	makau	KEEP	X	3	Slovene, English, Portuguese
+90000327-n	soto ayam	KEEP	None	None	None
+09885334-n	penonton	KEEP	O	1	Polish
+00599992-v	makan	DELETE	O	None	None
+01690606-a	lazim	DELETE	O	None	None
+11514805-n	stres	KEEP	O	1	Spanish
+07858197-n	foie gras	KEEP	X	None	None
+00159396-n	korupsi	KEEP	Y	1	Japanese
+02423183-v	biarkan	KEEP	None	None	None
+00983123-v	number	KEEP	X	None	None
+05870055-n	salah	KEEP	Y	1	English
+15203791-n	60 tahun	KEEP	None	1	Polish
+08963369-n	malaya	KEEP	None	2	Portuguese, Greek
+03176763-n	perbelanjaan	KEEP	None	1	English
+00789448-v	pesanlah	KEEP	None	None	None
+90000229-n	food in translation	KEEP	None	None	None
+09004068-n	moskow	KEEP	X	1	Japanese
+00112009-r	mungkin	KEEP	None	None	None
+07557434-n	hidangan	KEEP	O	1	English
+14539268-n	pengamanan	KEEP	O	1	English
+00120796-v	mempunyai	DELETE	O	None	None
+00630380-v	merenung	KEEP	Y	None	None
+01586342-a	sedap	KEEP	O	None	None
+01590115-a	bangsawan	KEEP	O	None	None
+02735688-n	teras	KEEP	None	1	Finnish
+06414372-n	sekolah buku pelajaran	KEEP	None	1	Polish
+02020590-v	membuatkan	DELETE	O	None	None
+01889256-a	bangga	KEEP	Y	None	None
+02402825-v	mengalengkan	DELETE	O	None	None
+01044533-v	gumam	KEEP	None	None	None
+07149836-n	tawar	KEEP	Y	1	English
+05217168-n	fisik	KEEP	None	1	English
+10307234-n	warga	KEEP	Y	1	English
+00667822-a	sedang	KEEP	O	None	None
+80001383-n	fenghuang	KEEP	None	None	None
+14429382-n	peringkat	KEEP	O	1	English
+02677567-v	melibatkan	KEEP	O	None	None
+07911677-n	cocktail	KEEP	X	2	English, Spanish
+02607830-v	terbentang	KEEP	O	None	None
+04099175-n	roket	KEEP	O	1	English
+01755024-a	abadi	KEEP	Y	None	None
+02953673-n	kanvas	KEEP	Y	1	English
+07867421-n	fondue	KEEP	M	3	Polish, Japanese, Portuguese
+02648110-v	berlangsung	KEEP	O	None	None
+07663899-n	perkedel	DELETE	None	1	English
+77000012-n	saya	KEEP	None	None	None
+10077593-n	penggila	KEEP	None	1	Spanish
+06802571-n	orang yg mendahului	DELETE	X	1	English
+90000330-n	kuih bom	KEEP	None	None	None
+10123711-n	lelaki	DELETE	O	1	English
+03544360-n	rumah	KEEP	Y	1	Portuguese
+13988224-n	pencerahan	KEEP	O	1	Finnish
+02652494-v	menginap	KEEP	O	None	None
+02567147-v	melanggar	KEEP	O	None	None
+00005526-v	mengap-mengap	KEEP	None	None	None
+07859284-n	gula	KEEP	Y	1	English
+01664172-v	siap	DELETE	O	None	None
+00138611-r	agaknya	KEEP	O	None	None
+90000417-n	nasi	KEEP	None	None	None
+08377085-n	perjalanan	KEEP	O	1	Spanish
+02824448-n	lonceng	KEEP	O	1	Finnish
+00019339-r	senantiasa	KEEP	L	None	None
+01725051-v	bermain	KEEP	Y	None	None
+00017881-r	begitu	KEEP	None	None	None
+01728919-a	lalu	KEEP	O	None	None
+09358226-n	bulan	KEEP	Y	1	English
+01475953-v	terlepas	KEEP	O	None	None
+01031256-v	dikirimkan	KEEP	None	None	None
+00324878-a	bertanggung jawab	KEEP	O	None	None
+00967129-a	aneh	KEEP	Y	None	None
+02571901-v	mendengarkan	KEEP	L	None	None
+10492202-n	penarik	KEEP	None	1	English
+00159040-r	seperti	KEEP	None	None	None
+02299437-a	berbintang	KEEP	O	None	None
+00050454-v	melepaskan	KEEP	None	None	None
+00452512-v	isi	KEEP	Y	None	None
+00407420-a	bergaya	KEEP	O	None	None
+00453726-a	berpakaian	KEEP	O	None	None
+00690058-a	dalam	KEEP	Y	None	None
+01651196-a	di	DELETE	O	None	None
+01820302-v	amati	KEEP	X	None	None
+07792725-n	lobster	KEEP	O	1	Japanese
+00210446-r	lancar	KEEP	O	None	None
+00737476-v	merebut	KEEP	O	None	None
+02032227-v	tergeletak	KEEP	None	None	None
+01843380-a	diolah	KEEP	None	None	None
+07709333-n	sayur-sayuran	KEEP	O	1	English
+05060189-n	tergesa-gesa	KEEP	O	1	Finnish
+05563266-n	kaki	KEEP	Y	1	Slovene
+01428578-v	membuatkan	DELETE	O	None	None
+02512053-n	ikan	KEEP	Y	1	English
+01061017-v	mengusung	KEEP	O	None	None
+07784522-n	wolf herring	KEEP	None	1	English
+01539444-a	rendah	DELETE	O	None	None
+00668805-v	makan	DELETE	O	None	None
+07400906-n	debar	KEEP	X	1	English
+08489627-n	situ	KEEP	L	1	English
+00310666-n	tur	KEEP	O	1	English
+07885223-n	minum	DELETE	O	1	English
+01181902-n	tindakan	KEEP	Y	1	English
+00005718-a	tak terbatas	KEEP	X	None	None
+10801291-n	penulis	KEEP	O	1	English
+00340133-r	harafiah	KEEP	None	None	None
+02207206-v	dibeli	KEEP	None	None	None
+07015510-n	komedi	KEEP	Y	1	English
+00305821-r	larut	KEEP	L	None	None
+03313602-n	wajah	KEEP	O	1	English
+00081836-n	shopping	KEEP	X	1	English
+00249736-r	di sampingnya	DELETE	X	None	None
+90000524-n	mid-autumn	KEEP	None	None	None
+00744916-a	ditandingi	KEEP	None	None	None
+00734054-v	membilangkan	DELETE	O	None	None
+10340312-n	musisi	KEEP	O	1	English
+00002684-n	barang	KEEP	Y	1	Finnish
+00903894-a	yang utama	KEEP	X	None	None
+01104026-a	khusus	KEEP	Y	None	None
+13778671-n	tempat parkir	KEEP	O	1	Portuguese
+00312553-n	perjalanan	KEEP	O	1	English
+11106943-n	calvin klein	KEEP	None	1	English
+01749320-a	tepat	KEEP	None	None	None
+08337324-n	lembaga	KEEP	O	1	English
+01038666-v	bercakap-cakap	KEEP	O	None	None
+00077645-a	ngeri	KEEP	None	None	None
+07577144-n	ikan goreng	KEEP	X	None	None
+02931826-a	malam	KEEP	O	None	None
+00770437-v	memperoleh	DELETE	O	None	None
+02097480-a	menggoda	KEEP	O	None	None
+00394813-v	adun	DELETE	Y	None	None
+00243918-n	pematangan	KEEP	None	1	English
+01821132-v	terpaku	KEEP	O	None	None
+07762913-n	durian	KEEP	L	1	English
+00147272-r	jadi	KEEP	O	None	None
+00319886-v	panggang	KEEP	None	None	None
+01021973-v	tentukan	KEEP	X	None	None
+00524682-v	menganut	DELETE	O	None	None
+00618377-a	panggang	KEEP	O	None	None
+14915184-n	es	KEEP	X	1	Finnish
+02717472-v	menjuntai	KEEP	O	None	None
+00108479-r	kemari	KEEP	None	None	None
+01539063-v	meresapi	KEEP	O	None	None
+01886620-a	terbuka	KEEP	O	None	None
+13659760-n	km/jam	KEEP	None	1	Polish
+02964782-a	china	KEEP	None	None	None
+08761697-n	zealand	KEEP	X	3	Polish, English, Portuguese
+03949442-n	pertambangan	KEEP	None	1	English
+14515463-n	area	KEEP	None	1	Finnish
+00264386-v	kembang	KEEP	O	None	None
+90000037-n	Geylang Lor	KEEP	None	None	None
+09686401-n	eurasia	KEEP	None	1	English
+02130524-v	melihat	KEEP	O	None	None
+02077656-v	mengarik	DELETE	O	None	None
+90000162-n	singapore sun festival	KEEP	None	None	None
+08633683-n	area	KEEP	None	1	English
+00341560-v	pergilah	KEEP	X	None	None
+11525955-n	angin	KEEP	Y	1	English
+05121908-n	banyak	KEEP	None	None	None
+13134947-n	buah-buahan	KEEP	Y	1	English
+00143201-s	dengan tangan hampa	KEEP	None	None	None
+00050195-n	tampil	KEEP	None	1	English
+00514884-a	keseluruhan	KEEP	Y	None	None
+01361863-a	sedih	KEEP	Y	None	None
+02526085-v	menjayakan	DELETE	Y	None	None
+00331950-n	gerak	KEEP	Y	1	English
+08969291-n	maroko	KEEP	X	1	Polish
+07585474-n	kaldu	KEEP	O	None	None
+01445932-v	gigit	KEEP	O	None	None
+00128168-r	biasa	KEEP	None	None	None
+08588152-n	di dalam	DELETE	X	1	English
+05933246-n	panorama	KEEP	O	1	English
+09975425-n	seniman	KEEP	O	2	English, Portuguese
+10444194-n	penyair	KEEP	Y	1	English
+07781801-n	cumi	KEEP	X	1	English
+00059171-r	sangat banyak	KEEP	X	None	None
+06526619-n	konsesi	KEEP	O	1	English
+00774006-a	bercampur-campur	KEEP	X	None	None
+05915811-n	feng	KEEP	None	None	None
+80001040-n	Topshop	DELETE	None	None	None
+05750948-n	potongan	KEEP	O	1	English
+15144094-n	keabadian	KEEP	O	1	Slovene
+07668702-n	siomay	KEEP	None	1	Polish
+04272054-n	kacamata	KEEP	O	1	English
+02931013-n	kereta	KEEP	None	1	English
+00927017-a	ada	KEEP	O	None	None
+06589574-n	publikasi	KEEP	X	1	Spanish
+08622950-n	keadaan	DELETE	O	1	Portuguese
+00916274-v	gertak	KEEP	None	None	None
+06739990-n	sebab	KEEP	Y	1	English
+13749644-n	50	KEEP	None	1	English
+08622950-n	tapak	DELETE	O	1	Portuguese
+01044557-a	kasual	KEEP	O	None	None
+01586342-a	menarik	KEEP	Y	None	None
+02269635-a	setiap	KEEP	L	None	None
+01726172-v	bermain	KEEP	O	None	None
+00624026-a	ramai	KEEP	O	None	None
+90000311-n	Hari Waisak	KEEP	None	None	None
+06770875-n	ketentuan	KEEP	None	1	English
+01675963-v	didekorasi	KEEP	None	None	None
+03716656-n	buddhis	KEEP	None	3	Finnish, English, Portuguese
+00306314-a	bisa	KEEP	None	None	None
+05844105-n	bentuk	KEEP	O	1	Portuguese
+01387319-a	luas	KEEP	O	None	None
+02300501-a	penuh	KEEP	Y	None	None
+90000168-n	the rice table	KEEP	None	None	None
+80002009-n	buah keluak	KEEP	None	None	None
+01067193-a	jarang	KEEP	O	None	None
+90000005-n	audi fashion festival	KEEP	None	None	None
+03519981-n	jalan utama	KEEP	None	1	Portuguese
+08642632-n	kehadiran	KEEP	O	1	Spanish
+06303888-n	istilah	KEEP	Y	1	Portuguese
+04530566-n	kapal	KEEP	Y	1	Portuguese
+04664314-n	pencegahan	KEEP	O	1	English
+02856463-n	papan	KEEP	O	1	Finnish
+13747469-n	15	KEEP	None	1	English
+01076634-a	sosial	KEEP	O	None	None
+00022131-r	sama	KEEP	O	None	None
+02075857-v	menuju	KEEP	None	None	None
+90000030-n	festival musik mosaic	KEEP	None	None	None
+07578879-n	sesendok	KEEP	None	1	English
+05711915-n	lagu	KEEP	O	1	English
+01315613-v	carilah	KEEP	None	None	None
+00953216-v	menceritakan	KEEP	Y	None	None
+03878066-n	kastil	KEEP	L	1	Greek
+03800563-n	million	KEEP	None	1	Polish
+80000823-r	waktu	KEEP	None	None	None
+00976953-n	serangan	KEEP	Y	1	Greek
+08430568-n	garis	DELETE	O	1	Thai
+02327200-v	memperaboti	DELETE	X	None	None
+01995949-v	telusurilah	KEEP	X	None	None
+01185604-v	makan	DELETE	O	None	None
+01389451-a	besar-besaran	KEEP	O	None	None
+02176178-a	kompleks	KEEP	Y	None	None
+80000289-n	otah	KEEP	None	None	None
+00522751-v	dapatkan	KEEP	X	None	None
+02957469-a	jerman	KEEP	None	None	None
+15043763-n	salju	KEEP	O	1	English
+13963970-n	menikah	KEEP	None	1	English
+04228054-n	ski	KEEP	Y	1	English
+02389220-a	liar	KEEP	Y	None	None
+02198409-a	300	KEEP	None	None	None
+00884466-n	kelas	KEEP	Y	1	Portuguese
+02486932-v	temukan	KEEP	X	None	None
+03799710-n	mural	KEEP	O	2	English, Greek
+02743214-v	berasal dari	KEEP	X	None	None
+00542099-a	tersebar	KEEP	L	None	None
+00579084-a	menonjol	KEEP	O	None	None
+02620587-v	meliputi	DELETE	O	None	None
+01473083-a	kecil	KEEP	O	None	None
+08594286-n	talian	DELETE	None	1	English
+01815838-a	kenal	KEEP	None	None	None
+01593649-a	biasa	KEEP	Y	None	None
+02295998-a	lazim	DELETE	Y	None	None
+02072849-v	lalu	KEEP	Y	None	None
+09397607-n	kolam	KEEP	O	1	English
+05217168-n	jasmani	KEEP	O	1	English
+09052652-n	utara	KEEP	O	1	Japanese
+15249096-n	ini	KEEP	O	None	None
+04161981-n	kursi	KEEP	O	1	Finnish
+05269901-n	tulang	KEEP	Y	1	English
+13763384-n	yang terendah	KEEP	X	3	English, Polish, Spanish
+00249736-r	di sebelahnya	DELETE	X	None	None
+01893988-v	alih	KEEP	Y	None	None
+02198752-a	ribu	KEEP	O	None	None
+01919931-a	hiruk-pikuk	KEEP	None	None	None
+80001230-x	iya	KEEP	None	None	None
+02936020-a	sebagai	KEEP	O	None	None
+13129165-n	batang	KEEP	O	1	English
+01214265-v	membawa	DELETE	O	None	None
+00875141-v	anjurkan	KEEP	None	None	None
+02793199-n	kapal laut	KEEP	X	1	English
+09211266-n	australia	KEEP	None	1	Polish
+01410223-v	memukul	KEEP	O	None	None
+00177547-a	keemasan	KEEP	O	None	None
+01261293-n	seru	KEEP	None	1	English
+00725274-v	mengejutkan	KEEP	O	None	None
+00048138-r	akhir	KEEP	None	None	None
+03234306-n	lukisan	KEEP	Y	1	Portuguese
+00734054-v	mengambil	KEEP	O	None	None
+04326084-n	batu	KEEP	O	1	Slovene
+90000306-n	Pongal	KEEP	None	None	None
+02089420-v	bolak-balik	KEEP	None	None	None
+02025274-a	mewah	KEEP	O	None	None
+13772020-n	secentong	KEEP	None	1	Finnish
+07970406-n	neluarga	KEEP	None	2	English, Spanish
+13547925-n	pengisian ulang	KEEP	X	1	English
+01482330-n	shark's	KEEP	None	1	Slovene
+07574426-n	makanan ringan	KEEP	O	None	None
+00120095-r	bersamaan	KEEP	M	None	None
+00664110-n	perawatan	KEEP	O	1	English
+03087088-a	mongolia	KEEP	None	None	None
+00011093-r	baik-baik	KEEP	O	None	None
+04334599-n	jalanan	KEEP	None	1	English
+03924811-n	fotokopi	KEEP	O	1	English
+03124541-a	kain	KEEP	O	None	None
+02349604-a	bawah	KEEP	O	None	None
+06598915-n	isi	KEEP	L	1	Finnish
+02261642-v	dijamu	KEEP	None	None	None
+07412478-n	kilat	KEEP	O	1	English
+05817145-n	perkenalan	KEEP	O	1	English
+00959827-v	berarti	KEEP	None	None	None
+04930478-n	tata tertib	DELETE	O	1	Japanese
+13961399-n	hidup	KEEP	Y	1	Finnish
+05792192-n	daya	KEEP	O	1	Finnish
+10411551-n	penjaja	KEEP	Y	1	English
+00081486-r	setiap hari	KEEP	X	None	None
+00032863-r	sejak	KEEP	None	None	None
+00378664-v	membakar	KEEP	O	None	None
+05563770-n	tangan	KEEP	Y	1	English
+01564144-v	menjatuhkan	DELETE	O	None	None
+00158309-r	itulah	KEEP	None	None	None
+05238282-n	kulit	KEEP	Y	1	English
+02238085-v	meraih	DELETE	O	None	None
+90000163-n	sultan mosque	KEEP	None	None	None
+02935658-n	kafe	KEEP	Y	1	Polish
+00173338-v	mengganjur	DELETE	O	None	None
+05941423-n	kepercayaan	KEEP	Y	1	Portuguese
+09416076-n	bebatuan	KEEP	None	1	Portuguese
+01191645-v	asyik	KEEP	Y	None	None
+03800933-n	instrumen	KEEP	X	1	English
+01216004-v	menggenggam	KEEP	O	None	None
+00758333-v	membawa	DELETE	O	None	None
+00033615-n	jumlah	KEEP	O	1	English
+01962671-v	menyelam	KEEP	O	None	None
+02647497-v	buyar	DELETE	O	None	None
+02778669-n	bola	KEEP	Y	1	Spanish
+02678839-v	memukau	KEEP	Y	None	None
+00012267-v	membuat	KEEP	O	None	None
+03670849-n	barisan	DELETE	O	1	Spanish
+06880664-n	perlambang	KEEP	O	1	Thai
+02236124-v	bersetuju	DELETE	O	None	None
+00586262-n	kubu	DELETE	O	1	English
+02964389-n	kargo	KEEP	O	1	Spanish
+02070342-a	berbeda-beda	KEEP	None	None	None
+00029367-r	bahkan	KEEP	O	None	None
+07400156-n	siulan	KEEP	O	1	English
+00065639-v	mengadakan	DELETE	O	None	None
+07293180-n	layanan	KEEP	O	1	English
+01192510-v	nikmati	KEEP	X	None	None
+05584265-n	kuku	KEEP	O	1	Slovene
+02587532-v	mengurus	DELETE	O	None	None
+01643620-a	usia	DELETE	O	None	None
+01326528-v	meruntuhkan	DELETE	O	None	None
+90000031-n	festival tiongchupia	KEEP	None	None	None
+02342899-a	baik sekali	DELETE	X	None	None
+02210855-v	dapat	KEEP	Y	None	None
+80000982-n	313@Somerset	KEEP	None	None	None
+07498455-n	rasa	KEEP	None	None	None
+03757138-n	mrt	KEEP	None	1	English
+00699207-a	asli	KEEP	O	None	None
+00922051-a	glamor	KEEP	O	None	None
+10097705-n	penjual bunga	KEEP	X	2	English, Spanish
+02681795-v	terjaga	KEEP	None	None	None
+01918984-a	hening	KEEP	O	None	None
+02418686-v	bermain	KEEP	Y	None	None
+15166191-n	sore hari	KEEP	X	1	English
+01664172-v	memasak	KEEP	Y	None	None
+09532942-n	buddha	KEEP	None	1	English
+13769033-n	sekuali	KEEP	None	1	English
+13937075-n	keadaan	KEEP	O	1	Spanish
+02267989-v	memenuhi	DELETE	O	None	None
+02366927-a	reguler	KEEP	None	None	None
+15244200-n	sepanjang hari	KEEP	X	None	None
+00348953-n	jangkauan	KEEP	None	1	English
+11410625-n	hasil	KEEP	O	1	English
+08702805-n	negara amerika utara	KEEP	X	None	None
+00676714-v	memilih	KEEP	O	None	None
+10918558-n	curtis	KEEP	None	1	English
+00021265-n	hara	KEEP	None	1	English
+01552885-a	sedikit	KEEP	None	None	None
+01982395-v	membutuhkan	DELETE	O	None	None
+02224055-v	melepas	KEEP	O	None	None
+02434976-v	ikut	KEEP	None	None	None
+03289268-n	ukiran	KEEP	O	1	Spanish
+02024928-a	mewah	KEEP	O	None	None
+02267989-v	membawa	DELETE	O	None	None
+00011093-r	baik	KEEP	O	None	None
+02004874-v	kembali	KEEP	Y	None	None
+07460546-n	maraton	KEEP	Y	1	Polish
+01714208-v	dibawakan	KEEP	X	None	None
+01675190-a	mengagumkan	KEEP	Y	None	None
+09885145-n	pembelanja	KEEP	None	1	Japanese
+01422556-a	secara langsung	KEEP	X	None	None
+00766457-a	tidak langsung	KEEP	X	None	None
+02126430-a	berlokasi	KEEP	O	None	None
+02624263-v	bangun	KEEP	Y	None	None
+01027174-v	mengepil	DELETE	O	None	None
+02088883-s	rahasia	KEEP	None	None	None
+02359464-a	luar biasa	KEEP	Y	None	None
+08663354-n	atas	KEEP	Y	1	English
+01391351-a	kecil	KEEP	Y	None	None
+03740161-n	obat	KEEP	None	1	English
+08502171-n	langit	KEEP	O	1	English
+02210119-v	menampung	KEEP	O	None	None
+01590484-a	bangsawan	KEEP	O	None	None
+01761706-v	membangkitkan	KEEP	O	None	None
+04202417-n	belanja	KEEP	None	1	English
+03427296-n	pagar	KEEP	Y	1	Finnish
+08372411-n	masyarakat	DELETE	O	1	English
+08646566-n	panggung	KEEP	L	1	English
+01767329-a	pribadi	KEEP	O	None	None
+03671473-n	garis lurus	DELETE	X	1	Spanish
+09449949-n	anak benua	KEEP	X	None	None
+02248465-v	menemukan	KEEP	O	None	None
+00246296-r	sekadar	KEEP	O	None	None
+07064715-n	rock	KEEP	None	1	Slovene
+01386883-a	besar	KEEP	O	None	None
+01148283-a	suka	KEEP	O	None	None
+00110533-r	kiri	DELETE	O	None	None
+01664172-v	menyediakan	KEEP	Y	None	None
+02192469-a	63	KEEP	None	None	None
+07942152-n	umat	KEEP	Y	1	English
+03990474-n	poci	KEEP	None	1	English
+01270486-a	cepat	KEEP	O	None	None
+02329413-v	loket	KEEP	None	None	None
+00611481-v	diperingati	KEEP	None	None	None
+02737876-v	tempat	DELETE	O	None	None
+01182709-v	memberi	KEEP	O	None	None
+00662589-v	memastikan	KEEP	O	None	None
+13270038-n	sumbang	KEEP	None	1	Spanish
+00228294-a	pertama	KEEP	O	None	None
+01494310-v	memasukan	KEEP	None	None	None
+00701877-v	memutuskan	KEEP	Y	None	None
+07515560-n	ketenangan	KEEP	O	1	Spanish
+76100081-x	butir	KEEP	None	None	None
+00065639-v	memperoleh	DELETE	O	None	None
+06599788-n	hal	KEEP	Y	1	English
+01117723-n	sale	KEEP	None	1	English
+00598954-v	melihat	KEEP	O	None	None
+03405595-n	perhiasan	KEEP	O	None	None
+00812526-n	pegangan	KEEP	O	1	English
+00953127-a	dalam rumah	DELETE	X	None	None
+02003357-a	buka	KEEP	L	None	None
+05936561-n	paduan	KEEP	O	1	English
+00017445-r	sampai	KEEP	None	None	None
+00751567-v	memaksa	DELETE	O	None	None
+10432532-n	peziarah	KEEP	None	1	English
+90000186-n	robertson walk	KEEP	None	None	None
+10230736-n	anak	KEEP	O	1	English
+00950592-a	isi	DELETE	O	None	None
+00176981-r	berkali-kali	KEEP	None	None	None
+01678729-a	istimewa	KEEP	O	None	None
+00053004-r	baik	KEEP	L	None	None
+01664172-v	membagar	DELETE	O	None	None
+02921592-n	air	DELETE	O	None	None
+02235842-v	memberi	KEEP	O	None	None
+01580968-a	perlu	KEEP	O	None	None
+03800563-n	museum	KEEP	O	1	Polish
+15098161-n	kayu	KEEP	Y	1	Polish
+04677514-n	berbentuk	DELETE	O	1	English
+05931827-n	kaleidoskop	KEEP	None	1	English
+00375969-a	hijau	KEEP	O	None	None
+13985818-n	semangat	KEEP	Y	1	Greek
+01643480-a	muda	KEEP	L	None	None
+01843689-v	berkunjung	KEEP	O	None	None
+00786195-n	usaha	KEEP	Y	1	English
+90000166-n	Teater Ekamatra	KEEP	None	None	None
+07555863-n	hidangan	KEEP	L	1	English
+01999798-v	membentuk	DELETE	O	None	None
+02460502-a	benar	KEEP	Y	None	None
+07557434-n	persantapan	DELETE	O	1	English
+02599636-v	jadi	DELETE	O	None	None
+01398919-v	memukul-mukulkan	KEEP	None	None	None
+10291240-n	model	KEEP	Y	1	Slovene
+05096095-n	super-besar	KEEP	None	1	Finnish
+01824736-v	bagai	DELETE	O	None	None
+00943837-v	tunjukkan	KEEP	X	None	None
+00166025-r	lama	KEEP	O	None	None
+01824736-v	ingin	KEEP	O	None	None
+01456710-a	bunting	DELETE	O	None	None
+02452885-v	menghindari	KEEP	Y	None	None
+01595312-a	lazim	DELETE	O	None	None
+90000181-n	India Utara	KEEP	None	None	None
+02984781-a	korporat	KEEP	Y	None	None
+00156222-r	omong	KEEP	None	None	None
+00403385-a	pekat	KEEP	O	None	None
+00184117-v	mencampur	KEEP	O	None	None
+02302817-v	menjajakan	KEEP	O	None	None
+08651247-n	situs	KEEP	None	1	English
+00713558-a	yang mendesak	KEEP	X	None	None
+08429167-n	rombongan	KEEP	O	1	English
+07970406-n	keluarga	KEEP	O	2	English, Spanish
+80000986-n	metro	KEEP	None	None	None
+02331262-a	berhasil	KEEP	O	None	None
+06892016-n	aksi	KEEP	None	1	Greek
+07802417-n	sereal	KEEP	None	1	Greek
+02694677-v	mahkota	KEEP	L	None	None
+00120796-v	mengalami	DELETE	O	None	None
+02702508-v	senilai	KEEP	None	None	None
+03299261-n	dan sebagainya	KEEP	X	None	None
+13743269-n	dua	KEEP	O	1	Portuguese
+02568672-v	berbuat	DELETE	O	None	None
+05129565-n	jauhnya	KEEP	None	1	Finnish
+00081737-r	setiap tahun	KEEP	X	None	None
+10476086-n	banduan	DELETE	None	1	English
+02154508-v	deteksi	KEEP	None	None	None
+02337558-a	kurang	KEEP	O	None	None
+80000681-x	hai	KEEP	None	None	None
+05035353-n	tenaga	KEEP	O	1	Greek
+01150559-v	ditujukan	KEEP	None	None	None
+00173338-v	mengeluarkan dari	DELETE	X	None	None
+05127640-n	kebebasan	KEEP	O	1	English
+07186828-n	permohonan	KEEP	O	1	English
+00668366-a	baru	KEEP	None	None	None
+00699815-v	menetapkan	KEEP	O	None	None
+02686471-v	berangkat	DELETE	O	None	None
+00065639-v	dapat	DELETE	O	None	None
+00089408-r	sangat	KEEP	O	None	None
+90000065-n	marine life	KEEP	None	None	None
+80000337-n	maxwell	KEEP	None	None	None
+13265011-n	oleh-oleh	KEEP	O	1	Polish
+04076846-n	representasi	KEEP	None	1	Portuguese
+00103194-r	mula	KEEP	None	None	None
+01434717-a	jauh	KEEP	O	None	None
+02006834-v	tiba	DELETE	O	None	None
+01654628-v	membuat	KEEP	O	None	None
+00381097-a	merah gincu	DELETE	X	None	None
+01821132-v	tercekam	KEEP	None	None	None
+13353280-n	kekayaan	KEEP	Y	1	Spanish
+01410606-a	demen	DELETE	O	None	None
+13747725-n	17	KEEP	None	1	Finnish
+08506641-n	medan pertempuran	KEEP	O	1	English
+01020356-v	menuliskan	KEEP	O	None	None
+00720063-v	menantikan	KEEP	O	None	None
+05703429-n	perhatikan	KEEP	X	1	English
+05913842-n	pilar	KEEP	L	1	English
+01946996-v	mendayung	KEEP	O	None	None
+00705891-a	halus	KEEP	Y	None	None
+09908025-n	pemuda	DELETE	O	1	Finnish
+04606014-n	kalungan bunga	KEEP	X	1	English
+90000328-n	hari raya	KEEP	None	None	None
+00648224-v	menelusuri	KEEP	O	None	None
+09604981-n	diri	KEEP	L	1	English
+03385557-n	kubu	KEEP	O	1	Finnish
+08642517-n	dekat	KEEP	O	1	Spanish
+02664769-v	mempunyai ukuran	DELETE	X	None	None
+00770437-v	memiliki	DELETE	O	None	None
+13744521-n	5	KEEP	None	1	English
+09979321-n	kritikus	KEEP	Y	1	Slovene
+02075857-v	memasukkan	DELETE	O	None	None
+00306314-a	mampu	KEEP	Y	None	None
+09063673-n	los angeles	KEEP	None	1	Japanese
+00227507-a	hebat	KEEP	None	None	None
+01640550-v	didesain	KEEP	None	None	None
+09952539-n	direktur	KEEP	X	1	Spanish
+09065557-n	san francisco	KEEP	None	1	Japanese
+03183080-n	alat	KEEP	O	1	English
+80000385-n	bugis	KEEP	None	None	None
+07996689-n	set	KEEP	Y	1	English
+08683548-n	hutan	KEEP	Y	1	English
+01740892-a	damai	KEEP	Y	None	None
+05839024-n	rupa bentuk	DELETE	None	1	English
+08593262-n	dawai	DELETE	O	1	Spanish
+01367431-a	festival	KEEP	None	None	None
+00756638-a	susu	KEEP	O	None	None
+10290541-n	maniak	KEEP	None	1	English
+02730471-v	terasa	KEEP	O	None	None
+90000179-n	five star hainanese chicken rice	KEEP	None	None	None
+02297409-v	tawarkan	KEEP	L	None	None
+02873839-n	kedai	KEEP	O	1	Spanish
+00488187-a	khusus	KEEP	L	None	None
+07882497-n	campuran	KEEP	O	1	Slovene
+00183053-a	tersedia	KEEP	Y	None	None
+01108716-a	teknis	KEEP	O	None	None
+05840076-n	macam	KEEP	O	1	Slovene
+09786585-n	amatir	KEEP	O	1	Portuguese
+03588414-n	benda	KEEP	O	1	Finnish
+00110533-r	ke dalam	DELETE	X	None	None
+01320424-v	memanen	KEEP	O	None	None
+01663749-v	baked	KEEP	None	None	None
+08627919-n	kawasan	KEEP	O	1	English
+05751794-n	culture	KEEP	None	2	English, Spanish
+00325208-v	oseng-oseng	KEEP	None	None	None
+01807799-a	cantik	KEEP	O	None	None
+13562133-n	penyimpanan	KEEP	O	1	English
+01898722-a	praktis	KEEP	O	None	None
+01531957-a	medium	DELETE	O	None	None
+13844923-n	pendahulu	KEEP	O	1	Finnish
+00182406-v	masukkan	KEEP	X	None	None
+02233704-v	download	KEEP	None	None	None
+00109151-r	di sana	KEEP	O	None	None
+02110220-v	mengalami	KEEP	O	None	None
+01515280-a	aktif	KEEP	O	None	None
+00082241-a	agresif	KEEP	Y	None	None
+04295881-n	bowl	KEEP	None	1	Polish
+14375890-n	ketegangan	KEEP	O	1	English
+01638962-a	purba	KEEP	O	None	None
+02207105-a	ke 41	KEEP	None	None	None
+04299215-n	warung	KEEP	Y	1	English
+02870092-n	buku	KEEP	Y	1	English
+00087423-n	hibah	KEEP	None	1	Spanish
+80002384-a	tandori	KEEP	None	None	None
+00920336-v	mengetahui	KEEP	O	None	None
+15165490-n	siang	KEEP	O	1	English
+00597915-v	ketahui	KEEP	None	None	None
+04468005-n	keretapi	KEEP	X	1	Portuguese
+02869563-a	melihat	KEEP	Y	None	None
+01982395-v	membawa	DELETE	O	None	None
+07827284-n	kunyit	KEEP	O	1	English
+00524682-v	meluwengkan	DELETE	O	None	None
+05750657-n	gaya	KEEP	Y	1	English
+01256157-v	ukir	KEEP	O	None	None
+00348746-v	mulai	KEEP	Y	None	None
+03484083-n	kereta	KEEP	O	1	English
+00047534-r	juga	KEEP	O	None	None
+02372605-v	melalui	KEEP	O	None	None
+06635509-n	isi	KEEP	O	1	Portuguese
+04710127-n	kerasnya	KEEP	X	1	English
+02755017-v	membendung	DELETE	O	None	None
+00024587-r	bukan	DELETE	O	None	None
+07577374-n	kudapan	KEEP	X	1	English
+02222318-v	membuang	KEEP	O	None	None
+00522463-a	lengkap	KEEP	O	None	None
+02685951-v	membuyarkan	DELETE	O	None	None
+02468635-a	klasik	KEEP	Y	None	None
+00345761-v	memulai	KEEP	None	None	None
+01029406-n	upacara	KEEP	O	1	Finnish
+01326528-v	menengkarapkan	DELETE	O	None	None
+08558963-n	rumah	KEEP	Y	1	Portuguese
+07804323-n	padi	DELETE	Y	1	Portuguese
+14965501-n	seluloid	KEEP	O	None	None
+02186750-a	kelima	KEEP	None	None	None
+13931145-n	persahabatan	KEEP	Y	4	Polish, Finnish, English, Portuguese
+08187033-n	rombongan	KEEP	Y	1	English
+05891783-n	dugaan	KEEP	O	1	Polish
+00008600-r	cuma	KEEP	O	None	None
+02238085-v	mendapat	DELETE	Y	None	None
+77000029-n	mereka	DELETE	None	None	None
+13750415-n	ratus,ratus	DELETE	X	1	Spanish
+02491851-v	berpestalah	KEEP	None	None	None
+90000141-n	joo chiat road	KEEP	None	None	None
+00406243-v	bersiap	KEEP	O	None	None
+07879450-n	sushi	KEEP	X	3	Japanese, English, Portuguese
+03313333-n	teras	KEEP	None	2	English, Spanish
+10112591-n	kawan	KEEP	O	1	Spanish
+07669098-n	babi kecil	KEEP	X	1	Greek
+01733477-v	percantik	KEEP	None	None	None
+02620587-v	makhluk	DELETE	O	None	None
+01326528-v	menumpas	DELETE	O	None	None
+00484892-v	menyelesaikan	KEEP	O	None	None
+03365592-n	lantai	KEEP	Y	1	Polish
+01925372-a	wajar	KEEP	O	None	None
+90000181-n	india utara	KEEP	None	None	None
+02511528-a	keras	KEEP	O	None	None
+02161982-a	besar	KEEP	O	None	None
+80000945-x	wah	KEEP	None	None	None
+01777210-v	sebagai	DELETE	O	None	None
+01793812-a	sederhana	KEEP	O	None	None
+02102840-v	berpetualang	KEEP	X	None	None
+05930736-n	berbentuk	DELETE	O	1	Slovene
+00181676-r	luar negeri	KEEP	O	None	None
+14480065-n	fasa	DELETE	None	1	Slovene
+07846471-n	susu kental manis	KEEP	X	None	None
+02208265-v	dapat	DELETE	O	None	None
+15249636-n	generasi	KEEP	O	1	English
+01941093-v	terbang	KEEP	O	None	None
+01099536-a	tertentu	KEEP	Y	None	None
+08665504-n	kota	KEEP	Y	1	English
+08497294-n	kawasan	KEEP	O	1	Finnish
+00309115-n	pelayaran	KEEP	O	1	Japanese
+01090335-v	gaduh	KEEP	Y	None	None
+02614387-v	tinggal	KEEP	O	None	None
+90000022-n	cotton on	KEEP	None	None	None
+00100002-r	sedikit	KEEP	None	None	None
+00406243-v	bersiaplah	KEEP	X	None	None
+01224744-v	dioperasikan	KEEP	X	None	None
+04527648-n	beranda	KEEP	Y	1	English
+01999798-v	berpimpin	DELETE	Y	None	None
+02140033-v	tampilkan	KEEP	X	None	None
+00230033-v	menambahkan	KEEP	Y	None	None
+10550673-n	santa klaus	KEEP	None	1	English
+90000299-n	nyonya baba	KEEP	None	None	None
+02075857-v	membutuhkan	DELETE	O	None	None
+02897820-n	bata	KEEP	O	1	English
+00027384-r	tetap	KEEP	O	None	None
+03581125-n	persimpangan	KEEP	Y	2	English, Spanish
+01233156-n	kunjungilah	KEEP	X	1	Greek
+09433442-n	pantai	KEEP	O	1	English
+06329734-n	masa sekarang	KEEP	X	1	English
+03282933-n	sulaman	KEEP	O	1	English
+08054417-n	hospital	KEEP	O	1	Spanish
+15120050-n	sekarang ini	KEEP	X	1	English
+01856066-a	dasar	KEEP	O	None	None
+01999798-v	jadi	DELETE	O	None	None
+00027384-r	namun	KEEP	O	None	None
+06410904-n	kitab	KEEP	Y	1	Portuguese
+01696648-v	warna	KEEP	O	None	None
+09416076-n	batu	KEEP	Y	1	Portuguese
+00075021-v	melelahkan	KEEP	O	None	None
+11412727-n	perubahan	KEEP	O	1	Slovene
+01664172-v	menjadikan	DELETE	O	None	None
+02304507-v	jatuh	KEEP	O	None	None
+01027174-v	menyesuaikan	DELETE	O	None	None
+01212867-a	bawah	KEEP	O	None	None
+01621555-v	buat	KEEP	X	None	None
+00343226-a	nasib	KEEP	O	None	None
+00406243-v	menyediakan	KEEP	O	None	None
+76100095-x	unit	KEEP	None	None	None
+00031921-n	hubungan	KEEP	O	1	English
+02614181-v	adalah	DELETE	O	None	None
+06878071-n	senyuman	KEEP	Y	1	English
+01060494-v	memberi	KEEP	O	None	None
+08539717-n	pemukiman	KEEP	O	1	Spanish
+00118523-v	berlangsung	KEEP	O	None	None
+07997703-n	kelas	KEEP	O	2	English, Spanish
+05839024-n	berbentuk	KEEP	O	1	English
+02375619-v	jarak dekat	KEEP	O	None	None
+03289268-n	pahatan	KEEP	O	1	Spanish
+07041451-n	duet	KEEP	O	1	English
+02203373-a	ke 10	KEEP	None	None	None
+00031974-a	aktif	KEEP	Y	None	None
+02106506-v	melihat	KEEP	O	None	None
+02204472-a	ke 19	KEEP	None	None	None
+02789487-n	bar	KEEP	O	1	Polish
+05861067-n	total	KEEP	L	1	English
+02898922-a	budaya	KEEP	None	None	None
+02552449-v	memulihkan	KEEP	O	None	None
+02129165-n	simha	KEEP	None	1	English
+00871942-v	menandai	KEEP	O	None	None
+80001280-v	META:NOLEX	KEEP	None	None	None
+07309599-n	11	KEEP	None	1	English
+02207206-v	belilah	KEEP	None	None	None
+00620752-n	usaha	KEEP	Y	1	English
+00616913-a	tumis	KEEP	None	None	None
+01326528-v	melalap	DELETE	O	None	None
+01103021-a	khas	KEEP	O	None	None
+02108654-v	menyambut	DELETE	O	None	None
+01567694-a	seluruh dunia	KEEP	X	None	None
+00720497-v	nantikan	KEEP	None	None	None
+01593649-a	yang biasa	KEEP	X	None	None
+02681795-v	pertahankan	KEEP	L	None	None
+14563564-n	kegelapan	KEEP	O	1	Greek
+01882170-v	berjalan-jalanlah	KEEP	X	None	None
+01676517-a	sangat	KEEP	O	None	None
+07823951-n	gulai	KEEP	Y	3	Polish, English, Portuguese
+07721456-n	pedas	KEEP	None	1	Portuguese
+80000064-n	Nusantara	KEEP	None	None	None
+09812338-n	artis	KEEP	Y	2	English, Spanish
+00038625-r	memang	KEEP	O	None	None
+00102736-r	dulu	KEEP	None	None	None
+00352127-a	berubah	KEEP	O	None	None
+08664443-n	tempat	KEEP	O	1	English
+02685951-v	mengulurkan	DELETE	O	None	None
+07185325-n	permintaan	KEEP	O	1	Portuguese
+00242976-v	menyatukan	KEEP	O	None	None
+04837425-n	laga	KEEP	Y	1	English
+00341917-v	datanglah	KEEP	None	None	None
+14049711-n	kesehatan	KEEP	O	1	Slovene
+01653873-v	dibuat	KEEP	None	None	None
+01771535-v	serasa	KEEP	None	None	None
+08647049-n	pemandangan laut	KEEP	X	None	None
+04546855-n	dinding	KEEP	Y	1	Polish
+10782940-n	pemenang	KEEP	Y	1	English
+05833840-n	ide	KEEP	Y	1	English
+00487525-a	piawai	DELETE	O	None	None
+03871524-n	kemasan	KEEP	None	1	English
+02149787-a	berbentuk	KEEP	O	None	None
+00320852-n	prakata	DELETE	O	1	Spanish
+02913152-n	esplanade	KEEP	None	1	Portuguese
+00596644-v	alami	KEEP	None	None	None
+10627082-n	nyawa	KEEP	O	1	Polish
+06892534-n	beramal	KEEP	None	None	None
+13268842-n	hadiah	KEEP	Y	1	English
+04346328-n	stupa	KEEP	O	1	English
+01156834-v	menghabiskan	KEEP	O	None	None
+00345641-n	pemutaran	KEEP	O	1	English
+12607456-n	nanas	KEEP	O	1	English
+08489497-n	disini	KEEP	X	1	English
+09530721-n	Dewa Krishna	KEEP	None	1	English
+80001305-n	suku Minangkabau	KEEP	None	None	None
+00512877-v	memungkinkan	KEEP	O	None	None
+08491027-n	alamat	KEEP	Y	1	Spanish
+00510749-r	begitu	KEEP	O	None	None
+01771839-a	lebat	KEEP	O	None	None
+00630380-v	merenungkan	KEEP	Y	None	None
+01017161-a	fit	KEEP	O	None	None
+90000124-n	city hall	KEEP	None	None	None
+00394813-v	membancuhkan	DELETE	O	None	None
+07815588-n	merica	KEEP	None	1	English
+01195299-v	mencicipi	KEEP	O	None	None
+15167027-n	malam hari	KEEP	None	1	Finnish
+05997814-n	dunia	KEEP	O	1	English
+90000027-n	drama box	KEEP	None	None	None
+02446651-a	lembut	KEEP	Y	None	None
+90000167-n	thekchen choling	KEEP	None	None	None
+07935152-n	green tea	KEEP	None	None	None
+06210791-n	sudut	KEEP	O	1	Slovene
+01728919-a	lampau	KEEP	O	None	None
+02493030-v	kunjungi	KEEP	None	None	None
+02959007-a	portugis	KEEP	None	None	None
+08249038-n	band	KEEP	X	1	English
+90000230-n	makanan khas singapura	KEEP	None	None	None
+01329830-a	dipadu	KEEP	X	None	None
+05146471-n	mewah	KEEP	O	1	English
+00345761-v	mulailah	KEEP	None	None	None
+02757316-a	bulan	KEEP	O	None	None
+10391653-n	pelukis	KEEP	Y	1	Slovene
+01326528-v	mengobrak-abrik	DELETE	X	None	None
+07578363-n	porsi	KEEP	O	1	English
+01496021-a	minimal	KEEP	O	None	None
+08459648-n	rangkaian	KEEP	O	1	English
+02397496-a	pedas	KEEP	O	None	None
+07064715-n	rock ‘n’ roll	KEEP	None	1	Slovene
+04435180-n	genting	KEEP	O	1	English
+02800675-n	tanah dalam	KEEP	X	1	Spanish
+04674715-n	wajah	KEEP	Y	1	English
+01815628-v	puaskan	KEEP	None	None	None
+00756076-v	meluwengkan	DELETE	O	None	None
+01285376-a	indah	KEEP	M	None	None
+03636248-n	lampu	KEEP	O	1	Portuguese
+77000139-n	kita	KEEP	None	None	None
+00377906-v	lezat	KEEP	None	None	None
+01385255-a	sangat besar	KEEP	X	None	None
+02561332-v	gunakan	KEEP	X	None	None
+01640855-v	menjalankan	KEEP	O	None	None
+01392249-a	kecil	KEEP	L	None	None
+13911872-n	titik	KEEP	Y	1	English
+02614387-v	hidup	KEEP	O	None	None
+00021878-r	terkadang	KEEP	Y	None	None
+00120223-r	sembari	KEEP	Y	None	None
+02140965-v	melayang	KEEP	O	None	None
+08431437-n	deretan	KEEP	Y	1	English
+01171183-v	mereguk	KEEP	O	None	None
+10363913-n	pemula	KEEP	O	1	Spanish
+09834699-n	penari balet	KEEP	X	1	Portuguese
+10153865-n	gym	KEEP	None	None	None
+08186047-n	layanan	KEEP	L	1	English
+01073311-a	asin	KEEP	O	None	None
+02193765-v	melainkan	KEEP	O	None	None
+08366753-n	perekonomian	KEEP	X	1	Spanish
+03080492-a	latin	KEEP	None	None	None
+14016361-n	letih	KEEP	O	1	Spanish
+09308398-n	es	KEEP	O	1	Finnish
+00813790-v	menuju	DELETE	O	None	None
+00046299-r	super	KEEP	L	None	None
+02006834-v	berhasil	DELETE	O	None	None
+06947032-n	bahasa inggris	KEEP	None	1	English
+00018577-r	sekali	KEEP	O	None	None
+90000029-n	esplanade theatre	KEEP	None	None	None
+01073822-a	asin	KEEP	O	None	None
+02754656-n	atria	KEEP	X	1	Portuguese
+90000299-n	Peranakan Chinese	KEEP	None	None	None
+00195024-r	selalu	KEEP	O	None	None
+01380122-v	memindahkan	DELETE	O	None	None
+05128519-n	area	KEEP	None	1	Polish
+80000394-n	pilates	KEEP	None	None	None
+02111684-a	gabungan	KEEP	Y	None	None
+02592111-v	clubbing	KEEP	None	None	None
+00359135-n	singkatan	KEEP	O	1	Portuguese
+15213115-n	oktober	KEEP	O	1	Slovene
+00044353-a	kemungkinan	KEEP	Y	None	None
+01694081-a	salah	KEEP	L	None	None
+01380122-v	merentangkan	DELETE	O	None	None
+02635956-v	menemani ke	DELETE	X	None	None
+07324917-n	peningkatan	KEEP	O	1	English
+07066659-n	bergaya	KEEP	None	1	Portuguese
+02412164-a	tipis	KEEP	O	None	None
+05920272-n	tema	KEEP	Y	1	English
+76100068-x	orang	KEEP	None	None	None
+02151966-v	temukanlah	KEEP	None	None	None
+00442361-a	jauh	KEEP	Y	None	None
+02685951-v	beralih	DELETE	O	None	None
+01131454-a	kejam	KEEP	O	None	None
+01824736-v	seperti	DELETE	O	None	None
+02686471-v	menemani ke	DELETE	X	None	None
+01083373-v	menjahanamkan	DELETE	O	None	None
+08884961-n	surrey	KEEP	X	1	English
+08594286-n	baris	DELETE	O	1	English
+04190052-n	rak	KEEP	Y	1	English
+08223802-n	masyarakat	KEEP	O	1	Japanese
+07669098-n	suckling pig	KEEP	None	1	Greek
+01071423-a	diolah	KEEP	None	None	None
+00849357-a	anggun	KEEP	Y	None	None
+80000849-n	ronggeng	KEEP	None	None	None
+01443097-a	sekilas	KEEP	O	None	None
+08050678-n	pemerintah	KEEP	None	1	English
+01382086-a	banyak	KEEP	O	None	None
+00232862-r	di luar	DELETE	None	None	None
+00537682-n	tari rakyat	KEEP	None	None	None
+01002740-v	membutuhkan	DELETE	O	None	None
+00735389-v	bertahun	KEEP	Y	None	None
+01041916-a	resmi	KEEP	O	None	None
+00428270-n	dansa	KEEP	O	1	English
+01179865-v	memakan	KEEP	O	None	None
+14513944-n	lingkungan sekitar	KEEP	X	1	Spanish
+11418460-n	keberuntungan	KEEP	O	1	Finnish
+05815517-n	bidang	KEEP	O	1	Spanish
+13815342-n	berskala	KEEP	O	1	English
+07794159-n	udang	KEEP	O	1	Finnish
+13850148-n	terakhir	KEEP	O	1	English
+00931467-v	berarti	KEEP	O	None	None
+08489765-n	tempat lain	KEEP	X	1	English
+09917593-n	anak muda	KEEP	O	1	English
+06691684-n	pujian	KEEP	O	1	Spanish
+07155661-n	dialek	KEEP	Y	1	Portuguese
+00196364-v	bakar	KEEP	O	None	None
+00054950-r	amat	KEEP	O	None	None
+01010862-a	mula-mula	KEEP	X	None	None
+00323856-v	tim	KEEP	None	None	None
+01172701-v	minum	DELETE	O	None	None
+02654894-a	aksial	KEEP	X	None	None
+01505254-v	menarik perhatian	KEEP	None	None	None
+14038993-n	keinginan	KEEP	O	1	Finnish
+02327200-v	makanan	DELETE	Y	None	None
+00771632-v	mengiring	DELETE	O	None	None
+01104026-a	spesial	KEEP	Y	None	None
+01532589-v	membersihkan	KEEP	O	None	None
+80000511-n	joget	KEEP	None	None	None
+00022131-r	sebegitu	DELETE	O	None	None
+07814203-n	kayu manis	KEEP	L	1	Thai
+15120346-n	zaman	KEEP	O	1	Portuguese
+00101609-a	tidak mementingkan diri sendiri	KEEP	X	None	None
+15156001-n	hari ini	KEEP	X	1	English
+00763901-a	langsung	KEEP	O	None	None
+00899226-a	susah	KEEP	None	None	None
+01233156-n	mengunjungi	KEEP	X	1	Greek
+11444038-n	siang	KEEP	Y	1	English
+06969129-n	bahasa sansekerta	KEEP	None	2	English, Portuguese
+00639849-v	mendapat	DELETE	O	None	None
+00482298-n	tenis	KEEP	Y	1	Polish
+01181741-v	menggerakkan	KEEP	O	None	None
+01158181-v	membuang	KEEP	O	None	None
+05131023-n	menit	KEEP	None	1	Finnish
+01380122-v	membuyarkan	DELETE	O	None	None
+08594286-n	garisan	DELETE	None	1	English
+01700414-a	rimbun	KEEP	O	None	None
+02577734-a	materi	KEEP	None	None	None
+02594979-v	mengoperasikan	KEEP	O	None	None
+04804451-n	ketidakakuratan	KEEP	None	1	English
+02341266-a	yang lebih tinggi	KEEP	X	None	None
+11414257-n	hasil	KEEP	O	1	English
+80000910-a	konsekuensial	KEEP	None	None	None
+02333976-a	hampa	KEEP	O	None	None
+07573696-n	santapan	KEEP	O	1	Finnish
+07666733-n	daging domba	KEEP	X	1	Finnish
+00923793-v	tunjuk	KEEP	X	None	None
+80000174-n	bangsawan	KEEP	None	None	None
+00112009-r	paling	KEEP	O	None	None
+02664769-v	berimbang	DELETE	O	None	None
+01981036-v	mendarat	KEEP	O	None	None
+05834567-n	inspirasi	KEEP	O	1	Japanese
+01169328-v	hirup	KEEP	None	None	None
+00217728-a	bagus	KEEP	O	None	None
+80001382-x	oh	KEEP	None	None	None
+00510644-a	seefisien	KEEP	None	None	None
+00900583-v	sambut	KEEP	O	None	None
+08568256-n	latar	KEEP	O	1	English
+02205272-v	memenangi	DELETE	O	None	None
+11164970-n	somerset maugham	KEEP	None	1	English
+02343110-a	ulung	KEEP	O	None	None
+02492198-v	menghibur	KEEP	O	None	None
+15182053-n	malam tahun baru	KEEP	X	1	Japanese
+01188725-v	makan	DELETE	O	None	None
+08593262-n	jalur	DELETE	O	1	Spanish
+00915321-a	tepat	KEEP	O	None	None
+00958896-n	pertarungan	KEEP	O	1	Finnish
+00301589-a	terhitung	KEEP	L	None	None
+01083157-a	penuh dengan	KEEP	X	None	None
+02701210-v	membawa	DELETE	O	None	None
+05835747-n	berkonsep	KEEP	None	1	English
+00648224-v	menjelajahi	KEEP	O	None	None
+13264688-n	warisan	KEEP	O	1	English
+02053941-v	mendekati	KEEP	Y	None	None
+06471737-n	piagam	KEEP	Y	1	English
+00043794-r	nya	DELETE	None	None	None
+08785343-n	athena	KEEP	X	1	Japanese
+09686401-n	eurasi	KEEP	None	1	English
+01862386-a	ekskusif	KEEP	None	None	None
+01494310-v	letakkan	KEEP	X	None	None
+00856651-a	lezat	KEEP	None	None	None
+00950592-a	di	DELETE	O	None	None
+13790912-n	per	KEEP	None	1	Finnish
+00394135-a	warna	KEEP	Y	None	None
+15122231-n	masa	KEEP	O	1	Portuguese
+01128193-v	lindungi	KEEP	X	None	None
+00020759-r	tidak pernah	KEEP	L	None	None
+00257269-v	memperluas	KEEP	O	None	None
+08588152-n	bahagian dalam	DELETE	X	1	English
+07734017-n	tomato	KEEP	None	1	Polish
+02472987-n	dunia	KEEP	O	2	English, Spanish
+01428578-v	dapat	DELETE	O	None	None
+02197505-v	menyapa	KEEP	L	None	None
+00069672-r	maupun	KEEP	None	None	None
+10077593-n	penggemar	KEEP	Y	1	Spanish
+09436708-n	langit	KEEP	Y	1	Finnish
+08301871-n	imf	KEEP	None	None	None
+03878066-n	istana	KEEP	O	1	Greek
+01982395-v	makan	DELETE	O	None	None
+02300624-a	terjamu	KEEP	None	None	None
+08430568-n	bentuk	DELETE	O	1	Thai
+01852666-a	langsung	KEEP	O	None	None
+07707451-n	sayur	KEEP	Y	1	English
+01826184-v	ingin	KEEP	O	None	None
+01156834-v	membutuhkan	DELETE	O	None	None
+02388403-v	membina	KEEP	O	None	None
+02186665-a	4	KEEP	None	None	None
+13947867-n	tempat	KEEP	O	1	English
+00227507-a	baik	KEEP	None	None	None
+00745499-v	pesan	KEEP	L	None	None
+14410605-n	masalah	KEEP	O	1	Spanish
+00668805-v	bersetuju	DELETE	Y	None	None
+04463510-n	jalan	KEEP	O	1	Spanish
+06403393-n	tangan	KEEP	O	1	English
+00052374-v	mengenakan	KEEP	O	None	None
+01173933-v	makan	DELETE	O	None	None
+02302187-a	teratur	KEEP	O	None	None
+01157517-v	melemahkan	DELETE	O	None	None
+80001276-n	neraka	KEEP	None	None	None
+13954253-n	eksistensi	KEEP	O	1	Finnish
+02434976-v	mengikuti	KEEP	O	None	None
+02213557-a	spontan	KEEP	O	None	None
+00885695-a	bersemangat	KEEP	Y	None	None
+02236624-v	mengarik	DELETE	O	None	None
+01842690-v	berjalan-jalanlah	KEEP	None	None	None
+02102398-v	mengendarai	KEEP	O	None	None
+04424218-n	barang	KEEP	O	1	English
+02427103-v	berdiri	KEEP	L	None	None
+00596644-v	pengalaman	KEEP	O	None	None
+03116530-n	loket	KEEP	None	1	Polish
+02633356-v	terdiri	KEEP	Y	None	None
+01002740-v	membuat penggambaran	DELETE	X	None	None
+09316454-n	pulau	KEEP	Y	1	Spanish
+03093427-n	konsulat	KEEP	O	1	Portuguese
+00163441-v	direnovasi	KEEP	X	None	None
+08972521-n	new zealand	KEEP	None	1	Arabic
+05164845-n	hukuman	KEEP	O	1	English
+00897746-v	tanyakan	KEEP	None	None	None
+04928903-n	cara	KEEP	O	1	English
+05715864-n	sensai	KEEP	None	1	English
+03720163-n	peta	KEEP	Y	1	English
+08946187-n	ghana	KEEP	None	1	Polish
+00262249-n	hiasan	KEEP	O	1	Japanese
+01580050-a	perlukan	KEEP	None	None	None
+90000448-n	pappadam	KEEP	None	None	None
+06892775-n	konser	KEEP	O	1	Spanish
+07320302-n	kelahiran	KEEP	O	1	English
+03224032-n	pintu	KEEP	O	1	English
+00890590-v	pastikan	KEEP	X	None	None
+13952171-n	yang benar	KEEP	X	1	English
+01380122-v	menyebabkan merebak	DELETE	X	None	None
+01028748-v	sebut	KEEP	X	None	None
+00409440-a	hitam	KEEP	O	None	None
+00406243-v	menyiapkan	KEEP	O	None	None
+03786901-n	lumpang	KEEP	None	1	English
+02951843-n	tenda	KEEP	O	1	English
+01197014-v	menggulingkan	DELETE	O	None	None
+07485916-n	selera makanan	KEEP	X	1	English
+02327200-v	menyediakan	KEEP	Y	None	None
+02774411-a	parlementer	KEEP	O	None	None
+00608668-a	alternatif	KEEP	O	None	None
+01176232-v	melayani	KEEP	O	None	None
+00755745-v	sangka	DELETE	Y	None	None
+80001077-n	berapa	KEEP	None	None	None
+05699434-n	berkeberatan	KEEP	None	1	English
+01636221-v	menggambarkan	KEEP	O	None	None
+90000336-n	lomi	KEEP	None	None	None
+06279326-n	e-mail	KEEP	X	1	English
+07579787-n	sepiring	KEEP	None	1	Spanish
+02238085-v	berlaku	DELETE	O	None	None
+00270446-r	nama lain	DELETE	X	None	None
+00462909-a	pantai	KEEP	O	None	None
+02587532-v	memegang erat	DELETE	X	None	None
+08644722-n	pedesaan	KEEP	O	1	Spanish
+01063695-v	mengajak	KEEP	O	None	None
+01003249-v	dipotret	KEEP	X	None	None
+08507558-n	sumber	KEEP	Y	1	English
+01384730-a	amat besar	KEEP	X	None	None
+00343249-n	spin	KEEP	None	1	Portuguese
+00327145-v	mengukus	KEEP	O	None	None
+05618293-n	bidang	KEEP	O	1	Slovene
+12432808-n	bawang	KEEP	O	1	Polish
+02657219-v	bersamaan	KEEP	O	None	None
+00928371-n	rancangan	KEEP	O	1	English
+02610628-v	menutup	KEEP	O	None	None
+02965696-a	tibet	KEEP	None	None	None
+01737923-v	ulang	KEEP	None	None	None
+07376257-n	dentam	KEEP	Y	1	English
+07085375-n	penekan	KEEP	Y	1	English
+02741546-v	meluwengkan	DELETE	O	None	None
+08240169-n	sekelompok	KEEP	X	1	English
+01884930-a	aman	KEEP	O	None	None
+05129565-n	berjauhan	DELETE	O	1	Finnish
+09033117-n	zurich	KEEP	None	1	Japanese
+07693972-n	biskuit	KEEP	O	1	Japanese
+06497233-n	menu	KEEP	O	None	None
+02691156-n	pesawat	KEEP	Y	1	English
+90000062-n	little india arcade	KEEP	None	None	None
+01618693-v	diperkenalkan	KEEP	None	None	None
+00166146-a	cantik	KEEP	O	None	None
+13353280-n	kemewahan	KEEP	Y	1	Spanish
+02006834-v	menakol	DELETE	O	None	None
+02215977-a	multi	KEEP	None	None	None
+03471974-n	orang lelaki	DELETE	X	1	English
+01000214-v	tercatat	KEEP	L	None	None
+07456188-n	kompetisi	KEEP	Y	1	Japanese
+06505517-n	salinan	KEEP	O	1	Spanish
+00147272-r	begitu	KEEP	O	None	None
+07975026-n	acara	KEEP	None	1	Slovene
+01380638-v	berkumpul	KEEP	O	None	None
+02620587-v	mengarang-ngarang	DELETE	O	None	None
+01779165-v	menakutkan	KEEP	Y	None	None
+02687916-v	melingkupi	KEEP	O	None	None
+07135734-n	perbincangan	KEEP	Y	1	English
+08593924-n	garis lurus	DELETE	X	1	Spanish
+03670849-n	tali	DELETE	O	1	Spanish
+12522493-n	rosewood	KEEP	None	2	English, Greek
+02018049-v	naik	KEEP	Y	None	None
+05122557-n	kebanyakan	KEEP	O	1	English
+02633881-v	ternyata	KEEP	O	None	None
+00194924-a	mengerikan	KEEP	O	None	None
+13769033-n	sepoci	KEEP	None	1	English
+01083373-v	melalap	DELETE	O	None	None
+08588152-n	interior	KEEP	None	1	English
+11669335-n	bunga	KEEP	O	1	English
+10058411-n	penikmat	KEEP	None	None	None
+00120796-v	mengantongi	DELETE	O	None	None
+15137890-n	libur	KEEP	Y	1	English
+06802571-n	bunga-bunga	DELETE	X	1	English
+02359464-a	yang mengejutkan	KEEP	X	None	None
+02280969-a	semarak	KEEP	None	None	None
+02771485-a	mulut	KEEP	O	None	None
+14485064-n	kesempatan	KEEP	O	1	Spanish
+05193338-n	warna	KEEP	X	1	English
+01120448-n	pembayaran	KEEP	Y	1	Slovene
+80000923-a	feeder	KEEP	None	None	None
+15228378-n	10	KEEP	None	1	Finnish
+07327805-n	unsur	KEEP	Y	2	English, Spanish
+01982395-v	menyontok	DELETE	O	None	None
+08622950-n	lokasi	KEEP	O	1	Portuguese
+00108913-r	di sini	KEEP	None	None	None
+08642037-n	tempat	DELETE	O	1	Thai
+80000369-n	lotus paste	KEEP	None	None	None
+00715239-v	merasa	KEEP	O	None	None
+03479952-n	ruang masuk	KEEP	O	1	English
+04202417-n	rumah	KEEP	Y	1	English
+01465214-a	romantis	KEEP	Y	None	None
+02798370-a	sosial	KEEP	O	None	None
+02198752-a	ribuan	KEEP	L	None	None
+01083157-a	penuh	KEEP	Y	None	None
+80000857-n	kartu	KEEP	None	None	None
+14520278-n	udara	KEEP	O	1	Spanish
+00276225-r	di atas	KEEP	L	None	None
+01944692-v	berperahu	KEEP	O	None	None
+01601069-a	utara	KEEP	O	None	None
+02267989-v	memasukkan	DELETE	O	None	None
+00409440-a	gelap	KEEP	O	None	None
+05076827-n	keseimbangan	KEEP	Y	1	Spanish
+00158701-a	menyatu	KEEP	None	None	None
+00618878-v	mengenali	KEEP	O	None	None
+15228910-n	jam	KEEP	O	1	Finnish
+01849221-v	mari	KEEP	O	None	None
+90000172-n	au jardin	KEEP	None	None	None
+03417749-n	taman	KEEP	O	1	Slovene
+14437386-n	tersohor	KEEP	O	1	English
+09441875-n	laut selatan	KEEP	X	None	None
+03945615-n	pipa	KEEP	O	1	English
+01114458-n	ritel	KEEP	X	1	English
+02416278-v	berkolaborasi	KEEP	None	None	None
+90000422-n	dragon boat	KEEP	None	None	None
+07338552-n	hentaman	KEEP	None	1	Spanish
+11311173-n	spielberg	KEEP	None	1	Polish
+00799076-v	mereguk	DELETE	O	None	None
+01807882-v	tertarik	KEEP	O	None	None
+02620587-v	orang	DELETE	O	None	None
+90000123-n	chingay parade	KEEP	None	None	None
+02661252-v	bervariasi	KEEP	O	None	None
+01464844-n	kuning telur	KEEP	O	1	Portuguese
+09433839-n	garis pantai	KEEP	O	1	English
+00724832-v	mengagumkan	KEEP	O	None	None
+00965606-a	sudah tahu	DELETE	X	None	None
+77000097-n	siapa saja	KEEP	None	None	None
+90000129-n	festival pongal	KEEP	None	None	None
+01654628-v	buat	KEEP	L	None	None
+02269286-a	semua	KEEP	Y	None	None
+01156834-v	menelan	DELETE	O	None	None
+05408388-n	adrelin	KEEP	None	1	English
+04412901-n	terminal	KEEP	O	1	English
+01511292-a	mendalam	KEEP	L	None	None
+08096624-n	hinduisme	KEEP	None	2	English, Portuguese
+02169702-v	mendengar	KEEP	Y	None	None
+01982395-v	melebas	DELETE	O	None	None
+00198147-a	depan	KEEP	O	None	None
+01201856-v	memolok	DELETE	O	None	None
+00563330-n	permata tiruan	KEEP	X	1	English
+01110251-a	desainer	KEEP	None	None	None
+07933274-n	teh	KEEP	Y	1	Finnish
+01643620-a	berumur	KEEP	O	None	None
+03671473-n	tali	DELETE	O	1	Spanish
+00935247-n	keramik	KEEP	O	1	Spanish
+08651735-n	langit	KEEP	None	1	English
+00941148-a	secara langsung	KEEP	None	None	None
+00866702-v	disucikan	KEEP	None	None	None
+02006834-v	sampai ke	DELETE	X	None	None
+03169390-n	perhiasan	KEEP	Y	1	Portuguese
+07573696-n	sajian	KEEP	Y	1	Finnish
+90000301-n	hokkian	KEEP	None	None	None
+90000299-n	Nyonya	KEEP	None	None	None
+02701210-v	meluwengkan	DELETE	O	None	None
+01905653-a	murni	KEEP	O	None	None
+02560585-v	mengakok	DELETE	O	None	None
+00031304-r	masih	KEEP	O	None	None
+01188725-v	berangan-angan	DELETE	O	None	None
+08832877-n	brisbane	KEEP	None	2	English, Portuguese
+00035385-r	jarang	KEEP	O	None	None
+00839619-a	efisien	KEEP	Y	None	None
+01233020-a	datar	KEEP	O	None	None
+01462005-v	menggaul	DELETE	O	None	None
+00588888-v	mengerti	KEEP	Y	None	None
+01261845-n	inspirasi	KEEP	O	1	English
+15149763-n	tahun 1950-an	KEEP	None	1	English
+00579622-a	besar	KEEP	Y	None	None
+00510644-a	efektif	KEEP	O	None	None
+13659760-n	10	KEEP	None	1	Polish
+02210855-v	dapat	DELETE	Y	None	None
+02848806-n	pisau	KEEP	L	1	English
+00833546-v	info	KEEP	None	None	None
+01148283-a	gembira	KEEP	Y	None	None
+01864230-v	mulai	KEEP	O	None	None
+00347610-v	menyerbu	KEEP	L	None	None
+00971660-a	hip	KEEP	None	None	None
+80000320-n	mooncake	KEEP	None	None	None
+02280132-v	mempertahankan	KEEP	O	None	None
+00751567-v	memaksakan	DELETE	O	None	None
+02647497-v	berkeras	DELETE	O	None	None
+77000023-n	kau	KEEP	None	None	None
+07916041-n	martini	KEEP	O	1	English
+15113229-n	zaman	KEEP	O	1	English
+01621555-v	cipta	KEEP	Y	None	None
+07416714-n	saat	KEEP	O	1	English
+00228294-a	utama	KEEP	None	None	None
+02268485-a	tidak	KEEP	O	None	None
+01828736-v	gemar	KEEP	Y	None	None
+05216365-n	tubuh	KEEP	Y	2	English, Greek
+00953559-n	pertempuran	KEEP	Y	1	English
+00320852-n	pengenalan	DELETE	O	1	Spanish
+02676054-v	berhubungan	DELETE	L	None	None
+02755017-v	tentang	DELETE	Y	None	None
+06062407-n	radiologi	KEEP	None	1	English
+02685951-v	memimpin	DELETE	O	None	None
+01639230-a	purba	KEEP	O	None	None
+02616386-v	merupakan	KEEP	Y	None	None
+01999798-v	membawa pergi	DELETE	X	None	None
+01652902-a	terbuka	KEEP	Y	None	None
+05849284-n	ciri-ciri	KEEP	X	1	Spanish
+02570267-v	memanjakan	KEEP	Y	None	None
+00153263-v	menambahkan	KEEP	Y	None	None
+10747119-n	vegetarian	KEEP	X	2	Slovene, English
+00585406-n	fasilitas	KEEP	None	1	English
+02660819-v	lengkapi	KEEP	None	None	None
+00456199-n	permainan	KEEP	O	1	Finnish
+15237044-n	festival	KEEP	None	1	English
+01780202-v	takut	KEEP	Y	None	None
+02327200-v	berikan	DELETE	Y	None	None
+09014979-n	ukraina	KEEP	X	1	Polish
+00421047-n	penindasan	KEEP	O	1	English
+13285176-n	pangsa	KEEP	None	1	English
+08242799-n	kelompok	KEEP	O	1	English
+01912159-v	lintas	KEEP	Y	None	None
+08236438-n	konsortium	KEEP	O	1	English
+14473222-n	keberuntungan	KEEP	O	1	Arabic
+01564144-v	melalap	DELETE	O	None	None
+01203893-v	menggembung	DELETE	None	None	None
+02186750-a	lima	KEEP	O	None	None
+08593262-n	garis keturunan	DELETE	X	1	Spanish
+80001061-n	bamboo clam	KEEP	None	None	None
+00770437-v	mencambuk	DELETE	O	None	None
+01712704-v	melaksanakan	KEEP	O	None	None
+01820302-v	menikmati	KEEP	O	None	None
+06155567-n	sejarah	KEEP	Y	1	Portuguese
+01930482-v	membawa	DELETE	O	None	None
+01843380-a	disediakan	KEEP	X	None	None
+02623906-v	mencolot	DELETE	O	None	None
+00035259-v	dimandikan	KEEP	None	None	None
+80000834-n	capoeira	KEEP	None	None	None
+08168978-n	negara	KEEP	Y	1	Arabic
+05611302-n	otak	KEEP	O	1	Polish
+05718935-n	musik	KEEP	O	1	English
+02647918-v	membahana	KEEP	O	None	None
+00048475-r	sekarang ini	KEEP	X	None	None
+80001051-n	tangs	KEEP	None	None	None
+90000319-n	barongsai	KEEP	None	None	None
+02472987-n	sso yg dipandang tinggi	DELETE	X	2	English, Spanish
+03882611-n	hiasan dinding	KEEP	X	1	Polish
+01157517-v	menggunakan habis	DELETE	X	None	None
+02727039-v	antara	KEEP	O	None	None
+04928903-n	gaya	KEEP	Y	1	English
+07109730-n	penuturan	KEEP	None	1	English
+02728440-n	pakaian	KEEP	Y	1	Portuguese
+00339934-v	diadakan	KEEP	X	None	None
+00213794-v	boleh	DELETE	O	None	None
+02333689-v	termuat	DELETE	O	None	None
+01751201-a	ideal	KEEP	Y	None	None
+01807529-v	tertarik	KEEP	O	None	None
+15237044-n	semi	KEEP	None	1	English
+01659117-a	terbuka	KEEP	O	None	None
+02877704-a	muka	KEEP	O	None	None
+00188057-r	sebaik	KEEP	None	None	None
+00495377-r	manapun	KEEP	X	None	None
+00943831-a	terperikan	KEEP	None	None	None
+07433145-n	pusaran air	KEEP	L	1	English
+00173338-v	mengubah	DELETE	O	None	None
+02716165-v	temani	KEEP	X	None	None
+01935233-v	menuju	KEEP	O	None	None
+09917593-n	kanak	KEEP	X	1	English
+02493030-v	kunjungilah	KEEP	None	None	None
+00673456-a	buatan tangan	KEEP	X	None	None
+03878066-n	summer palace	KEEP	None	1	Greek
+02876657-n	sebotol	KEEP	None	1	English
+03014705-n	kotak	KEEP	O	1	Polish
+02529264-a	hangat	KEEP	Y	None	None
+15069820-n	pengental	KEEP	None	None	None
+02620587-v	berias	DELETE	O	None	None
+00018043-r	bahkan	KEEP	None	None	None
+02062212-v	terlontar	KEEP	None	None	None
+00085002-r	tempat lain	DELETE	X	None	None
+02355596-v	membuatkan	DELETE	O	None	None
+13771290-n	beberapa	KEEP	O	1	Spanish
+00611047-a	tradisional	KEEP	Y	None	None
+00819235-a	akhir	KEEP	O	None	None
+80001707-n	kecerdasan buatan	KEEP	None	None	None
+15201994-n	akhir tahun	KEEP	X	1	Japanese
+01740207-a	patriotik	KEEP	O	None	None
+01511520-a	ekstrem	KEEP	O	None	None
+01101391-a	secara umum	KEEP	None	None	None
+15210765-n	pertengahan februari	KEEP	X	None	None
+02717102-v	berhasil	DELETE	O	None	None
+80000902-a	vintage	KEEP	None	None	None
+00284798-n	berjalan-jalanlah	KEEP	None	1	Arabic
+01478182-a	wanita	KEEP	O	None	None
+02355596-v	membentuk watak	DELETE	X	None	None
+90000176-n	dewa sri krishna	KEEP	None	None	None
+05810561-n	kehidupan	KEEP	O	1	Finnish
+06470073-n	dokumentasi	KEEP	Y	1	English
+08724726-n	beijing	KEEP	None	1	English
+02154508-v	melihat	KEEP	O	None	None
+02235229-v	serahkan	KEEP	L	None	None
+00833546-v	diperbarui	KEEP	None	None	None
+01378556-v	tersebar	KEEP	O	None	None
+07458453-n	pacuan	KEEP	Y	1	Spanish
+05217168-n	jasmani	DELETE	O	1	English
+03936764-n	pil	KEEP	O	1	English
+02203362-v	punya	KEEP	None	None	None
+10071332-n	ekspatriat	KEEP	Y	1	English
+08399586-n	jenis	KEEP	O	1	English
+01515415-v	luncurkan	KEEP	X	None	None
+08653314-n	udara	KEEP	O	1	Finnish
+08820121-n	kanada	KEEP	None	1	Polish
+07377473-n	hiruk-pikuk	KEEP	None	1	English
+00149583-v	jadi	KEEP	O	None	None
+02627934-v	perlukan	KEEP	X	None	None
+01501113-a	musik	KEEP	None	None	None
+02993546-n	centre	KEEP	X	1	Slovene
+02020590-v	menoyor	DELETE	O	None	None
+04544626-n	wakeboard	KEEP	None	None	None
+00505114-r	hanya	KEEP	L	None	None
+03728437-n	korek	KEEP	None	2	English, Spanish
+01326528-v	melenyapkan	DELETE	O	None	None
+02078294-v	kembali	KEEP	Y	None	None
+00770437-v	menimbulkan	DELETE	O	None	None
+90000039-n	terasie	KEEP	None	None	None
+08630039-n	kawasan	KEEP	O	1	English
+01192628-v	sanggup	KEEP	O	None	None
+02568672-v	mengawal	DELETE	O	None	None
+00881649-n	pemandangan	KEEP	O	1	English
+90000039-n	trassi	KEEP	None	None	None
+01686956-v	mengambarkan	KEEP	None	None	None
+02717102-v	membutuhkan	DELETE	O	None	None
+02199590-v	memberi	KEEP	O	None	None
+10577284-n	penjual	KEEP	Y	1	Finnish
+01387319-a	besar	KEEP	Y	None	None
+00015388-n	hewani	KEEP	None	1	Spanish
+02198302-a	200	KEEP	None	None	None
+00007846-n	orang perseorangan	DELETE	None	1	English
+01326528-v	menjahanamkan	DELETE	O	None	None
+00950431-v	dianggap	KEEP	X	None	None
+00693780-v	mengingat	KEEP	O	None	None
+02524171-v	memenangkan	KEEP	O	None	None
+02511528-a	buas	KEEP	Y	None	None
+02702508-v	insan	DELETE	O	None	None
+00046344-n	stunt	KEEP	None	1	English
+01151110-v	meluwengkan	DELETE	O	None	None
+07485916-n	selera	KEEP	O	1	English
+01212230-v	melalui	KEEP	None	None	None
+02331262-a	sukses	KEEP	O	None	None
+08226699-n	desa	KEEP	Y	2	English, Portuguese
+09712696-n	melayu	KEEP	M	1	English
+02876657-n	botolan	KEEP	X	1	English
+01067003-a	terus	KEEP	O	None	None
+07926250-n	limun	KEEP	M	1	English
+02697120-v	mengancam	KEEP	O	None	None
+00903894-a	penting	KEEP	Y	None	None
+13136556-n	nuts	KEEP	None	1	English
+01428578-v	membentuk	DELETE	O	None	None
+15213406-n	november	KEEP	O	1	Slovene
+01982186-a	simbolik	KEEP	None	None	None
+04101232-n	gulungan	KEEP	Y	1	English
+00586262-n	tempat ketiga	DELETE	X	1	English
+01108627-v	menaklukkan	KEEP	O	None	None
+02020590-v	melenda	DELETE	O	None	None
+01593649-a	lumrah	DELETE	Y	None	None
+00809465-n	hak milik	KEEP	Y	1	English
+01565921-v	menelan habis	DELETE	X	None	None
+10123711-n	kakek	KEEP	None	1	English
+02493030-v	dikunjungi	KEEP	X	None	None
+04484160-n	perhiasan	KEEP	O	1	English
+07309781-n	gerak	KEEP	M	1	English
+13809207-n	bagian	KEEP	Y	1	English
+10175090-n	Yang Mulia	KEEP	None	2	Finnish, English
+02493030-v	mengunjungi	KEEP	O	None	None
+00305821-r	terlalu membebani	DELETE	X	None	None
+01844585-a	olahan	KEEP	Y	None	None
+07947255-n	masyarakat umum	KEEP	X	1	Finnish
+06492939-n	menu makanan	KEEP	X	1	Portuguese
+13755053-n	isi	KEEP	O	1	English
+10151133-n	tamu	KEEP	O	1	Spanish
+06514093-n	kisah	KEEP	O	1	English
+10577284-n	penjaja	KEEP	Y	1	Finnish
+02568672-v	melaksanakan	KEEP	O	None	None
+13879320-n	segitiga	KEEP	O	1	English
+02075857-v	mengambil	DELETE	O	None	None
+01771535-v	mengalami	KEEP	O	None	None
+02813315-a	teater	KEEP	O	None	None
+90000156-n	Sang Nila Utama	KEEP	None	None	None
+02907656-a	olahraga	KEEP	O	None	None
+02006834-v	terkena	DELETE	O	None	None
+02130160-v	lihatlah	KEEP	X	None	None
+08593262-n	deretan	DELETE	O	1	Spanish
+90000106-n	sri mariamman temple	KEEP	None	None	None
+01712704-v	membuat	DELETE	O	None	None
+15204983-n	berpuluh-puluh	KEEP	None	1	English
+00019609-r	senantiasa	KEEP	O	None	None
+01275562-a	penting	KEEP	O	None	None
+80001230-x	yah	KEEP	None	None	None
+09908025-n	laki	KEEP	None	1	Finnish
+05984287-n	pendidikan	KEEP	Y	1	Spanish
+80001931-x	gak	KEEP	None	None	None
+10153414-n	abang	KEEP	None	1	Portuguese
+01182709-v	makanan	DELETE	O	None	None
+02210119-v	mendapat	KEEP	O	None	None
+07804323-n	nasi	DELETE	O	1	Portuguese
+05268112-n	daging	KEEP	Y	1	Slovene
+00324560-v	panggang	KEEP	L	None	None
+07009808-n	adegan	KEEP	O	1	English
+01102876-a	meluas	KEEP	O	None	None
+00953127-a	dalam bangunan	DELETE	X	None	None
+13744521-n	lima	KEEP	O	1	English
+80000490-n	kickboxing	KEEP	None	None	None
+01442186-a	pendek	KEEP	Y	None	None
+00559690-a	ramai	KEEP	O	None	None
+04335209-n	jalanan	KEEP	None	1	English
+01712704-v	menunjukkan permainan	DELETE	X	None	None
+01824736-v	menyenangi	DELETE	O	None	None
+02394183-v	jadi	DELETE	O	None	None
+90000196-n	food republic	KEEP	None	None	None
+00069472-r	di	DELETE	O	None	None
+03092527-a	style:nordic	KEEP	None	None	None
+00005526-v	gelagapan	KEEP	None	None	None
+00071840-r	menjelang	DELETE	O	None	None
+14040660-n	dahaga	KEEP	O	1	Spanish
+02218547-a	tiga	KEEP	O	None	None
+01824736-v	harap	DELETE	O	None	None
+13724582-n	kg	KEEP	None	1	Polish
+01123879-a	bagus	KEEP	O	None	None
+02204692-v	dimiliki	KEEP	None	None	None
+14473222-n	rezeki	KEEP	O	1	Arabic
+02763472-n	jalan raya	KEEP	Y	1	English
+05840188-n	sejenis	KEEP	None	1	Polish
+02267989-v	meluwengkan	DELETE	O	None	None
+00015388-n	binatang-binatangan	KEEP	None	1	Spanish
+06939431-n	bahasa jawa	KEEP	None	1	Portuguese
+00669762-v	membutuhkan	DELETE	O	None	None
+08588152-n	batin	DELETE	O	1	English
+02416278-v	bekerja sama	KEEP	O	None	None
+00528667-n	balet	KEEP	Y	1	Slovene
+08690792-n	pinggiran	KEEP	O	1	English
+00431774-a	bening	KEEP	O	None	None
+04264914-n	wahana	KEEP	Y	1	English
+07006712-n	panggung sementara	KEEP	X	1	English
+01665638-v	masak	KEEP	L	None	None
+07626602-n	mentega dan telur	DELETE	X	None	None
+13661273-n	$	KEEP	None	1	Spanish
+02156225-v	dapat melihat	KEEP	X	None	None
+76100074-x	pucuk	KEEP	None	None	None
+00235435-n	pada awalnya	KEEP	X	1	English
+05849789-n	ciri	KEEP	O	1	Spanish
+14442933-n	jajahan	KEEP	O	1	English
+09411430-n	river	KEEP	X	1	Portuguese
+02648502-v	berlaku	KEEP	O	None	None
+00976508-a	cepat	KEEP	O	None	None
+00973192-a	bersuasana	KEEP	None	None	None
+80002008-n	ayam bakar	KEEP	None	None	None
+01628531-a	menghina	KEEP	O	None	None
+09468604-n	lembah	KEEP	Y	1	English
+00775486-a	ekletik	KEEP	None	None	None
+07946135-n	yang kalah	KEEP	X	1	Finnish
+04622932-n	privasi	KEEP	O	1	English
+02714800-a	drama	KEEP	O	None	None
+08641113-n	tempat	DELETE	O	1	English
+80000329-n	Sang Nila Utama	KEEP	None	None	None
+01179865-v	memakan	DELETE	O	None	None
+03471974-n	lelaki	DELETE	O	1	English
+05924920-n	baku	DELETE	O	1	English
+01365544-a	memilukan	KEEP	None	None	None
+04039381-n	raket	KEEP	O	1	English
+00487198-a	umum	KEEP	O	None	None
+00283568-n	jalan-jalan	KEEP	X	1	English
+90000053-n	komala villas	KEEP	None	None	None
+00257784-r	tiga kali	KEEP	X	None	None
+01885845-v	merayap	KEEP	Y	None	None
+08394922-n	ming	KEEP	None	1	English
+02106006-v	merasa	KEEP	O	None	None
+09984659-n	pelanggan	KEEP	Y	1	English
+00402419-a	berwarna-warni	KEEP	Y	None	None
+05400860-n	a	KEEP	O	1	English
+13832355-n	arah timur	KEEP	X	1	Portuguese
+02167052-v	melihat	KEEP	O	None	None
+02693319-v	menghadap	KEEP	O	None	None
+08565894-n	ujung	KEEP	Y	1	English
+01835496-v	beranjak	KEEP	Y	None	None
+02930766-n	cab	KEEP	None	1	Polish
+07086518-n	irama	KEEP	Y	1	Finnish
+90000033-n	food centre	KEEP	None	None	None
+01999218-v	menghantar	DELETE	O	None	None
+00436879-v	berbeda-beda	KEEP	O	None	None
+02713594-n	sayap	KEEP	X	1	Portuguese
+01218327-n	memesan	KEEP	O	1	English
+02941790-a	afrika	KEEP	None	None	None
+01413247-a	kemungkinan besar	KEEP	X	None	None
+00813790-v	mengemudikan	DELETE	O	None	None
+02664769-v	manusia	DELETE	O	None	None
+07846471-n	susu kental	KEEP	None	None	None
+02269794-a	setiap	KEEP	L	None	None
+02734725-n	arsitektur	KEEP	O	3	English, Portuguese, Spanish
+07818029-n	biji adas	KEEP	X	None	None
+08641113-n	sekeliling	DELETE	Y	1	English
+05698247-n	keragu-raguan	KEEP	X	1	Greek
+00037396-n	tindakan	KEEP	O	1	Greek
+00087736-v	meluwengkan	DELETE	O	None	None
+06518068-n	tiket	KEEP	Y	1	English
+00838367-n	makanan	DELETE	O	1	English
+00047534-r	pula	KEEP	None	None	None
+90000049-n	Kaum Peranakan	KEEP	None	None	None
+01380122-v	menyebarluaskan	DELETE	O	None	None
+02020590-v	mencatat	DELETE	O	None	None
+07596967-n	permen	KEEP	None	None	None
+80000839-n	canele	KEEP	None	None	None
+09494388-n	naga	KEEP	Y	1	English
+07450651-n	pesta	KEEP	O	1	Portuguese
+10325243-n	contoh terbaik	KEEP	X	1	Slovene
+07955057-n	isi	KEEP	L	1	English
+01247240-a	panas	KEEP	Y	None	None
+02200686-v	menyajikan	KEEP	O	None	None
+01156834-v	coba	KEEP	None	None	None
+05268112-n	isi	KEEP	Y	1	Slovene
+00462092-v	larang	KEEP	Y	None	None
+02649830-v	tinggal di	KEEP	X	None	None
+04998530-n	bentuk badan	DELETE	X	1	English
+01755816-v	buat	KEEP	L	None	None
+02759614-v	menyalakan	KEEP	O	None	None
+00683280-v	percaya	KEEP	Y	None	None
+02075857-v	melakukan	DELETE	O	None	None
+03640660-n	lorong	KEEP	O	1	English
+15179888-n	penanggalan	KEEP	O	1	English
+01999798-v	membutuhkan	DELETE	O	None	None
+00019613-n	inti	KEEP	Y	1	Thai
+08613345-n	bayang	KEEP	O	1	English
+00341560-v	melalui	KEEP	O	None	None
+04219277-n	siluet	KEEP	O	1	English
+02140033-v	ditampilkan	KEEP	None	None	None
+90000183-n	Ngo Hiang	KEEP	None	None	None
+08593262-n	asal-usul	DELETE	X	1	Spanish
+90000120-n	Warong Nasi Pariaman	KEEP	None	None	None
+03640589-n	lorong	KEEP	Y	1	English
+04674968-n	warna	KEEP	Y	1	English
+13659760-n	kilometer	KEEP	Y	1	Polish
+00527801-v	diawetkan	KEEP	X	None	None
+00110533-r	di dalam	DELETE	X	None	None
+00047534-r	serta	KEEP	None	None	None
+01672607-a	kebanyakan	DELETE	O	None	None
+02189786-a	35	KEEP	None	None	None
+90000317-n	rujak	KEEP	None	None	None
+14483917-n	kesempatan	KEEP	Y	1	Spanish
+02662297-v	berbeda-beda	KEEP	O	None	None
+01985029-v	berbaring	KEEP	Y	None	None
+80001382-x	astaga	KEEP	None	None	None
+08975902-n	pakistan	KEEP	None	1	Polish
+00941990-v	bicara	KEEP	M	None	None
+00149510-r	sebenar	KEEP	None	None	None
+00345000-v	menjadi	KEEP	O	None	None
+13275288-n	biaya	KEEP	O	1	Spanish
+01999798-v	mengajak	DELETE	O	None	None
+08430568-n	barisan	KEEP	O	1	Thai
+76100069-x	buah	KEEP	None	None	None
+01410606-a	seiras	DELETE	Y	None	None
+14524849-n	suasana	KEEP	O	1	Spanish
+02038994-a	kuat	KEEP	O	None	None
+07260623-n	standar	KEEP	O	1	English
+01013279-a	terakhir	KEEP	O	None	None
+01293396-a	takut	KEEP	O	None	None
+07942152-n	orang	KEEP	Y	1	English
+01418667-v	mencampur	DELETE	O	None	None
+04546855-n	wall	KEEP	None	1	Polish
+01216670-v	memegang	KEEP	O	None	None
+00340239-a	pasti	KEEP	O	None	None
+14031108-n	persiapan	KEEP	O	1	English
+00890590-v	menjamin	KEEP	Y	None	None
+02020590-v	sampai di	DELETE	X	None	None
+00756076-v	makan	DELETE	O	None	None
+06606694-n	pokok	KEEP	O	1	Finnish
+02655135-v	insan	DELETE	O	None	None
+02958576-a	spanyol	KEEP	X	None	None
+08994090-n	mekkah	KEEP	X	3	Slovene, English, Portuguese
+01728919-a	silam	KEEP	O	None	None
+03640988-n	lentera	KEEP	O	1	English
+02531625-v	mencoba	KEEP	O	None	None
+03289985-n	ensembel	KEEP	None	1	English
+02208537-v	mengambil	DELETE	O	None	None
+02721438-v	memungkinkan	KEEP	O	None	None
+04946553-n	rasa	KEEP	O	1	English
+07838073-n	saus	KEEP	None	1	English
+03550289-n	sangkar	KEEP	O	1	Slovene
+01658762-v	racikan	KEEP	None	None	None
+00995775-a	mendukung	KEEP	None	None	None
+00599992-v	meluwengkan	DELETE	O	None	None
+13770169-n	sesendok	KEEP	None	1	Greek
+03570372-n	infrastruktur	KEEP	Y	1	English
+07578093-n	pesta	KEEP	O	1	English
+90000139-n	holland village	KEEP	None	None	None
+04253437-n	sabun	KEEP	Y	1	Japanese
+05697135-n	ketentuan	KEEP	O	1	Portuguese
+80000101-n	teh	KEEP	None	None	None
+00180756-r	terasing	DELETE	O	None	None
+02749904-v	adalah	KEEP	L	None	None
+02202307-a	ketiga	KEEP	O	None	None
+80000638-n	pasar malam	KEEP	None	None	None
+80001382-x	aduh	KEEP	None	None	None
+02075857-v	makan	DELETE	O	None	None
+05129565-n	panjangnya	KEEP	L	1	Finnish
+80001580-n	kembang tahu	KEEP	None	None	None
+02250899-a	didampingi	KEEP	None	None	None
+02743261-a	manusia	KEEP	Y	None	None
+00993014-v	menulis	KEEP	Y	None	None
+00116510-r	bersama	KEEP	O	None	None
+00372607-n	gudang	KEEP	O	1	English
+05669797-n	warisan	KEEP	O	1	English
+80000848-a	open-flamed	DELETE	None	None	None
+00332017-v	digiling	KEEP	None	None	None
+00674607-v	memilih	KEEP	Y	None	None
+01157517-v	menggunakan	KEEP	O	None	None
+02244956-v	jual	KEEP	L	None	None
+05839024-n	berbentuk	DELETE	O	1	English
+09993040-n	menantu	KEEP	Y	1	Portuguese
+00486990-a	kerap	KEEP	O	None	None
+02647497-v	membuyarkan	DELETE	O	None	None
+02153709-v	mencari	KEEP	Y	None	None
+09092497-n	saya	DELETE	O	1	English
+07375405-n	paduan	KEEP	O	1	English
+00025728-r	seluruh	KEEP	None	None	None
+00086000-r	lekas	KEEP	L	None	None
+02775934-a	keuangan	KEEP	None	None	None
+01027174-v	menyediakan	DELETE	O	None	None
+01544692-v	ditaruh	KEEP	None	None	None
+01675963-v	menghiasi	KEEP	O	None	None
+02078294-v	pulang	KEEP	Y	None	None
+04219424-n	sutra	KEEP	None	1	Slovene
+01168468-v	menyantap	KEEP	Y	None	None
+13976322-n	hiruk pikuk	KEEP	O	1	Polish
+02599636-v	mengetuai	DELETE	O	None	None
+02551832-v	menyelamatkan	KEEP	O	None	None
+02236124-v	memiliki	DELETE	O	None	None
+08375154-n	persemakmuran	KEEP	L	1	English
+01513776-a	tebal	KEEP	O	None	None
+05840650-n	versi	KEEP	O	1	English
+02056265-a	agama	KEEP	O	None	None
+09963574-n	chef	KEEP	None	1	English
+06341525-n	ms	KEEP	None	1	English
+02199590-v	memberikan	KEEP	L	None	None
+04230093-n	kulit	KEEP	L	1	English
+02701210-v	mencengkeram	DELETE	O	None	None
+08642145-n	blok	KEEP	Y	1	English
+05933834-n	latar	KEEP	O	1	English
+00394813-v	campur	KEEP	Y	None	None
+01270868-a	segera	KEEP	O	None	None
+02620587-v	memaes	DELETE	O	None	None
+90000093-n	singapore airlines	KEEP	None	None	None
+11414411-n	pengaruhi	KEEP	X	1	Spanish
+01474550-v	lepaskan	KEEP	X	None	None
+01777210-v	seperti	DELETE	O	None	None
+05202497-n	kemampuan	KEEP	O	1	English
+03691817-n	lounge	KEEP	X	1	Japanese
+02292125-v	mendapatkan	KEEP	None	None	None
+07911677-n	koktail	KEEP	O	2	English, Spanish
+03704210-n	majalah	KEEP	Y	1	English
+08383909-n	bisnis keluarga	KEEP	None	1	Finnish
+00184229-a	berikan	KEEP	None	None	None
+15246853-n	sejenak	KEEP	O	1	English
+05132340-n	permukaan laut	KEEP	None	1	Finnish
+01036996-n	pernikahan	KEEP	Y	1	English
+00625119-v	baca	KEEP	Y	None	None
+01807882-v	terpikat	KEEP	Y	None	None
+01311103-v	mencongkel	KEEP	X	None	None
+80001040-n	Topshop	KEEP	None	None	None
+00955148-v	maksudkan	KEEP	X	None	None
+02071420-a	mirip	KEEP	O	None	None
+90000144-n	vinayagar	KEEP	None	None	None
+02521410-v	membendung	DELETE	O	None	None
+03113835-n	pakaian	KEEP	O	1	Portuguese
+00034574-n	kebaikan	KEEP	O	1	Slovene
+00390290-r	dapat diatur	KEEP	X	None	None
+01376355-a	legendaris	KEEP	O	None	None
+15244650-n	apabila	KEEP	Y	1	English
+00783840-a	general	KEEP	None	None	None
+09847727-n	jemaah	KEEP	None	1	English
+08647616-n	kursi hakim	DELETE	X	1	English
+08652970-n	tempat	KEEP	O	1	English
+00714944-n	kerajinan	KEEP	L	1	Portuguese
+05905706-n	rencana	KEEP	Y	1	Spanish
+01667132-v	mengubah	KEEP	O	None	None
+00100883-r	dari jauh	KEEP	X	None	None
+80000821-r	sampai	KEEP	None	None	None
+01982395-v	meluwengkan	DELETE	O	None	None
+02506922-a	multifaset	KEEP	None	None	None
+08672738-n	desa	KEEP	O	2	English, Portuguese
+01999423-v	memimpin	KEEP	Y	None	None
+00931852-v	arti	KEEP	None	None	None
+02109190-v	dialami	KEEP	None	None	None
+04335209-n	jalan	KEEP	Y	1	English
+03061081-a	disiplin	KEEP	O	None	None
+00161243-n	pilihan	KEEP	O	1	English
+00144405-r	sejenak	KEEP	None	None	None
+02197828-a	170	KEEP	None	None	None
+00462718-r	asam	KEEP	O	None	None
+01208797-n	terima kasih	DELETE	O	1	Finnish
+01446901-v	lambaikan	KEEP	None	None	None
+05790242-n	favorit	KEEP	None	1	Greek
+05824739-n	bukti	KEEP	Y	1	English
+02242464-v	menjual	KEEP	Y	None	None
+00015388-n	satwa	KEEP	Y	1	Spanish
+01729566-a	sedia	KEEP	None	None	None
+05919263-n	hati	KEEP	Y	1	English
+04018399-n	pub	KEEP	O	1	Polish
+00598954-v	mendengar	KEEP	O	None	None
+02402825-v	memusnahkan	DELETE	O	None	None
+02024143-a	kaya	KEEP	O	None	None
+00485711-a	umum	KEEP	Y	None	None
+13875392-n	iris	KEEP	None	1	English
+00017639-r	begitu	KEEP	None	None	None
+00734054-v	berpikir-pikir	DELETE	O	None	None
+02742638-v	tatap muka	KEEP	O	None	None
+04060904-n	wadah	KEEP	O	1	Slovene
+02674564-v	menonjol	KEEP	O	None	None
+02648253-v	abadikanlah	KEEP	None	None	None
+00457998-v	mengentalkan	KEEP	O	None	None
+07571547-n	dim sum	KEEP	None	1	Japanese
+01346003-v	membuka	KEEP	Y	None	None
+00180756-r	ke tepi	DELETE	None	None	None
+02919594-a	rumah	KEEP	O	None	None
+05101815-n	diameter	KEEP	O	1	Japanese
+01158872-v	gunakan	KEEP	X	None	None
+06748466-n	acara	KEEP	O	1	Spanish
+00142191-v	berbentuk	DELETE	O	None	None
+00755745-v	mensyaratkan	DELETE	O	None	None
+00024073-r	belum	KEEP	O	None	None
+04211970-n	shuttle	KEEP	None	1	English
+08221897-n	para penonton	KEEP	X	1	Finnish
+07231532-n	berani	KEEP	O	1	English
+13791389-n	sehubungan	KEEP	None	1	English
+90000329-n	Hari Raya Hajj	KEEP	None	None	None
+08310389-n	kumpul	KEEP	O	1	Portuguese
+00658052-v	tata	KEEP	Y	None	None
+10541229-n	penguasa	KEEP	Y	1	Spanish
+14956325-n	lumpur	KEEP	Y	1	Portuguese
+00976653-v	mempromosikan	KEEP	Y	None	None
+01642477-a	baru	KEEP	O	None	None
+02199177-a	juta	KEEP	O	None	None
+02434976-v	turut	KEEP	None	None	None
+09011151-n	belarus	KEEP	None	1	English
+03574004-n	inspirasi	KEEP	O	1	Japanese
+08376250-n	rangkaian	KEEP	O	1	English
+00770437-v	menjadikan	DELETE	O	None	None
+00025290-r	ke tempat	DELETE	X	None	None
+02614181-v	kelihatan	DELETE	O	None	None
+01411065-a	sama	KEEP	Y	None	None
+02437136-n	unta	KEEP	O	1	Polish
+02367363-v	beraksi	KEEP	O	None	None
+15239292-n	musim	KEEP	O	1	Finnish
+00512487-a	bersaing	KEEP	O	None	None
+01315613-v	cari	KEEP	Y	None	None
+02924102-a	buddhist	KEEP	None	None	None
+05675130-n	kesedaran	DELETE	None	1	Spanish
+07064055-n	hip-hop	KEEP	None	1	English
+02084979-a	teknologi	KEEP	O	None	None
+04296562-n	pentas	KEEP	Y	1	English
+04105893-n	kamar	KEEP	O	2	English, Spanish
+07369604-n	selera	KEEP	None	1	English
+09714264-n	warga indonesia	KEEP	X	1	English
+01264283-v	dilapisi	KEEP	None	None	None
+01007924-v	rangkuman	KEEP	None	None	None
+14050871-n	merah	DELETE	O	1	English
+03472112-n	gym	KEEP	None	1	English
+00327145-v	ukus	KEEP	None	None	None
+03816136-n	jarum	KEEP	Y	1	English
+90000140-n	john little	KEEP	None	None	None
+05538625-n	kepala	KEEP	Y	1	English
+02629535-v	terdiri dari	KEEP	X	None	None
+08972920-n	auckland	KEEP	None	1	Japanese
+02297948-v	menawarkan	KEEP	O	None	None
+13863771-n	barisan	DELETE	O	1	Spanish
+00624476-v	membutuhkan	DELETE	O	None	None
+00522463-a	sempurna	KEEP	O	None	None
+80001061-n	kerang bambu	KEEP	None	None	None
+07565259-n	makanan	KEEP	O	1	Finnish
+02687385-v	menuntun	DELETE	O	None	None
+80000302-n	izakaya	KEEP	None	None	None
+05915034-n	haji	KEEP	O	1	English
+02186580-a	3	KEEP	None	None	None
+02363597-v	bertema	KEEP	O	None	None
+08646566-n	arena	KEEP	O	1	English
+02402409-v	menggulingkan	KEEP	O	None	None
+80000596-a	tiociu	KEEP	None	None	None
+07809096-n	bahan	KEEP	O	1	Finnish
+02759614-v	nyalakan	KEEP	X	None	None
+01505254-v	memikat	KEEP	Y	None	None
+00104345-r	setidak	KEEP	None	None	None
+00065639-v	mengambil	DELETE	O	None	None
+10627899-n	pemurung	KEEP	None	1	English
+00654885-n	heran	DELETE	O	1	English
+00912473-v	berteriak	KEEP	X	None	None
+01815838-a	populer	KEEP	O	None	None
+08715390-n	burma	KEEP	None	1	Portuguese
+05217168-n	daging	KEEP	X	1	English
+14407899-n	pesona	KEEP	O	1	English
+90000043-n	holland road shopping centre	KEEP	None	None	None
+00972642-a	baru	KEEP	None	None	None
+00001740-n	wujud	KEEP	None	1	English
+02026086-v	menemani	KEEP	O	None	None
+00674270-a	sendiri	KEEP	None	None	None
+07308889-n	kejadian	KEEP	O	1	English
+03931044-n	ikon	KEEP	Y	1	Portuguese
+01367431-a	festive	KEEP	None	None	None
+02054989-v	menggelar	KEEP	O	None	None
+07485047-n	nasionalisme	KEEP	O	1	Greek
+00799076-v	menelan	KEEP	L	None	None
+00527188-a	kosmopolitan	KEEP	Y	None	None
+09538544-n	allah	KEEP	None	1	English
+04358707-n	supermarket	KEEP	O	1	Polish
+05661668-n	solusi	KEEP	None	1	Slovene
+00489108-a	biasa	KEEP	Y	None	None
+01995211-v	keluarkan	KEEP	L	None	None
+09393605-n	ladang	KEEP	O	1	Spanish
+00035868-a	kesibukan	KEEP	O	None	None
+02257767-v	ganti	KEEP	Y	None	None
+00059413-r	sering	KEEP	O	None	None
+02236124-v	meluwengkan	DELETE	O	None	None
+02700029-a	kolonial	KEEP	O	None	None
+00886253-a	bersemangat	KEEP	O	None	None
+13774404-n	rombongan	KEEP	O	1	Finnish
+00117985-v	tetap	KEEP	O	None	None
+02385102-a	segelas	KEEP	None	None	None
+14416089-n	privasi	KEEP	O	1	Spanish
+00505853-a	unik	KEEP	Y	None	None
+01812324-v	disenangkan	KEEP	None	None	None
+09426788-n	laut	KEEP	O	1	English
+00274724-v	makan hati	DELETE	X	None	None
+02971672-a	hindustani	KEEP	None	None	None
+00028797-r	namun	KEEP	Y	None	None
+13926786-n	kedudukan	DELETE	O	1	English
+06487395-n	kalender	KEEP	None	1	English
+00395626-a	menjadi merah	DELETE	X	None	None
+00897241-v	menyapa	KEEP	O	None	None
+01218084-v	mengusung	KEEP	O	None	None
+07621776-n	topping	KEEP	None	1	English
+07582609-n	celup	KEEP	L	1	English
+04007894-n	buatan	KEEP	None	1	English
+01729566-a	bekas	KEEP	Y	None	None
+00850183-a	terlezat	KEEP	None	None	None
+02020590-v	menabrak	DELETE	O	None	None
+90000109-n	telok blangah hill park	KEEP	None	None	None
+07414068-n	ledakan	KEEP	O	1	English
+07675627-n	sosis	KEEP	O	1	Portuguese
+06631322-n	sambutan	KEEP	Y	1	Spanish
+08544813-n	negeri	KEEP	O	1	Arabic
+01110517-v	mengatasi	KEEP	O	None	None
+00745499-v	pesankan	KEEP	None	None	None
+02410855-v	bekerja	KEEP	Y	None	None
+01511387-a	tajam	KEEP	O	None	None
+07684289-n	naans	KEEP	X	3	English, Portuguese, Spanish
+02686471-v	menyeret	DELETE	O	None	None
+14421585-n	perkawinan	KEEP	O	1	English
+03417345-n	taman	KEEP	O	1	Polish
+01044730-a	santai	KEEP	None	None	None
+00602805-v	berlatih	KEEP	O	None	None
+02140033-v	pameran	KEEP	Y	None	None
+06766190-n	referensi	KEEP	None	1	English
+05218119-n	mayat	KEEP	Y	1	Spanish
+06892016-n	nomor	KEEP	None	1	Greek
+80001644-n	nama umum	KEEP	None	None	None
+13779374-n	kapasitas	KEEP	O	1	English
+01357342-a	seru	KEEP	None	None	None
+06930633-n	tiociu	KEEP	None	1	English
+06251781-n	transmisi	KEEP	O	1	Spanish
+02148788-v	menyelenggarakan	KEEP	O	None	None
+01844431-v	persinggahan	KEEP	None	None	None
+00713167-v	kaitkan	KEEP	X	None	None
+01185604-v	makan	KEEP	O	None	None
+02685951-v	mengiring	DELETE	O	None	None
+00649481-v	jelajahilah	KEEP	None	None	None
+01129876-v	bela	KEEP	None	None	None
+00813589-a	asal	KEEP	O	None	None
+01494310-v	memasang	KEEP	O	None	None
+10439851-n	pemain	KEEP	Y	1	Spanish
+90000318-n	cendol	KEEP	None	None	None
+00729246-a	satuan	KEEP	None	None	None
+00027167-n	lokasi	KEEP	Y	1	Portuguese
+00950272-a	dalam	KEEP	Y	None	None
+02829696-n	lengkungan	KEEP	Y	1	Spanish
+06687358-n	dukungan	KEEP	None	1	English
+00639849-v	memperoleh	DELETE	O	None	None
+02798769-n	berbasis	KEEP	None	1	English
+90000159-n	Shang Antiques	KEEP	None	None	None
+80000689-n	centrepoint	KEEP	None	None	None
+00672433-v	perkiraan	KEEP	O	None	None
+01849221-v	bergerak ke arah	KEEP	X	None	None
+00751567-v	membutuhkan	DELETE	O	None	None
+01828736-v	nikmati	KEEP	X	None	None
+00069472-r	pada	DELETE	O	None	None
+00026385-v	bersantai	KEEP	Y	None	None
+02812482-a	wilayah	KEEP	O	None	None
+07863935-n	ayam dengan bawang	KEEP	X	None	None
+00597385-v	memahami sepenuhnya	KEEP	X	None	None
+04633453-n	vitalitas	KEEP	L	1	English
+01328705-v	menambahkan	KEEP	O	None	None
+07966719-n	sektor	KEEP	O	1	Polish
+02355596-v	ada	DELETE	O	None	None
+09984659-n	pembeli	KEEP	Y	1	English
+04815177-n	kelas	KEEP	O	2	English, Spanish
+02309165-v	memberi	KEEP	O	None	None
+02394183-v	mengarik	DELETE	O	None	None
+02443849-v	mengoperasikan	KEEP	O	None	None
+01533442-v	membersihkan	KEEP	O	None	None
+04916342-n	sifat	KEEP	O	1	English
+01315333-v	melihat-lihat	KEEP	O	None	None
+02637202-v	tinggal	KEEP	O	None	None
+13372403-n	mutiara	KEEP	O	2	English, Spanish
+14419164-n	tautan	KEEP	O	1	English
+05667404-n	adat	KEEP	Y	1	English
+09512835-n	Nut	DELETE	O	1	English
+00756076-v	mengarik	DELETE	O	None	None
+90000145-n	louis vuitton	KEEP	None	None	None
+00295701-n	perjalanan	KEEP	O	1	English
+02623906-v	memegas	DELETE	O	None	None
+14924602-n	giok	KEEP	None	1	Thai
+08641113-n	chinatown	KEEP	None	1	English
+76100093-x	lonjor	KEEP	None	None	None
+02531088-v	berusaha bersungguh-sungguh utk	DELETE	X	None	None
+00488187-a	di luar dugaan	DELETE	None	None	None
+04379964-n	area	KEEP	None	1	English
+02423183-v	dibiarkan	KEEP	X	None	None
+01468097-a	beruntung	KEEP	Y	None	None
+00674607-v	ambil	KEEP	Y	None	None
+00024720-n	keadaan	KEEP	O	1	Greek
+00793785-v	menggoda	KEEP	O	None	None
+00182406-v	menambahkan	KEEP	Y	None	None
+01380122-v	menyebar	KEEP	L	None	None
+01552419-a	banyak	KEEP	O	None	None
+08430203-n	deretan	KEEP	Y	1	Thai
+05758059-n	pengalaman	KEEP	Y	1	English
+01380122-v	memindahi	DELETE	O	None	None
+04256520-n	sofa	KEEP	Y	1	Japanese
+05637558-n	kecakapan	KEEP	X	1	English
+02511551-v	mengatur	KEEP	O	None	None
+09945905-n	teman	KEEP	O	1	English
+00144722-r	memang	KEEP	O	None	None
+00238022-n	pembukaan	KEEP	O	1	Spanish
+02684924-v	terus	KEEP	None	None	None
+10480253-n	karyawan	KEEP	Y	1	English
+09684609-n	hindu	KEEP	None	1	English
+04398497-n	kwong chen	KEEP	None	1	English
+01204294-n	garis lurus	DELETE	X	1	English
+02337329-a	sedikit	KEEP	None	None	None
+90000016-n	China Singapura	DELETE	None	None	None
+04990525-n	crescendo	KEEP	None	1	English
+08570634-n	padang rumput	KEEP	Y	1	English
+80000340-n	orgo	KEEP	None	None	None
+02294436-v	melaksanakan	KEEP	O	None	None
+01818235-v	dorong	KEEP	O	None	None
+00641158-a	sopan	KEEP	O	None	None
+02600490-v	menggunakan	KEEP	O	None	None
+90000068-n	mount faber park	KEEP	None	None	None
+02468635-a	khas	KEEP	O	None	None
+01801327-a	nyaman	KEEP	None	None	None
+02717102-v	mengangkat	DELETE	O	None	None
+04807050-n	patut	KEEP	Y	1	English
+02320773-v	surcharges	KEEP	None	None	None
+07557434-n	masakan	KEEP	O	1	English
+00898804-n	model	KEEP	O	1	English
+08629508-n	balik	KEEP	None	1	English
+05196375-n	kendali	KEEP	None	1	Finnish
+00734054-v	bertafakur	DELETE	O	None	None
+08621598-n	jawatan	DELETE	O	1	English
+08909107-n	sulawesi	KEEP	X	1	English
+02531919-a	cerah	KEEP	O	None	None
+00975171-a	bergaya	KEEP	Y	None	None
+02472987-n	lelaki	DELETE	O	2	English, Spanish
+07228971-n	terima kasih	KEEP	O	1	Finnish
+04379964-n	meja	KEEP	Y	1	English
+02701210-v	memegang	DELETE	O	None	None
+13878951-n	kotak	KEEP	None	1	English
+06477371-n	kartu	KEEP	O	1	English
+07557434-n	sajian	KEEP	O	1	English
+01156834-v	memasukkan	DELETE	O	None	None
+10700517-n	penduduk	KEEP	O	1	English
+03365991-n	berlantai-lantai	KEEP	X	1	English
+13349662-n	simpanan	KEEP	O	1	Slovene
+01195299-v	coba	KEEP	O	None	None
+01603518-a	tenggara	KEEP	O	None	None
+10639925-n	fans	KEEP	X	1	English
+00141632-v	ikatkan	KEEP	X	None	None
+00150671-r	terlebih	KEEP	O	None	None
+06648590-n	bukti	KEEP	O	1	English
+01170052-v	minum	KEEP	Y	None	None
+02526085-v	tercapai	DELETE	Y	None	None
+00079947-r	di atas	KEEP	None	None	None
+05840188-n	jenis	KEEP	O	1	Polish
+00611481-v	memperingati	KEEP	Y	None	None
+01982395-v	jadi	DELETE	O	None	None
+07520612-n	teror	KEEP	None	1	Slovene
+00614829-v	lupa	KEEP	O	None	None
+08630039-n	bhg	DELETE	None	1	English
+01325417-n	tanduk	KEEP	Y	1	English
+00398978-a	beraneka warna	KEEP	None	None	None
+00543200-a	eksentrik	KEEP	O	None	None
+03665366-n	lampu	KEEP	Y	1	Slovene
+08912842-n	persia	KEEP	None	1	Japanese
+02627934-v	jadi	DELETE	O	None	None
+00162688-v	diperbarui	KEEP	None	None	None
+07886572-n	buat	KEEP	O	1	English
+00072201-r	di sekitar	KEEP	X	None	None
+00579622-a	kemuka	KEEP	None	None	None
+02587532-v	mengatur	DELETE	O	None	None
+00004475-n	badan yg menjalankan tugas	DELETE	X	1	Spanish
+01291941-v	mendekatkan	KEEP	O	None	None
+15166462-n	senja	KEEP	Y	1	Polish
+01983548-a	hormat	KEEP	None	None	None
+00610538-v	mengingatkan	KEEP	O	None	None
+02150948-v	menyaksikan	KEEP	Y	None	None
+01075178-a	ramah	KEEP	O	None	None
+00118032-r	lalu	KEEP	O	None	None
+90000219-n	sang buddha	KEEP	None	None	None
+14546227-n	keadaan	KEEP	L	1	English
+00070111-a	kosmetik	KEEP	O	None	None
+13955461-n	realitas	KEEP	O	2	English, Spanish
+90000118-n	tuas checkpoint	KEEP	None	None	None
+01091234-a	hiasan	KEEP	Y	None	None
+07309599-n	kali	KEEP	Y	1	English
+15245829-n	waktu	KEEP	O	1	English
+07797641-n	scallops	KEEP	None	None	None
+80001373-n	perkedel	KEEP	None	None	None
+01103844-a	dikhususkan	KEEP	None	None	None
+02959553-a	finlandia	KEEP	None	None	None
+00933599-a	mahal	KEEP	O	None	None
+03427296-n	pintu	KEEP	O	1	Finnish
+09217230-n	pesisir	KEEP	O	1	Thai
+02209936-v	memasukkan	DELETE	O	None	None
+03732114-n	mausoleum	KEEP	O	2	English, Greek
+04835724-n	semangat	KEEP	Y	1	English
+02263982-a	berongga	KEEP	O	None	None
+09452653-n	jalur	KEEP	O	2	English, Spanish
+00031899-r	sekali	KEEP	None	None	None
+07935152-n	teh hijau	KEEP	O	None	None
+06685456-n	jaminan	KEEP	Y	1	English
+02014165-v	berangkat	KEEP	Y	None	None
+14526182-n	adrenalin	KEEP	None	1	English
+10471250-n	ulama	KEEP	None	1	English
+05930736-n	bentuk	KEEP	Y	1	Slovene
+02566528-v	melanggar	KEEP	O	None	None
+13863771-n	rangka	DELETE	O	1	Spanish
+00328128-v	merebus	KEEP	Y	None	None
+01138102-v	melindungi	KEEP	O	None	None
+00438332-a	nyaman	KEEP	O	None	None
+07555863-n	makanan yang keras	DELETE	X	1	English
+00759269-v	mohon	KEEP	O	None	None
+00599992-v	mengkaji	DELETE	O	None	None
+05638063-n	keahlian	KEEP	O	1	English
+15169248-n	matahari terbenam	KEEP	X	1	English
+05217168-n	bentuk	DELETE	O	1	English
+90000024-n	dewa keberuntungan	KEEP	None	None	None
+00122128-a	sebelum	KEEP	O	None	None
+02186338-a	i	KEEP	None	None	None
+01737923-v	cipta	KEEP	None	None	None
+05210534-n	jiwa	KEEP	O	1	English
+00238022-n	hal memperkenalkan seseorang	DELETE	X	1	Spanish
+06261586-n	media	KEEP	Y	1	English
+01779428-a	diri	KEEP	O	None	None
+02647497-v	mengalir	DELETE	O	None	None
+00188510-r	yaitu	KEEP	None	None	None
+00487525-a	standard	DELETE	None	None	None
+09762509-n	superstar	KEEP	O	1	Arabic
+06532330-n	hukum	KEEP	O	1	Spanish
+02191546-v	terasa	KEEP	None	None	None
+01199083-a	bermacam-macam	KEEP	O	None	None
+00362348-v	menghentikan	KEEP	O	None	None
+00610592-n	sastra	KEEP	None	1	Spanish
+05098942-n	ukuran	KEEP	O	1	Finnish
+13596756-n	par	KEEP	O	1	Spanish
+01861205-a	umum	KEEP	Y	None	None
+00564695-v	lipat	KEEP	L	None	None
+02560585-v	membentuk	DELETE	O	None	None
+90000132-n	golden mile complex	KEEP	None	None	None
+00631798-a	sebenar	KEEP	X	None	None
+07786164-n	oyster	KEEP	None	2	English, Portuguese
+02603699-v	nampak	DELETE	O	None	None
+90000133-n	golden peony	KEEP	None	None	None
+09179606-n	kenapa	KEEP	M	1	Slovene
+08593924-n	barisan	DELETE	O	1	Spanish
+13943968-n	hal	KEEP	O	1	Greek
+00035718-r	agak	KEEP	O	None	None
+05641556-n	koordinasi	KEEP	O	1	Portuguese
+02368336-a	tauco	KEEP	None	None	None
+02393086-a	artistik	KEEP	L	None	None
+04852088-n	kejahatan	KEEP	O	1	Finnish
+04835950-n	aksi	KEEP	O	1	English
+02627934-v	mengarik	DELETE	O	None	None
+13910384-n	ruangan	DELETE	Y	1	English
+02627934-v	meluwengkan	DELETE	O	None	None
+00846509-v	mencemarkan	KEEP	O	None	None
+01157517-v	membasmi	DELETE	O	None	None
+01275762-v	bergaris	KEEP	O	None	None
+02904803-n	brokat	KEEP	None	1	Portuguese
+08982037-n	pacific	KEEP	None	1	English
+02560585-v	membentuk watak	DELETE	X	None	None
+00588888-v	mengetahui	KEEP	O	None	None
+08630039-n	rantau	DELETE	O	1	English
+10461747-n	pengaruh	KEEP	O	1	Slovene
+09880741-n	maling	KEEP	O	1	English
+10583387-n	pemukim	KEEP	None	1	English
+01427127-v	membawa	DELETE	O	None	None
+00221627-a	seperti raksasa	KEEP	X	None	None
+01258617-a	tubuh manusia	KEEP	X	None	None
+14407899-n	daya pikat	KEEP	X	1	English
+02685390-v	terbentang	KEEP	O	None	None
+00258549-r	melengkung ke dalam	DELETE	X	None	None
+00986027-a	gemuk	KEEP	Y	None	None
+02958392-a	prancis	KEEP	None	None	None
+02603699-v	kelihatan	DELETE	O	None	None
+00036291-r	agak	KEEP	O	None	None
+02568672-v	latih	DELETE	O	None	None
+05600637-n	wajah	KEEP	Y	1	Portuguese
+00410247-n	pola	KEEP	O	1	Greek
+00488187-a	tersendiri	DELETE	O	None	None
+10193967-n	suami	KEEP	Y	1	Spanish
+02402425-n	ternak	KEEP	None	1	English
+08436759-n	flora	KEEP	Y	4	English, Portuguese, Spanish, Greek
+07136940-n	obrolan	KEEP	None	1	Spanish
+09774266-n	konsultan	KEEP	Y	1	Spanish
+01578513-v	merendam	KEEP	Y	None	None
+02070491-a	baru	KEEP	O	None	None
+05098942-n	luas	KEEP	Y	1	Finnish
+08971693-n	natal	KEEP	None	1	Spanish
+00048739-r	sekarang	KEEP	O	None	None
+00005526-v	berembus	DELETE	O	None	None
+00294245-v	bermekaran	KEEP	None	None	None
+13721387-n	ton	KEEP	Y	1	English
+01461328-v	menggabungkan	KEEP	O	None	None
+80001305-n	Orang Minangkabau	KEEP	None	None	None
+01269073-a	lapar	KEEP	Y	None	None
+00062857-r	oleh itu	KEEP	None	None	None
+07824191-n	kari kambing	KEEP	X	None	None
+00813978-v	berdiskusi	KEEP	Y	None	None
+07738353-n	kulit	KEEP	Y	1	English
+01204557-a	tinggi	KEEP	O	None	None
+02614181-v	orang	DELETE	O	None	None
+03210940-n	tampilan	KEEP	None	1	Spanish
+80001230-x	ya	KEEP	None	None	None
+02093888-a	selamat	KEEP	O	None	None
+01389993-a	besar	KEEP	None	None	None
+01730745-a	dulu	KEEP	O	None	None
+02236124-v	mempunyai	DELETE	O	None	None
+06500937-n	paspor	KEEP	None	2	English, Spanish
+00840517-n	makan	KEEP	None	1	Spanish
+14050143-n	energi	KEEP	O	1	English
+07829412-n	sauce	KEEP	None	1	Spanish
+00048475-r	masa kini	KEEP	O	None	None
+02209745-v	mengikat perjanjian	DELETE	X	None	None
+02632940-v	tercantum	KEEP	O	None	None
+02670890-v	berfungsi	KEEP	O	None	None
+14997529-n	pengawet	KEEP	O	1	English
+02623731-v	berakar	KEEP	Y	None	None
+08521623-n	kuburan	KEEP	O	1	English
+01968165-a	harian	KEEP	Y	None	None
+09225146-n	air	KEEP	O	1	English
+80000814-n	dokar	KEEP	None	None	None
+08630039-n	bagian	KEEP	O	1	English
+01852812-a	secara langsung	KEEP	X	None	None
+01182709-v	berikan	KEEP	None	None	None
+07722217-n	bawang	KEEP	O	1	Polish
+00238022-n	penampilan	KEEP	None	1	Spanish
+01083769-v	mereguk	DELETE	O	None	None
+80000749-n	century egg	KEEP	None	None	None
+01157517-v	menuntaskan	DELETE	O	None	None
+01003050-a	habis	KEEP	Y	None	None
+01829292-v	membara	KEEP	O	None	None
+00329831-a	pusat	KEEP	Y	None	None
+06646243-n	pertanda	KEEP	None	1	Spanish
+00609100-v	terlupakan	KEEP	X	None	None
+01065694-a	bebas	KEEP	O	None	None
+09929298-n	pemanjat	KEEP	O	1	English
+10748620-n	vip	KEEP	None	1	English
+03463832-n	perkebunan	KEEP	None	1	English
+00515414-n	hiburan	KEEP	O	2	English, Spanish
+00771632-v	menemani ke	DELETE	X	None	None
+10480253-n	profesional	KEEP	Y	1	English
+01792973-a	kosong	KEEP	O	None	None
+14474052-n	kemakmuran	KEEP	O	1	English
+00571061-v	melepas	KEEP	O	None	None
+00388065-v	bereksperimen	KEEP	None	None	None
+90000047-n	kandahar street	KEEP	None	None	None
+00068368-r	sepanjang	KEEP	O	None	None
+02143283-v	menyingkap	KEEP	Y	None	None
+01157517-v	menghabiskan tenaga	DELETE	X	None	None
+00120316-v	pusatnya—menjadikan	KEEP	None	None	None
+13863771-n	tali	DELETE	O	1	Spanish
+03671473-n	dawai	DELETE	O	1	Spanish
+13713003-n	garis lurus	DELETE	X	1	English
+05933834-n	latar belakang	KEEP	O	1	English
+03719053-n	tempat tinggal	KEEP	O	1	English
+00771632-v	menuntun	DELETE	O	None	None
+02118933-v	perhatikan	KEEP	X	None	None
+02280869-v	menguras	KEEP	O	None	None
+00969333-a	lain	KEEP	O	None	None
+02355596-v	mendapati	DELETE	O	None	None
+00609100-v	lupakan	KEEP	X	None	None
+00972902-a	modern	KEEP	None	None	None
+02685951-v	menghabiskan masa	DELETE	X	None	None
+10628644-n	sultan	KEEP	O	1	Slovene
+08559508-n	rumah	KEEP	O	1	Portuguese
+08408418-n	bazaar	KEEP	None	None	None
+01982395-v	menabrak	DELETE	O	None	None
+02488118-a	kelas atas	KEEP	None	None	None
+01824736-v	mahu	DELETE	None	None	None
+07639855-n	gorengan	KEEP	O	1	English
+07511733-n	harap	KEEP	O	1	English
+01027379-n	upacara	KEEP	O	1	English
+80001040-n	topshop	KEEP	None	None	None
+00065639-v	mendapatkan	KEEP	O	None	None
+05816287-n	ilmu	KEEP	O	1	English
+06799897-n	rangka	DELETE	O	1	English
+02355596-v	mengadakan	DELETE	O	None	None
+01214265-v	membutuhkan	DELETE	O	None	None
+00395626-a	memerah	DELETE	O	None	None
+07058064-n	techno	KEEP	None	3	English, Polish, Spanish
+02157415-n	perut	KEEP	O	1	English
+14519366-n	beriklim	KEEP	None	1	Spanish
+09477037-n	jaringan	KEEP	O	1	Greek
+09813126-n	pemain	KEEP	O	1	Spanish
+08509442-n	zona	KEEP	None	1	Portuguese
+00770437-v	mempunyai	DELETE	O	None	None
+00884466-n	kursus	KEEP	Y	1	Portuguese
+03122400-a	taiwan	KEEP	None	None	None
+01973125-v	menurunkan	KEEP	O	None	None
+00610538-v	ingatkan	KEEP	L	None	None
+01256417-n	pimpinan	KEEP	Y	1	English
+02479323-v	mengeluarkan	DELETE	O	None	None
+01410363-a	lain	KEEP	Y	None	None
+02604760-v	inilah	KEEP	None	None	None
+00468480-n	sepak bola	KEEP	O	1	Spanish
+07186828-n	seru	KEEP	O	1	English
+00833546-v	memperbarui	KEEP	None	None	None
+02478749-a	terbagi	KEEP	Y	None	None
+02036755-v	berbaris	KEEP	O	None	None
+00248026-v	menjadi tua	DELETE	X	None	None
+09000462-n	capetown	KEEP	None	1	Japanese
+02920121-a	sejarah	KEEP	O	None	None
+00679147-a	rusak	KEEP	O	None	None
+02665282-v	menyerupai	KEEP	Y	None	None
+80000823-r	ketika	KEEP	None	None	None
+10030277-n	dramatis	KEEP	O	1	Slovene
+03412058-n	galeri	KEEP	Y	1	English
+00911752-n	pendirian	KEEP	O	1	Slovene
+02410393-a	tebal	KEEP	Y	None	None
+00037641-r	begitu	KEEP	O	None	None
+90000061-n	le peranakan	KEEP	None	None	None
+01835496-v	bepergian	KEEP	O	None	None
+00070965-n	kesalahan	KEEP	Y	1	English
+00320852-n	hal memperkenalkan sso	DELETE	X	1	Spanish
+07707451-n	sayuran	KEEP	Y	1	English
+07996689-n	serangkaian	KEEP	X	1	English
+01211296-a	tinggi	KEEP	O	None	None
+09823502-n	bibi	KEEP	O	1	English
+04081281-n	resto	KEEP	X	1	English
+80001085-n	Madam	KEEP	None	None	None
+01982395-v	demik	DELETE	O	None	None
+04211970-n	bolak-balik	KEEP	None	1	English
+00087736-v	terjangkit	KEEP	None	None	None
+01654628-v	menghasilkan	KEEP	O	None	None
+08593924-n	garisan	DELETE	None	1	Spanish
+13736799-n	setengah	KEEP	Y	1	Slovene
+01272397-a	pengenal	KEEP	None	None	None
+02065665-a	berlainan	KEEP	O	None	None
+11473954-n	cahaya	KEEP	O	1	Polish
+80000593-n	bak kut teh	KEEP	None	None	None
+03065424-n	lingkaran	KEEP	O	1	English
+05115804-n	kekayaan	KEEP	O	1	English
+09908025-n	abang	KEEP	None	1	Finnish
+15201505-n	tahun	KEEP	O	1	Polish
+02204692-v	milik	KEEP	O	None	None
+07270179-n	unsur	KEEP	O	1	English
+00524682-v	memasukkan	DELETE	O	None	None
+06518068-n	kupon	KEEP	Y	1	English
+00144722-r	sudah pasti	KEEP	X	None	None
+05946687-n	beragam	KEEP	None	1	English
+06403969-n	kaligrafi	KEEP	O	1	Portuguese
+06831284-n	B	KEEP	None	4	Slovene, English, Portuguese, Spanish
+02459109-a	tenang	KEEP	O	None	None
+07164546-n	penawaran	KEEP	None	1	Spanish
+07821919-n	kunyit	KEEP	O	1	English
+90000325-n	belachan	DELETE	None	None	None
+80001130-n	dia	KEEP	None	None	None
+03083417-a	malaysia	KEEP	None	None	None
+80001275-n	neraka	KEEP	None	None	None
+02702656-a	kontrak	KEEP	O	None	None
+09020961-n	tajikistan	KEEP	None	3	English, Portuguese, Greek
+05131902-n	55	KEEP	None	1	Spanish
+00199707-n	modifikasi	KEEP	None	1	Greek
+02743391-a	manusia	KEEP	O	None	None
+02544048-a	yang mengerikan	DELETE	X	None	None
+13832355-n	ke arah timur	DELETE	X	1	Portuguese
+02075857-v	mengikut	DELETE	O	None	None
+02686471-v	mengiring	DELETE	O	None	None
+03925226-n	foto	KEEP	O	1	English
+02599636-v	mengarik	DELETE	O	None	None
+04263614-n	sumber	KEEP	L	1	Spanish
+00021878-r	kadang	KEEP	L	None	None
+00310386-v	berkembang	KEEP	Y	None	None
+01714208-v	menampilkan	KEEP	None	None	None
+01181295-v	menyajikan	KEEP	O	None	None
+08510666-n	sisi	KEEP	O	1	English
+02325968-v	belanja	KEEP	None	None	None
+00204391-v	merosot	KEEP	O	None	None
+00899226-a	muskil	KEEP	None	None	None
+00476249-a	luas	KEEP	O	None	None
+00295701-n	baris	KEEP	None	1	English
+00452512-v	mengisi	KEEP	Y	None	None
+01063939-n	menunggu	KEEP	O	1	Greek
+00484680-a	nirlaba	KEEP	None	None	None
+00378985-n	kombinasi	KEEP	O	1	English
+02202443-a	keepat	KEEP	None	None	None
+04400499-n	telegraf	KEEP	O	1	Polish
+10595164-n	saudara	KEEP	M	1	Spanish
+05481095-n	otak	KEEP	Y	1	Greek
+00180756-r	ke sisi	DELETE	O	None	None
+07926920-n	gula	DELETE	O	None	None
+05142863-n	keuntungan	KEEP	Y	1	English
+07809096-n	bumbu	KEEP	Y	1	Finnish
+90000015-n	china selatan	KEEP	None	None	None
+01307571-a	gaul	KEEP	None	None	None
+09018848-n	georgia	KEEP	None	1	Greek
+02236842-a	mulus	KEEP	None	None	None
+05861067-n	jumlah	KEEP	O	1	English
+02699941-v	tepat	KEEP	O	None	None
+02149787-a	potongan	DELETE	O	None	None
+02686471-v	menuntun	DELETE	O	None	None
+01411919-a	mudah	KEEP	O	None	None
+02004009-v	mengikuti	KEEP	O	None	None
+02219094-v	didukung	KEEP	None	None	None
+10472799-n	pangeran	KEEP	O	1	Portuguese
+00120675-v	menjadi	KEEP	O	None	None
+90000070-n	Nabi Ibrahim	KEEP	None	None	None
+00430606-n	permainan	KEEP	Y	1	Finnish
+01012503-a	asli	KEEP	Y	None	None
+01152746-a	lembut	KEEP	Y	None	None
+00018189-r	sampai-sampai	KEEP	O	None	None
+02414031-a	halus	KEEP	O	None	None
+01285136-a	megah	KEEP	O	None	None
+00751838-a	elegan	KEEP	O	None	None
+01577635-v	membenamkan diri	KEEP	None	None	None
+00936297-a	bekas	KEEP	O	None	None
+02067491-a	berlainan	KEEP	O	None	None
+02671880-v	memuaskan	KEEP	O	None	None
+00077196-a	apung	KEEP	L	None	None
+08774227-n	munich	KEEP	None	1	Greek
+07887634-n	lager	KEEP	X	1	Spanish
+90000078-n	Penggunaan Data Statistik	KEEP	None	None	None
+00031899-r	sangat	KEEP	O	None	None
+01920697-a	diramaikan	KEEP	None	None	None
+02318464-a	lempengan	KEEP	None	None	None
+08223802-n	komunitas	KEEP	O	1	Japanese
+01494310-v	menempatkan	KEEP	Y	None	None
+01027859-n	tradisi	KEEP	Y	1	Portuguese
+05145118-n	harga	KEEP	Y	1	Spanish
+02316868-v	memberikan	KEEP	O	None	None
+07062697-n	jazz	KEEP	X	1	Polish
+02479323-v	makanan	DELETE	O	None	None
+07646578-n	daging bebek	KEEP	X	1	Polish
+00931852-v	artinya	KEEP	None	None	None
+02225492-v	sisakan	KEEP	None	None	None
+02395115-a	lezat	KEEP	None	None	None
+90000048-n	katong antique house	KEEP	None	None	None
+02622234-v	bergabung	KEEP	O	None	None
+90000414-n	tandoori	KEEP	None	None	None
+01752495-v	mewujudkan	KEEP	O	None	None
+02664769-v	ialah	KEEP	M	None	None
+02717102-v	membawa pergi	DELETE	X	None	None
+01190948-v	menikmati	KEEP	O	None	None
+00674607-v	memasukkan	DELETE	O	None	None
+01858910-v	keliling	KEEP	None	None	None
+02629535-v	digabung	KEEP	None	None	None
+00589904-v	mendapat	KEEP	O	None	None
+01681492-v	marmer	KEEP	None	None	None
+06891493-n	pementasan	KEEP	O	1	English
+00615774-v	terkecuali	KEEP	Y	None	None
+02205272-v	jadi	DELETE	O	None	None
+01912159-v	melintasi	KEEP	O	None	None
+04335209-n	street	KEEP	None	1	English
+05851131-n	lambang	KEEP	O	1	English
+07059962-n	pop	KEEP	Y	1	English
+00488187-a	khas	KEEP	O	None	None
+09620794-n	penduduk asli	KEEP	O	1	English
+02191040-a	48	KEEP	None	None	None
+01569566-v	pasangi	KEEP	None	None	None
+01168569-n	persaingan	KEEP	Y	1	Spanish
+00489491-a	selalu	DELETE	O	None	None
+07860629-n	mana	KEEP	O	1	Slovene
+06691083-n	passport	KEEP	None	1	English
+08559508-n	tempat kediaman	DELETE	None	1	Portuguese
+77000092-n	apa	KEEP	None	None	None
+90000184-n	Parade Chingay	KEEP	None	None	None
+00099951-n	ilusi	KEEP	Y	1	Polish
+00598954-v	diketahui	KEEP	None	None	None
+02096167-v	menyimpang	DELETE	Y	None	None
+00674607-v	membuat pilihan	DELETE	X	None	None
+08591592-n	padang	KEEP	Y	1	Portuguese
+01197014-v	mengalami	DELETE	O	None	None
+02671613-v	berperan	KEEP	O	None	None
+00200258-a	hard cover	KEEP	None	None	None
+01002740-v	memfilmkan	KEEP	None	None	None
+02596462-a	berkulit	KEEP	O	None	None
+02394183-v	menjalankan	DELETE	O	None	None
+00851744-a	dapat dipilih	KEEP	X	None	None
+10461424-n	kekuatan	KEEP	Y	1	Spanish
+01148283-a	senang hati	KEEP	None	None	None
+06888944-n	pemandangan	KEEP	O	1	Spanish
+01494310-v	tata	KEEP	None	None	None
+02708420-v	meluangkan	KEEP	Y	None	None
+00363621-s	keren	KEEP	None	None	None
+00197395-r	dengan senang hati	KEEP	X	None	None
+00586262-n	tugas	DELETE	O	1	English
+07458453-n	perlombaan	KEEP	None	1	Spanish
+07561112-n	makan bersukat	DELETE	X	1	English
+07355491-n	maut	KEEP	O	1	Spanish
+07834160-n	rempah-rempah	KEEP	O	None	None
+01687167-a	baru	KEEP	O	None	None
+04536866-n	biola	KEEP	O	1	English
+02304982-v	berkumpul	KEEP	O	None	None
+00618377-a	roasted	KEEP	None	None	None
+01380122-v	membabarkan	DELETE	O	None	None
+02075857-v	jadi	DELETE	O	None	None
+01654628-v	bangun	KEEP	Y	None	None
+13927383-n	kondisi	KEEP	Y	1	Greek
+02187296-a	sepuluh	KEEP	O	None	None
+09393605-n	dataran	KEEP	O	1	Spanish
+00756076-v	berhasil	DELETE	O	None	None
+01375174-a	digelar	KEEP	X	None	None
+00026385-v	beristirahat	KEEP	Y	None	None
+01839317-a	sangat	KEEP	O	None	None
+13988498-n	negara	DELETE	O	1	Slovene
+13743269-n	2	KEEP	None	1	Portuguese
+02560585-v	membikin	DELETE	O	None	None
+01764800-v	menenangkan hati	KEEP	O	None	None
+01188725-v	dibutuhkan	KEEP	None	None	None
+14879750-n	kristal	KEEP	O	1	English
+15166191-n	petang	KEEP	Y	1	English
+02385102-a	tinggi	KEEP	Y	None	None
+00445548-a	jauh	KEEP	Y	None	None
+06797169-n	tanda	KEEP	O	1	Arabic
+06369829-n	cerita	KEEP	Y	1	English
+01712704-v	memperbuat	KEEP	None	None	None
+00327145-v	steamed	KEEP	None	None	None
+01099951-a	tertentu	KEEP	O	None	None
+09729530-n	arab	KEEP	O	1	Polish
+14006945-n	aksi	KEEP	O	1	English
+03249569-n	genderang	KEEP	None	1	English
+00395698-v	menyatu	KEEP	O	None	None
+07985223-n	pasangan	KEEP	O	1	Finnish
+07464725-n	pertandingan	KEEP	Y	2	English, Spanish
+02544048-a	yg mengerikan	DELETE	X	None	None
+00796315-n	petualangan	KEEP	Y	1	Polish
+01352067-a	mengganggu	KEEP	O	None	None
+02347220-v	gadaikan	KEEP	None	None	None
+01156568-v	bertemu	KEEP	O	None	None
+00037226-r	yang benar	KEEP	None	None	None
+00752764-v	memesan	KEEP	O	None	None
+07892512-n	wine	KEEP	None	None	None
+06430385-n	kitab	KEEP	O	1	English
+02191232-a	50	KEEP	None	None	None
+08552138-n	wilayah	KEEP	Y	1	Spanish
+02701210-v	menahan	DELETE	O	None	None
+00575365-n	kacang	DELETE	O	1	English
+02268133-a	baik	KEEP	None	None	None
+01935233-v	arab	KEEP	None	None	None
+01818235-v	menganjurkan	KEEP	O	None	None
+02560548-a	lebar	KEEP	O	None	None
+07006712-n	pentas	KEEP	O	1	English
+01518878-n	burung unta	KEEP	O	1	English
+07740220-n	lezat	KEEP	O	1	English
+03154886-a	cari	KEEP	O	None	None
+00028270-n	masa	KEEP	O	1	Finnish
+01462005-v	campur	KEEP	O	None	None
+02020590-v	menakol	DELETE	O	None	None
+09225943-n	rawa	KEEP	O	1	English
+00017445-r	bahkan	KEEP	O	None	None
+00781644-a	samar-samar	KEEP	O	None	None
+01674242-a	akhbar harian	DELETE	X	None	None
+13988224-n	nirwana	KEEP	O	1	Finnish
+00394813-v	bertaut	DELETE	None	None	None
+80001132-n	-ku	KEEP	None	None	None
+01158872-v	memanfaatkan	KEEP	O	None	None
+02240481-v	mencari	KEEP	O	None	None
+07185076-n	penawaran	KEEP	None	1	English
+04677514-n	paras	KEEP	None	1	English
+05981230-n	pangsa	KEEP	None	1	English
+07450651-n	raya	KEEP	Y	1	Portuguese
+02045043-v	berputar	KEEP	O	None	None
+01026095-v	menyebut	KEEP	O	None	None
+02139544-v	menampilkan	KEEP	O	None	None
+01409581-a	bagai	KEEP	O	None	None
+08593262-n	garisan	DELETE	None	1	Spanish
+02070030-a	lain	KEEP	O	None	None
+01824736-v	kayak	DELETE	O	None	None
+02327200-v	memberikan	DELETE	Y	None	None
+03972524-n	kantung	KEEP	O	1	English
+09014586-n	moldova	KEEP	None	1	Japanese
+02074092-a	gila	KEEP	O	None	None
+01639765-n	katak	KEEP	Y	1	Greek
+01999218-v	mengawali	DELETE	O	None	None
+02542280-v	mengikuti	KEEP	Y	None	None
+80002384-a	tandoori	KEEP	None	None	None
+15228910-n	saat	KEEP	None	1	Finnish
+01462005-v	mencampurkan,gaulkan	DELETE	X	None	None
+01835496-v	pergi	KEEP	O	None	None
+90000135-n	hainanese chicken rice	KEEP	None	None	None
+04557648-n	bohongan	DELETE	X	1	Finnish
+02620587-v	berbahan	DELETE	X	None	None
+00047392-r	juga	DELETE	O	None	None
+08923348-n	tokyo	KEEP	None	2	Polish, Portuguese
+06410904-n	buku	KEEP	Y	1	Portuguese
+00388065-n	parut	KEEP	O	1	English
+01861205-a	publik	KEEP	Y	None	None
+02236624-v	meluwengkan	DELETE	O	None	None
+01249147-v	serutan	KEEP	None	None	None
+09218315-n	honeycomb	KEEP	None	1	Spanish
+02108026-v	alami	KEEP	None	None	None
+00301777-a	tidak terkira	KEEP	X	None	None
+01193099-v	rakus	DELETE	O	None	None
+01918984-a	senyap	KEEP	Y	None	None
+00219641-r	jungkir balik	KEEP	None	None	None
+01514655-v	luncurkan	KEEP	X	None	None
+01193099-v	pajuh	DELETE	Y	None	None
+00173220-a	dalam dua	KEEP	X	None	None
+15050011-n	spices	KEEP	None	1	English
+00520892-a	sepenuh	KEEP	None	None	None
+14002279-n	keseimbangan	KEEP	Y	1	Spanish
+90000218-n	world gourmet summit	KEEP	None	None	None
+00599992-v	menelaah	DELETE	O	None	None
+00105958-v	rasakan	KEEP	None	None	None
+14875077-n	bahan bakar	KEEP	Y	1	English
+02210855-v	mengambilkan	DELETE	Y	None	None
+07971582-n	dinasti	KEEP	O	1	Slovene
+00029037-r	juga	KEEP	O	None	None
+00167829-a	menawan	KEEP	O	None	None
+10689564-n	penjahit	KEEP	O	2	English, Spanish
+06333653-n	bernama	KEEP	O	1	English
+02768579-v	mengepul	KEEP	O	None	None
+02773037-n	tas	KEEP	O	1	English
+00173338-v	mengalih dari	DELETE	X	None	None
+07931733-n	minuman campuran rum	DELETE	X	None	None
+00520214-a	lengkap	KEEP	Y	None	None
+03085213-a	mediterania	KEEP	None	None	None
+01063049-v	mengeluarkan	KEEP	O	None	None
+02766390-v	berkilauan	KEEP	O	None	None
+02355596-v	membuat	DELETE	O	None	None
+00019339-r	pernah	DELETE	O	None	None
+00487525-a	standar	KEEP	None	None	None
+90000116-n	tong tong	KEEP	None	None	None
+00163592-a	penuh perhatian	KEEP	X	None	None
+04105893-n	ruang	KEEP	None	2	English, Spanish
+13764213-n	isi	KEEP	None	None	None
+80001374-n	jeruk obat	KEEP	None	None	None
+00164751-r	sekiranya	KEEP	O	None	None
+03691817-n	lounges	KEEP	None	1	Japanese
+00755745-v	menyana	DELETE	None	None	None
+09387222-n	jalur	KEEP	O	1	Slovene
+01982395-v	mencemuk	DELETE	O	None	None
+00114431-n	tarik	KEEP	O	1	English
+07931280-n	anggur	KEEP	O	None	None
+08594286-n	dawai	DELETE	O	1	English
+02491383-v	berpesta	KEEP	O	None	None
+14802450-n	baja	KEEP	Y	1	Spanish
+08594286-n	jalur	DELETE	O	1	English
+00394562-a	semarak	DELETE	O	None	None
+14422179-n	peningkatan	KEEP	O	1	English
+07288801-n	keajaiban	KEEP	Y	1	English
+05924920-n	biasa	DELETE	O	1	English
+07126383-n	lenguhan	KEEP	None	1	English
+02664769-v	nampak	DELETE	O	None	None
+13525549-n	penampilan	KEEP	O	1	English
+01014251-a	antara	KEEP	O	None	None
+01617192-v	ciptakanlah	KEEP	None	None	None
+02636516-v	mempunyai	KEEP	O	None	None
+01462005-v	merampaikan	DELETE	O	None	None
+00008600-r	sendiri	KEEP	O	None	None
+03294048-n	alat	KEEP	O	1	Japanese
+00599992-v	menyelidik	DELETE	O	None	None
+01215421-v	menangkap	KEEP	O	None	None
+00120796-v	mendapat	DELETE	O	None	None
+07565161-n	makanan	KEEP	O	1	English
+06880533-n	contoh	KEEP	O	2	English, Spanish
+01484083-a	wanita	KEEP	O	None	None
+01999218-v	menuju	DELETE	O	None	None
+02798769-n	dasar	KEEP	O	1	English
+01553629-a	banyak	KEEP	O	None	None
+00836236-v	menyimbolkan	KEEP	O	None	None
+13846199-n	yg pertama	DELETE	X	1	English
+01158181-v	membazir	DELETE	None	None	None
+08845555-n	austria	KEEP	None	1	Polish
+03931044-n	imaji	KEEP	None	1	Portuguese
+01943406-a	pantas	KEEP	O	None	None
+05870055-n	suatu	KEEP	L	1	English
+00008600-r	hanya	KEEP	O	None	None
+04683814-n	keindahan	KEEP	O	1	Arabic
+13303315-n	harga	KEEP	O	1	Spanish
+01646682-v	menginspirasi	KEEP	None	None	None
+80001425-n	xiao	KEEP	None	None	None
+00394813-v	mencampurkan	DELETE	Y	None	None
+00889555-v	menjamin	KEEP	O	None	None
+02209745-v	membutuhkan	DELETE	O	None	None
+01284212-a	dramatis	KEEP	None	None	None
+02531088-v	bersusah payah utk	DELETE	X	None	None
+02737876-v	kepunyaan	DELETE	O	None	None
+14062725-n	ketagihan	KEEP	Y	1	English
+80001161-n	antara	KEEP	None	None	None
+01447937-a	ketat	KEEP	O	None	None
+08303275-n	federasi	KEEP	X	1	Portuguese
+13983304-n	pencahayaan	KEEP	O	2	Portuguese, Spanish
+05816622-n	data	KEEP	Y	1	Spanish
+01106405-a	setempat	KEEP	O	None	None
+02565425-a	disediakan	KEEP	X	None	None
+00586262-n	benteng	DELETE	O	1	English
+01167981-v	bersantap	DELETE	Y	None	None
+05159225-n	keistimewaan	KEEP	Y	1	English
+00724150-v	menyisakan	KEEP	O	None	None
+80001374-n	jeruk purut	KEEP	None	None	None
+00014742-v	tidur	KEEP	O	None	None
+03745146-n	kebun binatang	KEEP	O	1	English
+09359803-n	gunungan	KEEP	None	1	Portuguese
+00922228-a	memabukkan	KEEP	O	None	None
+90000180-n	imperial treasure cantonese cuisine	KEEP	None	None	None
+00018043-r	sekalipun	KEEP	None	None	None
+07701372-n	tagliatelle	KEEP	X	None	None
+00560100-a	penuh	KEEP	L	None	None
+06277280-n	tv	KEEP	None	1	English
+01638368-v	merancang	KEEP	O	None	None
+13371958-n	berlian	KEEP	Y	1	Portuguese
+02150948-v	saksikanlah	KEEP	None	None	None
+02193647-a	75%	KEEP	None	None	None
+90000041-n	hakka yong tau foo	KEEP	None	None	None
+00039021-n	interaksi	KEEP	Y	1	English
+02616386-v	sebagai	KEEP	None	None	None
+07569106-n	tepung	KEEP	Y	1	English
+00013887-a	lebat	KEEP	O	None	None
+04533946-n	dvd	KEEP	X	1	Portuguese
+01905653-a	sejati	KEEP	Y	None	None
+01798936-v	kecewa	KEEP	O	None	None
+00825192-n	bela diri	KEEP	None	1	Slovene
+02163602-a	hebat	KEEP	O	None	None
+90000326-n	ayam goreng	KEEP	None	None	None
+03984234-n	porselin	KEEP	None	1	Spanish
+05814650-n	hal	KEEP	Y	1	English
+00662182-v	tandai	KEEP	None	None	None
+01565921-v	habis dimakan	DELETE	X	None	None
+80000622-a	entah	KEEP	None	None	None
+05149832-n	bantuan	KEEP	O	1	English
+02150948-v	simaklah	KEEP	None	None	None
+02495922-a	bermanfaat	KEEP	Y	None	None
+03804744-n	paku	KEEP	Y	1	Portuguese
+08431437-n	barisan	KEEP	Y	1	English
+00106921-r	biasa	KEEP	None	None	None
+00751567-v	memerlukan	DELETE	Y	None	None
+01627355-v	melahirkan	KEEP	O	None	None
+02210855-v	dipuaskan	KEEP	None	None	None
+02647497-v	biasa	DELETE	O	None	None
+07806221-n	salad	KEEP	None	1	English
+01995549-v	melanjutkan	KEEP	O	None	None
+02649042-v	memenuhi	KEEP	Y	None	None
+02570267-v	manjakan	KEEP	X	None	None
+14474052-n	kemewahan	KEEP	O	1	English
+00193194-r	dari	DELETE	O	None	None
+00690614-v	anggap	KEEP	O	None	None
+02375131-v	terlibat	KEEP	O	None	None
+01326528-v	memusnahkan	DELETE	O	None	None
+02287041-v	temukan	KEEP	None	None	None
+04931733-n	cara	KEEP	O	1	English
+06256229-n	daun	DELETE	O	1	English
+02230615-v	turunkan	KEEP	None	None	None
+77000121-n	sini	DELETE	None	None	None
+00784342-v	meminta	KEEP	O	None	None
+00036935-r	pasti	KEEP	O	None	None
+02705428-v	tidak berakhir	KEEP	X	None	None
+00758333-v	menghendaki	DELETE	O	None	None
+03309808-n	kain	KEEP	O	1	Slovene
+00760916-a	terus	KEEP	Y	None	None
+02825355-a	suara	KEEP	O	None	None
+02874086-n	gerai	KEEP	O	1	English
+03046257-n	jam	KEEP	Y	1	Finnish
+02395115-a	gurih	KEEP	O	None	None
+08049401-n	asosiasi	KEEP	Y	1	English
+08761868-n	kopenhagen	KEEP	X	2	Slovene, English
+00297062-n	kelana	KEEP	None	1	English
+00799076-v	mencabut	DELETE	O	None	None
+00802318-v	izinkan	KEEP	X	None	None
+08567235-n	lingkungan	KEEP	O	1	English
+02679415-n	bahan tambahan	KEEP	X	1	English
+01285440-v	dikalungi	KEEP	None	None	None
+01052428-a	aromatik	KEEP	None	None	None
+00799076-v	menarik balik	DELETE	None	None	None
+06619428-n	acara	KEEP	Y	1	Polish
+07856270-n	pasta	KEEP	None	1	Polish
+01932973-a	sebenar	KEEP	X	None	None
+07020239-n	variety	KEEP	None	1	English
+00488187-a	luar biasa	KEEP	O	None	None
+02717102-v	memiliki	DELETE	O	None	None
+00724832-v	mengherankan	KEEP	O	None	None
+77000095-n	siapa	KEEP	None	None	None
+07871436-n	bakso	KEEP	O	1	English
+05026843-n	berat	KEEP	O	1	English
+01204294-n	garisan	DELETE	None	1	English
+05813822-n	cinderamata	KEEP	None	1	English
+13744916-n	tujuh	KEEP	O	1	English
+03025755-n	sumpit	KEEP	None	1	English
+00734054-v	menyangkakan	DELETE	O	None	None
+01111570-v	kembali ke	KEEP	X	None	None
+08588294-n	di dalam	KEEP	X	1	Portuguese
+01183573-v	memuaskan	KEEP	O	None	None
+01733189-a	seru	KEEP	None	None	None
+10480018-n	produser	KEEP	Y	1	English
+08368907-n	generasi	KEEP	O	1	English
+08430568-n	garis lurus	DELETE	X	1	Thai
+01103021-a	spesifik	KEEP	L	None	None
+02108654-v	mendapati	DELETE	O	None	None
+00649481-v	dijelajahi	KEEP	None	None	None
+08593262-n	rangka	KEEP	O	1	Spanish
+80001043-n	baju kurung	KEEP	None	None	None
+01580050-a	wajib	KEEP	Y	None	None
+00056539-r	sesungguhnya	KEEP	None	None	None
+00734318-a	hancur	KEEP	O	None	None
+01798162-a	kebetulan	KEEP	O	None	None
+01999798-v	makan	DELETE	O	None	None
+01733477-v	diadakan	KEEP	X	None	None
+00137915-r	dengan masing-masing	KEEP	X	None	None
+00879759-n	observasi	KEEP	None	1	English
+00110533-r	di dalam	KEEP	X	None	None
+14050871-n	muka merah	DELETE	X	1	English
+00394813-v	membancuh	DELETE	Y	None	None
+01754421-a	tetap	KEEP	Y	None	None
+00488857-a	tidak biasa	KEEP	X	None	None
+07920222-n	latte	KEEP	X	1	Portuguese
+01547390-v	berbaring	KEEP	O	None	None
+10332385-n	ibu	KEEP	Y	1	Polish
+08630039-n	daerah	KEEP	O	1	English
+01073241-n	favorit	KEEP	None	1	English
+14006945-n	laga	KEEP	None	1	English
+13742573-n	1	KEEP	None	1	English
+01110274-n	perdagangan	KEEP	Y	1	English
+03965456-n	mal	KEEP	Y	1	English
+00524682-v	mempermahirkan	DELETE	X	None	None
+01653873-v	buat	KEEP	L	None	None
+11431754-n	angin	KEEP	O	1	English
+76100080-x	kuntum	KEEP	None	None	None
+00745499-v	memesan	KEEP	O	None	None
+01498769-a	terkira	KEEP	None	None	None
+09702836-n	Bangsa Saxon	KEEP	None	1	Portuguese
+01151110-v	menenang	DELETE	O	None	None
+01827858-v	mengagumi	KEEP	Y	None	None
+10533013-n	pesaing	KEEP	O	1	English
+02108654-v	mengantongi	DELETE	O	None	None
+01967373-v	menenggelamkan	KEEP	O	None	None
+08593924-n	jalur	DELETE	O	1	Spanish
+02635956-v	membimbing	DELETE	O	None	None
+01672607-a	biasa	KEEP	Y	None	None
+14446493-n	kenyamanan	KEEP	O	1	Portuguese
+08394922-n	tentara	KEEP	O	1	English
+15122231-n	selama	KEEP	O	1	Portuguese
+07673397-n	oil	KEEP	None	1	Slovene
+00362103-n	potongan harga	KEEP	X	1	English
+00770437-v	mendapati	DELETE	O	None	None
+10210648-n	desainer	KEEP	Y	1	English
+01384212-a	luas	KEEP	O	None	None
+00948670-a	internal	KEEP	None	None	None
+03141609-a	ras	KEEP	O	None	None
+00499263-n	tenis meja	KEEP	O	1	Japanese
+00061203-r	sesudah	KEEP	O	None	None
+80001931-x	tidak	KEEP	None	None	None
+06929742-n	china	KEEP	None	1	Polish
+02647497-v	memasang	DELETE	O	None	None
+00168588-v	menghidupkan	KEEP	O	None	None
+01013367-v	mengutamakan	KEEP	O	None	None
+00818175-a	kuno	KEEP	Y	None	None
+01850315-v	bergerak	KEEP	O	None	None
+03109881-n	sudut	KEEP	O	1	Finnish
+00347610-v	mengkritik	DELETE	O	None	None
+01824736-v	bagaikan	DELETE	O	None	None
+00724150-v	mengkhususkan	KEEP	O	None	None
+02423183-v	izinkan	KEEP	X	None	None
+11508382-n	seputih	KEEP	None	1	English
+90000299-n	nyonya	KEEP	None	None	None
+14514805-n	kekaisaran	KEEP	O	1	English
+06389553-n	jarak antara	DELETE	X	1	English
+02136892-v	mencerminkan	KEEP	O	None	None
+01072949-v	main	KEEP	O	None	None
+02598765-v	bergabung	KEEP	O	None	None
+80000843-n	tikka	KEEP	None	None	None
+13987423-n	kebahagiaan	KEEP	O	1	Slovene
+02604760-v	mempunyai ukuran	DELETE	X	None	None
+07709333-n	sayuran hijau	KEEP	X	1	English
+07857356-n	wasabi	KEEP	None	4	Polish, Japanese, English, Portuguese
+09466280-n	dunia	KEEP	Y	1	English
+02186470-a	dua	KEEP	O	None	None
+01580306-a	penting	KEEP	O	None	None
+01537134-n	burung	KEEP	O	1	English
+00610167-v	lupakan	KEEP	X	None	None
+08227916-n	keluarga	KEEP	O	1	English
+08523483-n	jantung	KEEP	Y	1	Finnish
+08997487-n	singapura	KEEP	X	1	English
+15271417-n	selang	KEEP	O	1	Finnish
+00116280-r	simbolis	KEEP	None	None	None
+01853228-a	khusus	KEEP	O	None	None
+09805475-n	yuen-chen yu	KEEP	None	1	English
+01495725-a	maksimal	KEEP	Y	None	None
+02199590-v	berikan	KEEP	L	None	None
+06487395-n	sekalender	KEEP	X	1	English
+13165409-n	putik	KEEP	O	1	Finnish
+05405751-n	keringat	KEEP	Y	1	Polish
+07800091-n	makanan	KEEP	L	1	Polish
+01409581-a	sebagai	DELETE	O	None	None
+03613294-n	kunci	KEEP	Y	2	Finnish, Portuguese
+05581693-n	kuku	KEEP	Y	1	Polish
+08559508-n	sebelah	DELETE	O	1	Portuguese
+02614181-v	menjadi	DELETE	O	None	None
+01875295-v	menggoyang	KEEP	Y	None	None
+00180756-r	dalam jarak	DELETE	X	None	None
+02620587-v	terdiri dari	KEEP	X	None	None
+03561345-n	gambar	KEEP	O	1	Portuguese
+01543123-v	duduk	KEEP	Y	None	None
+15249799-n	ulang tahun	KEEP	Y	1	English
+01471723-a	kurang	KEEP	O	None	None
+76100092-x	laras	KEEP	None	None	None
+02129289-v	melihat	KEEP	Y	None	None
+02240481-v	berusaha	KEEP	None	None	None
+01999798-v	membawa	KEEP	O	None	None
+08938351-n	tours	KEEP	None	1	English
+15213774-n	desember	KEEP	O	1	Polish
+02208537-v	meluwengkan	DELETE	O	None	None
+07384473-n	geraman	KEEP	None	1	English
+00196692-r	banyak	KEEP	O	None	None
+11669921-n	bunga	KEEP	Y	1	Slovene
+02613487-v	dipersembahkan	KEEP	None	None	None
+00174412-n	langkah	KEEP	Y	1	English
+01010862-a	semula	KEEP	None	None	None
+00666610-a	sekarang	KEEP	O	None	None
+07775375-n	ikan	KEEP	Y	1	English
+01456710-a	tepu	DELETE	O	None	None
+02526085-v	perolehi	DELETE	X	None	None
+01027174-v	melampir	DELETE	X	None	None
+00276225-r	di puncak	KEEP	X	None	None
+90000164-n	Suntec City Mal	KEEP	None	None	None
+01976488-v	jatuh	KEEP	Y	None	None
+00183053-a	ada	KEEP	O	None	None
+00015854-a	banyak	KEEP	O	None	None
+02614181-v	berdiam	DELETE	O	None	None
+05602835-n	pipi	KEEP	Y	1	English
+08249960-n	kelompok	KEEP	O	1	English
+00734054-v	menganggap	DELETE	O	None	None
+04081281-n	pusat jajanan	KEEP	None	1	English
+00325208-v	tumis	KEEP	None	None	None
+01083769-v	menenggak	DELETE	O	None	None
+02629535-v	mempunyai	KEEP	Y	None	None
+05924920-n	standar	KEEP	None	1	English
+00406963-v	memberi	KEEP	O	None	None
+02599636-v	membawa	DELETE	O	None	None
+01820302-v	nikmati	KEEP	X	None	None
+00118567-a	hidup	KEEP	O	None	None
+02685665-v	sampai ke	KEEP	X	None	None
+00264366-n	diri	KEEP	None	1	English
+00527188-a	semesta	KEEP	Y	None	None
+02068476-a	sama	KEEP	O	None	None
+90000166-n	teater ekamatra	KEEP	None	None	None
+01208797-n	berkat	KEEP	None	1	Finnish
+07713895-n	kubis	KEEP	O	1	English
+12143676-n	jagung	KEEP	Y	1	English
+00190653-a	cerdas	KEEP	O	None	None
+14482620-n	potensi	KEEP	Y	1	English
+01966861-v	berkeliling	KEEP	None	None	None
+00624476-v	meluwengkan	DELETE	O	None	None
+10023039-n	orang	DELETE	O	1	English
+03582658-n	inovasi	KEEP	Y	2	English, Spanish
+04992570-n	bumbu	KEEP	L	1	English
+00002621-r	baru saja	KEEP	X	None	None
+06770875-n	syarat	KEEP	Y	1	English
+01551633-a	salah	KEEP	None	None	None
+01316209-v	mencari	KEEP	O	None	None
+01156834-v	membawa	DELETE	O	None	None
+15149180-n	1930-an	KEEP	None	1	English
+02133435-v	tampaknya	KEEP	O	None	None
+00005526-v	megap-megap	KEEP	None	None	None
+06685754-n	jaminan	KEEP	O	1	English
+01072949-v	mainkanlah	KEEP	X	None	None
+08809165-n	milan	KEEP	None	1	Slovene
+06125041-n	teknologi	KEEP	Y	1	Greek
+02394183-v	memasukkan	DELETE	O	None	None
+01645601-v	berbuat	DELETE	O	None	None
+06050901-n	kandungan	KEEP	None	1	Finnish
+02599636-v	mengambil	KEEP	O	None	None
+00221985-r	lewat	KEEP	O	None	None
+00596644-v	mengalami	KEEP	O	None	None
+00226071-v	encer	KEEP	Y	None	None
+02560585-v	kerjakan	KEEP	None	None	None
+13744521-n	panca	KEEP	None	1	English
+05718935-n	music	KEEP	None	1	English
+02043190-v	membagikan	KEEP	None	None	None
+08430568-n	baris	DELETE	O	1	Thai
+01791911-a	jelas	DELETE	O	None	None
+01718867-a	miring	KEEP	O	None	None
+03610270-n	suvenir	KEEP	Y	1	Portuguese
+08065234-n	perusahaan	KEEP	O	1	Slovene
+00019131-a	capai	KEEP	None	None	None
+00166146-a	indah	KEEP	O	None	None
+15183802-n	hari besar	KEEP	None	None	None
+11464143-n	gravitasi	KEEP	None	1	Finnish
+00118965-r	sekali	KEEP	O	None	None
+02755017-v	penolakan	DELETE	Y	None	None
+02604760-v	orang	DELETE	O	None	None
+00283090-v	mewarnai	KEEP	O	None	None
+13926786-n	tempat	DELETE	O	1	English
+02450256-v	mengambil bagian	KEEP	O	None	None
+02116118-v	merangsang	KEEP	O	None	None
+01604000-a	barat daya	KEEP	O	None	None
+04624826-n	hati	KEEP	O	1	English
+03895866-n	kereta	KEEP	O	2	English, Portuguese
+13841651-n	kaitan	KEEP	Y	3	Japanese, Portuguese, Spanish
+02126430-a	bertempat	KEEP	O	None	None
+08587174-n	cagar	KEEP	None	2	English, Spanish
+07009042-n	sedikit	KEEP	None	1	English
+00925110-v	diragukan	KEEP	None	None	None
+00488857-a	luar biasa	KEEP	O	None	None
+04879964-n	pengkhianatan	KEEP	O	1	Portuguese
+07164163-n	sentuhan	KEEP	L	1	English
+05870615-n	hibrid	KEEP	None	1	English
+01769693-v	mempengaruhi	KEEP	None	None	None
+02208537-v	makan	DELETE	O	None	None
+00755745-v	perlukan	KEEP	X	None	None
+02579136-a	rohani	KEEP	L	None	None
+01443097-a	sesaat	KEEP	O	None	None
+00976531-n	penyerbuan	KEEP	O	1	Finnish
+00632438-a	salah	KEEP	O	None	None
+02110552-v	merasa	KEEP	O	None	None
+04131015-n	salon	KEEP	O	1	English
+03671668-n	deretan	DELETE	O	1	English
+15169421-n	twilight	KEEP	None	1	English
+00690058-a	sedalam	KEEP	None	None	None
+01733477-v	diselenggarakan	KEEP	None	None	None
+77000019-n	kalian	KEEP	None	None	None
+07859284-n	gula olahan	DELETE	X	1	English
+03255648-n	orang-orang	DELETE	None	1	English
+80000861-n	paintballing	KEEP	None	None	None
+80000119-n	kaya	KEEP	None	None	None
+06426111-n	nomor	KEEP	O	1	English
+07844867-n	susu kedelai	KEEP	X	1	Japanese
+00051848-r	terus	KEEP	O	None	None
+04763925-n	keunikan	KEEP	O	1	English
+00448314-a	hampir	KEEP	O	None	None
+01744515-a	jeli	KEEP	None	None	None
+04341686-n	struktur	KEEP	Y	1	Portuguese
+08651735-n	cakrawala	KEEP	O	1	English
+04271531-n	toko khusus	KEEP	X	None	None
+15136453-n	hari	KEEP	O	1	Finnish
+03027793-a	victoria	KEEP	None	None	None
+02448185-v	kelola	KEEP	O	None	None
+90000032-n	kari kepala ikan	KEEP	None	None	None
+03405725-n	perabotan	KEEP	None	1	Spanish
+09612848-n	pelanggan	KEEP	Y	1	English
+01050890-a	kasihan	KEEP	O	None	None
+00048739-r	segera	KEEP	O	None	None
+02395000-v	dilindungi	KEEP	X	None	None
+00110815-r	ke dalam	KEEP	None	None	None
+07289358-n	hidangan istimewa	KEEP	X	1	English
+02218314-a	bermacam-macam	KEEP	O	None	None
+02472987-n	orang dari golongan atasan	DELETE	X	2	English, Spanish
+03786901-n	alu	KEEP	None	1	English
+02717102-v	membawa	KEEP	O	None	None
+02587532-v	betah	DELETE	O	None	None
+01265308-a	menggelikan	KEEP	O	None	None
+07020538-n	tarian	KEEP	O	1	English
+14841267-n	udara	KEEP	Y	1	Finnish
+01214265-v	memasukkan	DELETE	O	None	None
+80000696-a	deep-fried	KEEP	None	None	None
+08677801-n	puncak	KEEP	Y	1	Finnish
+02046755-v	berputar	KEEP	Y	None	None
+02636810-v	masuki	KEEP	None	None	None
+00988028-v	merupakan	KEEP	O	None	None
+01884176-a	berpotensi	KEEP	O	None	None
+00329831-a	sentral	KEEP	Y	None	None
+00182406-v	menambah	KEEP	O	None	None
+01928838-v	melangkahkan	KEEP	Y	None	None
+05790758-n	favorit	KEEP	None	1	English
+02460502-a	benarkah	KEEP	None	None	None
+06891493-n	pertunjukan	KEEP	O	1	English
+15137556-n	hari libur	KEEP	O	1	Portuguese
+02355596-v	membawa	DELETE	O	None	None
+09769076-n	pecandu	KEEP	O	1	English
+00031798-r	telah	KEEP	O	None	None
+02210855-v	mendapat	DELETE	Y	None	None
+08524262-n	tengah	KEEP	O	1	English
+09446115-n	selat	KEEP	O	1	Spanish
+03095372-a	luar	KEEP	O	None	None
+02635956-v	mempengaruhi	DELETE	None	None	None
+01531375-a	sederhana	KEEP	O	None	None
+01835496-v	pergilah	KEEP	X	None	None
+02717102-v	membebani	DELETE	O	None	None
+02238085-v	dapatkan	DELETE	X	None	None
+13961642-n	kehidupan	KEEP	O	1	English
+13954253-n	kehidupan	KEEP	O	1	Finnish
+01904930-v	berjalan	KEEP	Y	None	None
+01069638-v	memberi	KEEP	O	None	None
+00041899-n	menduduki	KEEP	Y	1	English
+13572324-n	keberagaman	KEEP	X	1	English
+07576182-n	prasmanan	KEEP	O	1	English
+08060446-n	pembuat	KEEP	O	1	English
+02112701-a	bersama	KEEP	O	None	None
+01375831-a	kenal	KEEP	None	None	None
+00579881-a	berani	KEEP	L	None	None
+02204472-a	ke-19	KEEP	None	None	None
+00166146-a	menarik	KEEP	Y	None	None
+07831267-n	saus tomat	KEEP	X	None	None
+01083157-a	padat	KEEP	Y	None	None
+07812184-n	bumbu	KEEP	L	1	English
+08622950-n	suasana	DELETE	O	1	Portuguese
+00875141-v	rekomendasikan	KEEP	None	None	None
+00367685-v	bersatu	KEEP	O	None	None
+02696920-a	masyarakat	KEEP	O	None	None
+01564144-v	merosakkan	DELETE	None	None	None
+05629682-n	neraka	KEEP	O	2	Thai, Finnish
+09350045-n	mediterania	KEEP	None	1	English
+08997487-n	singa	KEEP	None	1	English
+00605023-n	tahta	KEEP	O	1	English
+05625465-n	imajinasi	KEEP	None	1	Polish
+01528730-a	emas	KEEP	O	None	None
+09122968-n	village	KEEP	None	1	English
+09221571-n	sarang burung	KEEP	O	None	None
+02635659-v	diakibatkan	KEEP	None	None	None
+05761559-n	kenangan	KEEP	O	1	English
+03178782-n	desain	KEEP	O	1	Portuguese
+13849810-n	ribuan	KEEP	O	1	Portuguese
+02189398-v	mendapat	DELETE	O	None	None
+10757193-n	pengunjung	KEEP	Y	1	Finnish
+80001131-n	mereka	KEEP	None	None	None
+02070887-a	sebelah	KEEP	O	None	None
+90000156-n	sang nila utama	KEEP	None	None	None
+01543123-v	duduklah	KEEP	None	None	None
+01019283-a	cacat	KEEP	O	None	None
+00509432-r	lurus	KEEP	O	None	None
+02394183-v	menyumbat	DELETE	O	None	None
+01488616-a	besar	KEEP	O	None	None
+02703952-v	mendekati	KEEP	O	None	None
+01930482-v	mengarik	DELETE	O	None	None
+00120223-r	sambil	KEEP	O	None	None
+10344443-n	nama	KEEP	Y	1	English
+09587565-n	karakter	KEEP	None	1	English
+00097840-r	balik	KEEP	O	None	None
+02684924-v	berlanjut	KEEP	O	None	None
+14924602-n	jed	DELETE	None	1	Thai
+07571547-n	dimsum	KEEP	None	1	Japanese
+03354903-n	bendera	KEEP	Y	1	English
+02716165-v	disertai	KEEP	X	None	None
+00992432-a	berminyak	KEEP	O	None	None
+07966570-n	minoritas	KEEP	O	1	Finnish
+13306870-n	harga	KEEP	O	1	English
+90000144-n	lord vinayagar	KEEP	None	None	None
+07579076-n	mencicipinya	KEEP	None	1	English
+01066542-a	sering	KEEP	Y	None	None
+01927654-a	bangsa	KEEP	Y	None	None
+00883297-n	pendidikan	KEEP	Y	1	Portuguese
+00067265-r	lanjut	KEEP	None	None	None
+02050132-v	lewati	KEEP	X	None	None
+01099951-a	spesifik	KEEP	L	None	None
+01634495-a	kaki	KEEP	O	None	None
+01645601-v	menimbulkan sst	DELETE	X	None	None
+00447472-a	sebelah	KEEP	O	None	None
+01085661-a	berisi	KEEP	O	None	None
+00464894-n	golf	KEEP	Y	2	English, Spanish
+03485655-n	kerajinan	KEEP	L	1	Portuguese
+08430203-n	barisan	KEEP	Y	1	Thai
+15264607-n	mulai	KEEP	O	None	None
+15149763-n	1950-an	KEEP	None	1	English
+09762509-n	bintang	KEEP	O	1	Arabic
+00246754-n	panggang	KEEP	O	1	English
+03051540-n	pakaian	KEEP	O	1	English
+08238463-n	kelas	KEEP	O	1	Portuguese
+04599235-n	wol	KEEP	None	1	English
+00296585-n	prosesi	KEEP	None	2	English, Spanish
+03903424-n	pedal	KEEP	O	1	Portuguese
+00850183-a	fine	KEEP	None	None	None
+00043003-r	oleh kerana itu	DELETE	X	None	None
+00679389-v	pilih	KEEP	O	None	None
+02679899-v	pertahankan	KEEP	L	None	None
+09956578-n	penjajah	KEEP	O	1	Japanese
+00239908-r	masing	KEEP	None	None	None
+07574602-n	sarapan	KEEP	Y	1	Spanish
+02477047-a	kohesif	KEEP	O	None	None
+02965043-a	jepang	KEEP	X	None	None
+00213794-v	mengetinkan	DELETE	None	None	None
+10807487-n	ibrahim	KEEP	None	1	English
+07579787-n	piring	KEEP	O	1	Spanish
+02339171-v	memberi	KEEP	O	None	None
+80000838-n	rendang	KEEP	None	None	None
+01690294-v	lukis	KEEP	Y	None	None
+80001073-n	nien	KEEP	None	None	None
+00929815-a	banyak dinantikan	KEEP	None	None	None
+09060768-n	california	KEEP	None	1	English
+00644503-n	menyurvei	KEEP	None	1	English
+01427127-v	membutuhkan	DELETE	O	None	None
+02527588-a	diburu	KEEP	None	None	None
+90000323-n	cakue	KEEP	None	None	None
+04945530-n	keserakahan	KEEP	O	1	Portuguese
+02071420-a	sama seperti	KEEP	X	None	None
+08593262-n	bentuk	DELETE	O	1	Spanish
+03528263-n	perangkat	KEEP	Y	None	None
+01289083-a	tertata	KEEP	None	None	None
+00550771-n	penampilan	KEEP	None	1	English
+05715864-n	rasa	KEEP	Y	1	English
+02472223-v	terdaftar	KEEP	Y	None	None
+10665698-n	pelajar	KEEP	Y	1	English
+07657903-n	steak	KEEP	X	1	Portuguese
+07908812-n	benedictine	KEEP	None	1	English
+00498610-r	di atas	KEEP	None	None	None
+00663353-v	disimak	KEEP	X	None	None
+00016350-s	penuh sesak	KEEP	None	None	None
+90000332-n	sayur lodeh	KEEP	None	None	None
+00098714-r	melainkan	KEEP	None	None	None
+07721456-n	chilli	KEEP	None	1	Portuguese
+01674242-a	rutin	KEEP	O	None	None
+13925752-n	suasana	KEEP	O	1	English
+04217882-n	signboard	KEEP	None	1	English
+02755017-v	menampik	DELETE	O	None	None
+06692572-n	sorakan	KEEP	None	1	English
+02755017-v	menggeleng	DELETE	O	None	None
+00729133-a	indie	KEEP	None	None	None
+02269635-n	masing-masing	KEEP	None	None	None
+90000298-n	Peranakan	KEEP	None	None	None
+00721437-v	menemukan	KEEP	O	None	None
+04928903-n	tatakrama	KEEP	None	1	English
+05839547-n	jenis	KEEP	O	1	English
+01571363-a	buatan	KEEP	Y	None	None
+04395651-n	tato	KEEP	None	1	Portuguese
+02186665-a	empat	KEEP	O	None	None
+02506555-a	beraneka	KEEP	Y	None	None
+00756897-a	hitam	KEEP	Y	None	None
+01464700-a	hangat	KEEP	O	None	None
+02630189-v	memiliki	KEEP	O	None	None
+08593924-n	tali	DELETE	O	1	Spanish
+03965456-n	pertokoan	KEEP	None	1	English
+00449441-r	sensual	KEEP	None	None	None
+90000046-n	jamal kazura aromatics	KEEP	None	None	None
+00405645-r	saling	KEEP	O	None	None
+02723754-n	antik	KEEP	O	1	Spanish
+11472960-n	cahaya lampu	KEEP	X	None	None
+00024073-r	tidaklah	DELETE	X	None	None
+01062393-a	merdeka	KEEP	L	None	None
+11717399-n	teratai	KEEP	O	1	English
+90000126-n	crystal jade kitchen	KEEP	None	None	None
+07813107-n	salt	KEEP	None	1	Portuguese
+00993117-a	ringan	KEEP	L	None	None
+10325243-n	impian	KEEP	O	1	Slovene
+00320852-n	sesuatu	DELETE	O	1	Spanish
+01192312-v	cobalah	KEEP	None	None	None
+02647497-v	membetahkan	DELETE	O	None	None
+00447472-a	dekat	KEEP	O	None	None
+02110082-v	menghadapi	KEEP	O	None	None
+02824448-n	bel	KEEP	O	1	Finnish
+01432601-v	tanggung	KEEP	Y	None	None
+00426581-v	menjelma	KEEP	Y	None	None
+00948514-a	luar	KEEP	O	None	None
+90000017-n	Chinatown Food Street	KEEP	None	None	None
+01204294-n	dawai	DELETE	O	1	English
+14438125-n	reputasi	KEEP	O	1	English
+15207556-n	purnama	KEEP	None	2	Finnish, Japanese
+08765890-n	swedia	KEEP	X	1	English
+04236001-n	tempat tidur	KEEP	None	1	English
+05717115-n	pahit	KEEP	O	1	English
+07290905-n	awal	KEEP	O	1	Spanish
+15235126-n	saat	KEEP	Y	1	English
+07578363-n	hidangan	KEEP	O	1	English
+01999218-v	memandu	DELETE	O	None	None
+01579128-a	lalu	DELETE	O	None	None
+00522751-v	mendapatkan	KEEP	O	None	None
+00176383-r	banyak	KEEP	O	None	None
+05261566-n	berjenggot	KEEP	None	1	Spanish
+10741590-n	pengguna	KEEP	Y	1	Spanish
+90000039-n	blachang	KEEP	None	None	None
+80000063-n	kebaya	KEEP	None	None	None
+01233156-n	kunjung-mengunjungi	KEEP	None	1	Greek
+04677514-n	paras	DELETE	None	1	English
+00931852-v	berarti	KEEP	O	None	None
+01262936-v	terkupas	KEEP	Y	None	None
+04625129-n	semangat	KEEP	Y	1	Spanish
+02125409-a	penduduk	KEEP	Y	None	None
+08663354-n	di atas	KEEP	X	1	English
+02904233-n	hamparan	KEEP	O	None	None
+15201116-n	thanksgiving	KEEP	None	1	English
+02206619-v	menawan	KEEP	O	None	None
+00101323-r	jauh	KEEP	Y	None	None
+02568672-v	lakukan	KEEP	X	None	None
+01580968-a	wajib	KEEP	O	None	None
+05814291-n	hal	KEEP	O	1	English
+01026897-n	upacara	KEEP	O	1	English
+00428000-n	keramaian	KEEP	Y	1	Portuguese
+02128385-n	macan tutul	KEEP	O	1	Polish
+04684358-n	kehebatan	KEEP	O	1	Spanish
+01463963-v	merapikan	KEEP	Y	None	None
+07526757-n	kegembiraan	KEEP	O	1	Finnish
+01649720-a	muda	KEEP	O	None	None
+14513062-n	ekologi	KEEP	O	1	Japanese
+03003344-a	inggris	KEEP	None	None	None
+06285090-n	kalimat	KEEP	O	1	Japanese
+01129977-a	baik	KEEP	O	None	None
+00975487-a	bergaya	KEEP	O	None	None
+00953127-a	dalam	DELETE	O	None	None
+01168468-v	santap	KEEP	Y	None	None
+07675156-n	minyak wijen	KEEP	X	None	None
+03640660-n	jalan	KEEP	O	1	English
+01673946-a	yang biasa	DELETE	X	None	None
+00610167-v	terlupakan	KEEP	None	None	None
+07939382-n	sederet	KEEP	None	1	English
+05793554-n	berdasarkan	KEEP	None	1	Finnish
+00068901-n	pelanggaran	KEEP	O	1	English
+00755745-v	berkehendakkan	DELETE	None	None	None
+07486229-n	keinginan	KEEP	O	1	Finnish
+01214265-v	memegang	DELETE	O	None	None
+00654885-n	layanan	KEEP	Y	1	English
+07825972-n	kecap	KEEP	O	2	English, Greek
+01129920-n	tanggung jawab	KEEP	None	1	Thai
+02016523-v	melangkah masuk	KEEP	X	None	None
+02892389-a	ritual	KEEP	O	None	None
+02466134-v	berbelanja	KEEP	O	None	None
+07412478-n	sepercik	KEEP	X	1	English
+02402825-v	memecatkan	DELETE	O	None	None
+07203900-n	ya	KEEP	O	1	English
+01712704-v	mengerjakan	KEEP	L	None	None
+02993546-n	kreta ayer square	KEEP	None	1	Slovene
+09328904-n	jurong	KEEP	None	1	English
+09282724-n	buih	KEEP	O	1	Slovene
+01679806-v	menghias	KEEP	O	None	None
+02281093-v	isi	KEEP	None	None	None
+08934532-n	bordeaux	KEEP	None	1	Portuguese
+00321148-v	mengisi	KEEP	Y	None	None
+02209745-v	membawa	DELETE	O	None	None
+00027807-n	corak	DELETE	O	1	English
+00449332-a	di sekitarnya	KEEP	X	None	None
+01462324-a	kesayangan	KEEP	O	None	None
+01984902-v	duduk	KEEP	O	None	None
+01640207-v	menciptakan	KEEP	O	None	None
+02108026-v	mendapat	KEEP	O	None	None
+01524523-v	memenuhi	KEEP	Y	None	None
+10388440-n	raja	KEEP	O	1	Slovene
+01157517-v	sudah habis	DELETE	X	None	None
+00939277-v	beberkan	KEEP	None	None	None
+01021629-v	dapat diatur	KEEP	X	None	None
+01692969-a	luar	KEEP	O	None	None
+10102506-n	peramal	KEEP	None	1	English
+02616386-v	adalah	KEEP	Y	None	None
+90000205-n	ngee ann city	KEEP	None	None	None
+02236124-v	mengalami	DELETE	O	None	None
+01651196-a	pada	DELETE	O	None	None
+00019339-r	seringkali	KEEP	X	None	None
+02236624-v	mengaku	DELETE	O	None	None
+07302836-n	api	KEEP	O	1	English
+01629403-v	memberi	KEEP	O	None	None
+90000325-n	trassi	DELETE	None	None	None
+00304787-r	seharian	KEEP	O	None	None
+06491786-n	daftar	KEEP	O	1	Polish
+01343918-a	menarik	KEEP	O	None	None
+01933731-a	sebenarnya	KEEP	O	None	None
+02202928-v	memelihara	KEEP	O	None	None
+02087745-v	mengayunkan	KEEP	O	None	None
+07320302-n	lahir	KEEP	None	1	English
+00914421-a	seksama	KEEP	O	None	None
+08652970-n	jarak antara	DELETE	X	1	English
+13954253-n	ada	KEEP	O	1	Finnish
+00045607-r	di seberang sana	DELETE	X	None	None
+08641113-n	kawasan sekeliling	DELETE	X	1	English
+01531957-a	pertengahan	DELETE	O	None	None
+76100079-x	utas	KEEP	None	None	None
+77000093-n	apa-apa	KEEP	None	None	None
+01083373-v	membongkar	DELETE	O	None	None
+80000683-x	ha	KEEP	None	None	None
+02355596-v	memperoleh	DELETE	O	None	None
+07628870-n	cake	KEEP	None	1	Portuguese
+02395694-n	babi	KEEP	O	2	English, Greek
+02358034-v	membuat	KEEP	O	None	None
+02079933-v	bawa	KEEP	O	None	None
+00611256-v	terkenang	KEEP	O	None	None
+00253761-v	berkembang	KEEP	O	None	None
+01158181-v	melindangkan	DELETE	O	None	None
+02632940-v	antara	KEEP	None	None	None
+07211950-n	lolongan	KEEP	None	1	English
+02647497-v	dapat bertahan	DELETE	X	None	None
+02530167-v	cobalah	KEEP	X	None	None
+15050011-n	rempah	KEEP	O	1	English
+01593649-a	norma	DELETE	Y	None	None
+08497294-n	daerah	KEEP	O	1	Finnish
+08981244-n	filipina	KEEP	X	1	Japanese
+00594337-v	tahu	KEEP	Y	None	None
+01428578-v	membuat	DELETE	O	None	None
+00630380-v	mencerminkan	KEEP	Y	None	None
+01168468-v	menyekang perut	DELETE	O	None	None
+06893285-n	penampilan	KEEP	None	1	English
+90000228-n	Orchard	DELETE	None	None	None
+90000076-n	pastikan anda	KEEP	None	None	None
+07367812-n	gangguan	KEEP	O	1	Spanish
+01919931-a	gegap gempita	KEEP	O	None	None
+02043217-a	persegi	KEEP	Y	None	None
+08507558-n	muasal	KEEP	Y	1	English
+00951831-a	di dalam	KEEP	X	None	None
+02624263-v	berasal	KEEP	O	None	None
+02215506-v	didanai	KEEP	None	None	None
+02609764-v	berakhir	KEEP	O	None	None
+00958334-v	ulang	KEEP	L	None	None
+02112701-a	kolektif	KEEP	O	None	None
+13412321-n	daftar	KEEP	O	1	Japanese
+02723754-n	barang antik	KEEP	O	1	Spanish
+02627934-v	memerlukan	KEEP	O	None	None
+02760116-a	medis	KEEP	O	None	None
+00582388-n	bisnis	KEEP	O	1	Finnish
+00931467-v	mengacu	KEEP	None	None	None
+08425303-n	lalu lintas	KEEP	O	1	Spanish
+00407848-v	disiapkan	KEEP	X	None	None
+13860793-n	padatan	KEEP	None	1	English
+90000414-n	tandori	KEEP	None	None	None
+01394744-a	kecil	KEEP	O	None	None
+02558528-a	menyegarkan	KEEP	None	None	None
+07954731-n	koleksi	KEEP	O	1	Spanish
+02054989-v	membentang	KEEP	O	None	None
+00349369-n	gerakan	KEEP	O	1	Portuguese
+13923779-n	kesehatan	KEEP	O	1	English
+02655135-v	nampak	DELETE	O	None	None
+09535255-n	KAMI	DELETE	O	1	Japanese
+01616157-a	sendiri	KEEP	O	None	None
+07883031-n	isi	KEEP	Y	1	English
+03016868-n	sifon	KEEP	M	2	Japanese, English
+07935504-n	air	KEEP	O	1	English
+01021629-v	atur	KEEP	O	None	None
+76100090-x	keping	KEEP	None	None	None
+00035603-v	memandikan	KEEP	O	None	None
+00331446-a	tepi	KEEP	O	None	None
+03499796-n	oase	KEEP	L	1	Polish
+02009433-v	meninggalkan	KEEP	O	None	None
+00522751-v	berlaku	DELETE	O	None	None
+01694263-v	tiru	KEEP	L	None	None
+00522751-v	memapak	DELETE	O	None	None
+01806505-v	mempesona	KEEP	X	None	None
+02444662-v	izinkan	KEEP	None	None	None
+02267308-a	sebagian	KEEP	O	None	None
+02568672-v	mengakok	DELETE	O	None	None
+02830645-a	kritikus	KEEP	None	None	None
+09512835-n	nat	DELETE	None	1	English
+04401088-n	telepon	KEEP	O	1	English
+01675190-a	menakjubkan	KEEP	Y	None	None
+04596742-n	wajan	KEEP	O	1	English
+10077593-n	pecinta	KEEP	X	1	Spanish
+04317833-n	tusuk	KEEP	None	1	English
+00728431-a	merdeka	KEEP	O	None	None
+02208537-v	membutuhkan	DELETE	O	None	None
+01151110-v	memasukkan	DELETE	O	None	None
+01651444-v	menyelenggarakan	KEEP	O	None	None
+02394183-v	menduduki	KEEP	L	None	None
+00207366-r	hari ini	KEEP	X	None	None
+04893787-n	hemat	KEEP	O	1	Spanish
+01749184-v	mencetak	KEEP	O	None	None
+02306763-a	seru	KEEP	None	None	None
+12937678-n	wortel	KEEP	O	1	English
+02263692-v	memberi	KEEP	O	None	None
+02568672-v	dipraktikkan	KEEP	None	None	None
+01289083-a	indah	KEEP	None	None	None
+05146471-n	kemewahan	KEEP	O	1	English
+02664769-v	kelihatan	DELETE	O	None	None
+00227507-a	bagus	KEEP	None	None	None
+02382934-a	teratur	KEEP	Y	None	None
+02871858-a	wilayah	KEEP	O	None	None
+80000795-n	Kilometer persegi	KEEP	None	None	None
+05706954-n	kelalaian	KEEP	O	1	English
+00597915-v	informasi	KEEP	None	None	None
+00323426-a	kondusif	KEEP	None	None	None
+07596684-n	makanan manis	KEEP	X	1	English
+15164233-n	rabu	KEEP	O	1	English
+03113152-n	kosmetik	KEEP	O	1	English
+00372111-a	kecoklatan	KEEP	None	None	None
+00336831-a	pasti	KEEP	Y	None	None
+80001382-x	lho	KEEP	None	None	None
+01642245-a	baru	KEEP	O	None	None
+14705287-n	pasta	KEEP	Y	1	Polish
+02186338-a	1	KEEP	None	None	None
+00335768-a	tentu	KEEP	O	None	None
+07149836-n	perundingan	KEEP	O	1	English
+76100076-x	bidang	KEEP	None	None	None
+02102840-v	berkelana	KEEP	O	None	None
+05902327-n	rencana	KEEP	O	1	Spanish
+01086545-a	kosong	KEEP	Y	None	None
+00248765-r	utama	KEEP	None	None	None
+13778671-n	parkir	KEEP	O	1	Portuguese
+00429949-n	kegembiraan	KEEP	Y	1	Greek
+00118363-r	agar	KEEP	None	None	None
+01998432-v	ikut serta	KEEP	O	None	None
+01041498-n	sumbangan	KEEP	O	1	English
+08677628-n	tempat	KEEP	O	1	English
+05811214-n	bahan pemikiran	KEEP	None	1	English
+01840238-v	terbang	KEEP	O	None	None
+01828736-v	cintai	KEEP	X	None	None
+01009206-a	pertama	KEEP	O	None	None
+02126430-a	beralamat	KEEP	None	None	None
+00071840-r	terhadap	DELETE	O	None	None
+00028651-n	tempat	DELETE	O	1	English
+14512817-n	keadaan	KEEP	O	1	English
+01826378-v	meminta	KEEP	O	None	None
+00654885-n	kepedulian	KEEP	O	1	English
+01195299-v	mencoba	KEEP	O	None	None
+00230033-v	meningkatkan	KEEP	Y	None	None
+00901060-a	dasar	KEEP	O	None	None
+01269073-a	kelaparan	KEEP	Y	None	None
+01919226-v	berjalan-jalan	KEEP	O	None	None
+02986757-n	catwalk	KEEP	None	1	English
+00406963-v	menyediakan	KEEP	O	None	None
+05641959-n	keahlian	KEEP	Y	1	English
+01320872-n	wanita	DELETE	O	1	English
+07622708-n	kuih	KEEP	None	1	English
+02904075-a	administratif	KEEP	O	None	None
+00233687-r	melintasi	DELETE	O	None	None
+02210855-v	mendapatkan	KEEP	O	None	None
+06595351-n	majalah	KEEP	O	1	English
+14483917-n	can	DELETE	None	1	Spanish
+00528990-v	tersembul	KEEP	O	None	None
+09815790-n	pembantu	KEEP	Y	1	English
+11252222-n	raffles	KEEP	None	None	None
+03528263-n	peralatan	KEEP	None	None	None
+06338908-n	nama	KEEP	O	2	English, Spanish
+01712704-v	perbuat	KEEP	None	None	None
+02225510-a	piawai	KEEP	O	None	None
+02238085-v	dapat	DELETE	Y	None	None
+06326797-n	diri	KEEP	O	1	English
+77000018-n	kita	DELETE	None	None	None
+01011973-a	awal	KEEP	O	None	None
+01565921-v	memakan habis	DELETE	X	None	None
+90000077-n	Penggunaan Bahan	KEEP	None	None	None
+04998530-n	badan lebar	DELETE	X	1	English
+15137890-n	liburan	KEEP	O	1	English
+01118081-v	tunduk	KEEP	O	None	None
+00446921-a	dekat	KEEP	O	None	None
+07997703-n	kategori	KEEP	O	2	English, Spanish
+01617192-v	terciptalah	KEEP	None	None	None
+02488834-v	menikah	KEEP	M	None	None
+00963570-v	berbicara	KEEP	Y	None	None
+09526107-n	garuda	KEEP	None	2	English, Portuguese
+00894552-n	latihan	KEEP	Y	1	English
+00099527-r	kurang	KEEP	O	None	None
+01546111-v	berdiri	KEEP	Y	None	None
+02458262-a	angker	KEEP	None	None	None
+03671473-n	jalur	DELETE	O	1	Spanish
+00087736-v	mengecutkan	DELETE	O	None	None
+01807882-v	menawan hati	KEEP	None	None	None
+06359193-n	situs	KEEP	O	1	Portuguese
+02388921-a	rumah tangga	KEEP	O	None	None
+09810707-n	arsonist	KEEP	None	1	English
+07514782-n	rasa	KEEP	O	1	Spanish
+90000148-n	mustafa	KEEP	None	None	None
+90000088-n	selama deepavali	KEEP	None	None	None
+00734054-v	makan	DELETE	O	None	None
+08430568-n	rangka	DELETE	O	1	Thai
+13748763-n	25	KEEP	None	None	None
+01180351-v	menyajikan	KEEP	O	None	None
+02189398-v	berjangkit	DELETE	O	None	None
+04967191-n	kehijauan	KEEP	None	1	English
+00609683-v	ingatlah	KEEP	X	None	None
+01456710-a	kuat	KEEP	None	None	None
+06651577-n	kiat	KEEP	None	1	English
+10153414-n	laki-laki	DELETE	None	1	Portuguese
+02587532-v	mengendalikan	DELETE	O	None	None
+07490713-n	kesenangan	KEEP	Y	1	English
+08664443-n	premis	DELETE	Y	1	English
+08168978-n	republik	KEEP	Y	1	Arabic
+02621395-v	menjadikan	KEEP	O	None	None
+01739099-v	dibangun	KEEP	X	None	None
+00697589-v	menentukan	KEEP	Y	None	None
+02005948-v	datang	KEEP	Y	None	None
+80000839-n	Canele	KEEP	None	None	None
+00522751-v	membawa	DELETE	O	None	None
+06364641-n	kesusasteraan	KEEP	None	1	English
+00670261-v	menilai	KEEP	O	None	None
+90000069-n	Mr Teo	KEEP	None	None	None
+00583461-n	spesialisasi	KEEP	O	1	English
+14434866-n	penekanan	KEEP	O	1	Greek
+00173338-v	makan	DELETE	O	None	None
+09812338-n	seniman	KEEP	Y	2	English, Spanish
+05037813-n	kebuasan	KEEP	Y	1	English
+02359340-v	menggemari	DELETE	O	None	None
+00161243-n	pemilihan	KEEP	O	1	English
+00120796-v	beroleh	DELETE	O	None	None
+05898568-n	program	KEEP	O	1	Polish
+02208537-v	mengarik	DELETE	O	None	None
+00529657-a	tenang	KEEP	O	None	None
+02109645-v	dapat	DELETE	O	None	None
+13374281-n	kredit	KEEP	Y	1	English
+02858304-n	kapal	KEEP	Y	1	Spanish
+00059547-r	seringkali	KEEP	None	None	None
+01205696-v	berhubungan	KEEP	O	None	None
+07387509-n	suara	KEEP	None	1	Spanish
+04534127-n	video	KEEP	X	1	English
+00061203-r	setelah	KEEP	Y	None	None
+05944686-n	filosofi	KEEP	None	1	English
+03839795-n	halangan	KEEP	Y	1	Arabic
+08434259-n	jaringan	KEEP	Y	1	English
+02685951-v	lalu	DELETE	O	None	None
+08613593-n	luar	KEEP	L	1	English
+00618878-v	kenal	KEEP	O	None	None
+00488187-a	unik	KEEP	O	None	None
+00750926-a	lancar	KEEP	O	None	None
+02551380-a	kering	KEEP	Y	None	None
+01741864-v	membajak	KEEP	O	None	None
+07804323-n	rice	KEEP	None	1	Portuguese
+80000334-n	zouk	KEEP	None	None	None
+07731952-n	jagung	KEEP	Y	1	English
+10006511-n	keturunan	KEEP	O	1	English
+01511520-a	terlalu	KEEP	O	None	None
+00040365-r	kembali	KEEP	O	None	None
+90000306-n	pongal	KEEP	None	None	None
+07868955-n	fishball	KEEP	None	None	None
+02671780-n	aksesoris	KEEP	None	1	Polish
+02964782-a	imlek	KEEP	None	None	None
+02373015-v	bekerja	KEEP	O	None	None
+00047392-r	yg amat	DELETE	X	None	None
+01180351-v	dihidangkannya	KEEP	X	None	None
+01156834-v	melalap	DELETE	O	None	None
+08977211-n	karachi	KEEP	None	1	Japanese
+02933842-n	kabel	KEEP	Y	1	English
+13863771-n	talian	DELETE	None	1	Spanish
+08588294-n	di dlm	DELETE	X	1	Portuguese
+01796452-a	fantastis	KEEP	None	None	None
+03142834-n	kristal	KEEP	Y	1	English
+02443049-v	mengawasi	KEEP	O	None	None
+00220869-v	memperkuat	KEEP	O	None	None
+00743344-v	menghubungi	KEEP	O	None	None
+02936020-a	kata sifat	DELETE	O	None	None
+00678282-v	merencanakan	KEEP	O	None	None
+13323749-n	tol	KEEP	Y	1	English
+02679227-v	mulai	KEEP	O	None	None
+03388043-n	air mancur	KEEP	None	1	Spanish
+02635956-v	ke	DELETE	O	None	None
+05750657-n	fashion	KEEP	X	1	English
+01755627-a	sementara	KEEP	Y	None	None
+08372411-n	orang	DELETE	O	1	English
+00645493-a	luar biasa	KEEP	Y	None	None
+00881661-v	memuji	KEEP	O	None	None
+01209576-n	layanan	KEEP	Y	1	English
+00608354-n	desain interior	KEEP	X	None	None
+01083769-v	meneguk	DELETE	O	None	None
+07228751-n	sumpah	KEEP	O	1	English
+00910973-v	mengeluh	KEEP	O	None	None
+00116510-r	bersamaan	KEEP	None	None	None
+01206318-a	atas	KEEP	O	None	None
+01894164-v	meggugah	KEEP	None	None	None
+01410606-a	laksana	DELETE	O	None	None
+02506555-a	macam	KEEP	None	None	None
+07943300-n	penduduk	KEEP	O	None	None
+02052333-a	kota	KEEP	O	None	None
+01481360-v	gantung	KEEP	Y	None	None
+01650610-v	membuka	KEEP	O	None	None
+14705287-n	terasi	KEEP	Y	1	Polish
+03282295-n	kedutaan	KEEP	Y	1	Polish
+01296324-v	menjembatani	KEEP	O	None	None
+00120796-v	menyewakan	DELETE	O	None	None
+01182709-v	menyuguhkan	KEEP	None	None	None
+02664769-v	makhluk	DELETE	O	None	None
+01731351-a	masa sekarang	KEEP	X	None	None
+08613733-n	luar	KEEP	O	1	English
+00520214-a	seluruh	KEEP	Y	None	None
+00034479-n	yang demikian	KEEP	X	1	English
+02560585-v	berbuat	DELETE	O	None	None
+02810102-a	daratan	KEEP	O	None	None
+05216365-n	badan	KEEP	Y	2	English, Greek
+02847894-a	finansial	KEEP	None	None	None
+02921592-n	botol minyak	DELETE	X	None	None
+05869584-n	keseluruhan	KEEP	O	1	Spanish
+13955461-n	kenyataan	KEEP	Y	2	English, Spanish
+02166460-v	mengamati	KEEP	O	None	None
+01277426-a	paling penting	KEEP	X	None	None
+00428270-n	seni tari	KEEP	O	1	English
+02834778-n	sepeda	KEEP	O	1	Portuguese
+01013367-v	mementingkan	KEEP	Y	None	None
+01943338-v	melesatlah	KEEP	None	None	None
+02587532-v	menguruskan	DELETE	Y	None	None
+01593649-a	umum	KEEP	Y	None	None
+80001133-n	kami	KEEP	None	None	None
+03748162-n	gerai	KEEP	None	1	English
+02016523-v	ke dalam	KEEP	X	None	None
+02568672-v	mempratikkan	DELETE	X	None	None
+02140033-v	menunjukkan	KEEP	Y	None	None
+00579084-a	tampak	KEEP	O	None	None
+08600443-n	monumen	KEEP	O	1	Polish
+00725274-v	mengherankan	KEEP	O	None	None
+09505418-n	dewi	KEEP	Y	1	English
+00986766-a	penuh berisi	KEEP	X	None	None
+80000177-n	chai tow kueh	KEEP	None	None	None
+05707718-n	rasa	KEEP	Y	1	Spanish
+02586458-v	mempesona	KEEP	X	None	None
+03378005-n	pujasera	KEEP	None	None	None
+01843055-v	bepergian	KEEP	O	None	None
+02333689-v	terletak	DELETE	O	None	None
+80000986-n	Metro	KEEP	None	None	None
+02315002-a	lengkung	KEEP	None	None	None
+06770275-n	persetujuan	KEEP	O	1	Finnish
+00031798-r	sudah	KEEP	O	None	None
+01857392-v	tinggallah	KEEP	None	None	None
+15120823-n	masa lampau	KEEP	None	1	Portuguese
+07625493-n	pai	KEEP	Y	1	English
+90000305-n	laksa	KEEP	None	None	None
+00071840-r	di sekelilingnya	KEEP	None	None	None
+10631941-n	juru	KEEP	Y	1	Spanish
+01188725-v	mau	KEEP	O	None	None
+02423183-v	memungkinkan	KEEP	O	None	None
+02346878-a	perdagangan	KEEP	O	None	None
+00144722-r	tentu	KEEP	O	None	None
+08593924-n	asal-usul	DELETE	X	1	Spanish
+02685951-v	menyeberangi	DELETE	O	None	None
+13246662-n	tanah	KEEP	O	1	Finnish
+01197014-v	makan	DELETE	O	None	None
+00004722-r	sekedar	KEEP	O	None	None
+02426395-v	tutup	KEEP	O	None	None
+02547586-v	menolong	KEEP	Y	None	None
+02165304-v	menoleh	KEEP	O	None	None
+01052611-a	harum	KEEP	O	None	None
+01580467-v	menyelimuti	KEEP	O	None	None
+00851588-a	sederhana	KEEP	O	None	None
+02496036-v	dikurung	KEEP	None	None	None
+09474412-n	dinding	KEEP	O	1	English
+07560193-n	saji	KEEP	None	None	None
+02686471-v	memandu	DELETE	O	None	None
+00173761-n	fasilitas	KEEP	None	1	English
+00098625-n	layanan	KEEP	O	1	Polish
+11465888-n	jerebu	DELETE	None	1	English
+15165490-n	tengah hari	KEEP	O	1	English
+00605516-a	tradisi	DELETE	Y	None	None
+01216331-v	berpegangan	KEEP	None	None	None
+00060939-r	dahulu	KEEP	O	None	None
+02413480-v	bekerja	KEEP	O	None	None
+08208560-n	tim	KEEP	O	1	English
+02423183-v	memberi	KEEP	O	None	None
+90000195-n	festival tengah musim gugur	KEEP	None	None	None
+13613294-n	m²	KEEP	X	1	Polish
+90000135-n	Hainanese chicken rice	KEEP	None	None	None
+01166351-v	makan	KEEP	Y	None	None
+13352138-n	cagar	KEEP	Y	1	English
+02608347-v	berawal	KEEP	O	None	None
+06240244-n	buddhisme	KEEP	None	1	Portuguese
+01982395-v	mengumpamakan	DELETE	O	None	None
+01433493-a	panjang	KEEP	Y	None	None
+03838535-n	karya	KEEP	O	1	English
+07656741-n	iga	KEEP	None	1	English
+00233335-v	terbatas	KEEP	Y	None	None
+02295998-a	standard	DELETE	None	None	None
+02646931-v	mendominasi	KEEP	Y	None	None
+00071165-r	di sekitar	KEEP	X	None	None
+01180351-v	menyediakan	KEEP	O	None	None
+00689344-v	anggap	KEEP	X	None	None
+02287041-v	belilah	KEEP	None	None	None
+01884930-a	selamat	KEEP	O	None	None
+02664769-v	imbang	KEEP	L	None	None
+08549070-n	kawasan	KEEP	O	1	English
+00183053-a	dijajakan	KEEP	None	None	None
+05925702-n	kecantikan	KEEP	O	1	English
+01664172-v	masak	KEEP	Y	None	None
+13849710-n	ratusan	DELETE	O	1	Portuguese
+04306847-n	arca	KEEP	O	1	Slovene
+01343892-v	pasangkan	KEEP	X	None	None
+01999798-v	menuju	DELETE	O	None	None
+02464866-v	bertanggung jawab	KEEP	O	None	None
+00107416-r	belakangan	KEEP	O	None	None
+14546227-n	bentuk	DELETE	O	1	English
+15211484-n	mei	KEEP	None	1	Spanish
+15165490-n	petang hari	KEEP	None	1	English
+07309781-n	gerakan	KEEP	O	1	English
+00586262-n	tempat tugas	DELETE	X	1	English
+09763784-n	sahabat	KEEP	Y	1	English
+13658828-n	cm	KEEP	None	1	Polish
+80000605-r	seolah	KEEP	None	None	None
+08883179-n	somerset	KEEP	X	1	Japanese
+04133789-n	sandal	KEEP	Y	1	Slovene
+02020590-v	terlanda	DELETE	O	None	None
+01405044-v	memukul	KEEP	O	None	None
+00326773-v	memanggang	KEEP	O	None	None
+07663592-n	sapi	KEEP	Y	1	English
+00482673-a	setimpal	KEEP	O	None	None
+01876261-a	berpandangan maju	KEEP	None	None	None
+00113082-r	selain	KEEP	Y	None	None
+01843689-v	dikunjungi	KEEP	X	None	None
+00343015-a	pasti	KEEP	O	None	None
+00479330-a	enak	KEEP	None	None	None
+08361329-n	republik	KEEP	Y	1	Slovene
+00249736-r	di dalam	DELETE	X	None	None
+02614181-v	hidup	KEEP	O	None	None
+00135455-a	sesuai	KEEP	O	None	None
+01686439-a	unik	KEEP	Y	None	None
+00061885-a	cerdik	KEEP	O	None	None
+02711194-a	gigi	KEEP	O	None	None
+01254477-v	memotong	KEEP	O	None	None
+02785365-n	lilitan	KEEP	None	1	Portuguese
+00429909-a	pasti	KEEP	O	None	None
+07540602-n	kekecewaan	KEEP	Y	1	Polish
+01617192-v	menjadi	KEEP	L	None	None
+00140403-r	alami	KEEP	None	None	None
+00950272-a	bhg dlm	DELETE	X	None	None
+02504562-v	paksa	KEEP	Y	None	None
+02800497-n	bawah tanah	KEEP	None	2	Portuguese, Spanish
+07809096-n	ramuan	KEEP	O	1	Finnish
+03963198-n	platter	KEEP	None	1	English
+76100091-x	labuh	KEEP	None	None	None
+01999798-v	menemani ke	DELETE	X	None	None
+02568672-v	melaksanakan	DELETE	O	None	None
+06390512-n	salinan	KEEP	O	1	English
+00910101-a	rata	KEEP	O	None	None
+02530282-a	berpendingin	KEEP	None	None	None
+02150510-v	menyaksikan	KEEP	O	None	None
+00892413-n	lokakarya	KEEP	None	1	Polish
+00022131-r	sebagai	DELETE	O	None	None
+01664172-v	bersedia	DELETE	Y	None	None
+00235435-n	mulai	KEEP	O	1	English
+01456710-a	sarat	DELETE	O	None	None
+90000310-n	bihun	KEEP	None	None	None
+00307631-n	berkelilinglah	KEEP	None	1	English
+05839024-n	keragaman	DELETE	O	1	English
+07560652-n	citarasa	KEEP	None	1	English
+13911872-n	dot	KEEP	None	1	English
+01739814-v	pelihara	KEEP	None	None	None
+07565259-n	hidangan	KEEP	O	1	Finnish
+09403427-n	pelangi	KEEP	Y	1	English
+90000153-n	pulau ubin	KEEP	None	None	None
+02879087-n	karangan	KEEP	O	1	Slovene
+02192184-a	60	KEEP	None	None	None
+08588152-n	bhg dlm	DELETE	X	1	English
+00304252-v	kembang	KEEP	O	None	None
+01712704-v	buat	DELETE	O	None	None
+00127948-a	yang berikut	KEEP	X	None	None
+05143077-n	kepentingan	KEEP	O	1	English
+07420770-n	kerusakan	KEEP	O	1	Arabic
+00087736-v	mendapati	DELETE	O	None	None
+15206296-n	sebulan	KEEP	None	2	Portuguese, Spanish
+00098714-r	malah	KEEP	None	None	None
+06210791-n	segi	KEEP	O	1	Slovene
+01346003-v	buka	KEEP	Y	None	None
+08972521-n	selandia baru	KEEP	X	1	Arabic
+14429484-n	juara	KEEP	None	1	English
+03670849-n	garis lurus	DELETE	X	1	Spanish
+05714466-n	wangi	KEEP	O	1	Portuguese
+00758333-v	menuntut	DELETE	O	None	None
+02629535-v	berisi	KEEP	O	None	None
+02670890-v	menyediakan	KEEP	O	None	None
+00230746-v	berkembang	KEEP	O	None	None
+04952944-n	kilau	KEEP	O	1	English
+01380122-v	menyebarkan	DELETE	O	None	None
+02236124-v	membutuhkan	DELETE	O	None	None
+00089351-n	kembali	KEEP	Y	1	Greek
+13761966-n	taburan	KEEP	None	1	English
+01935476-v	bersepeda	KEEP	O	None	None
+01317533-v	memburu	KEEP	O	None	None
+00380568-n	fusion	KEEP	None	1	English
+01395821-a	menurut	KEEP	O	None	None
+00511555-n	river hongbao	KEEP	None	1	English
+09976429-n	makhluk	KEEP	O	1	Spanish
+05122557-n	mayoritas	KEEP	O	1	English
+00599992-v	mengarik	DELETE	O	None	None
+00087736-v	mengambil	DELETE	O	None	None
+90000186-n	robertson quay	KEEP	None	None	None
+04219424-n	sutera	KEEP	None	1	Slovene
+05856388-n	nilai	KEEP	Y	1	Spanish
+02506555-a	beragam	KEEP	Y	None	None
+02423284-a	rapi	KEEP	O	None	None
+01477806-a	wanita	KEEP	O	None	None
+15228378-n	jam	KEEP	Y	1	Finnish
+00024356-r	enggak	KEEP	None	None	None
+04296562-n	panggung	KEEP	O	1	English
+00488187-a	jarang sekali terdapat,luar biasa	DELETE	X	None	None
+01552419-a	ramai	KEEP	O	None	None
+01158181-v	melalap	DELETE	O	None	None
+14708720-n	alkohol	KEEP	O	1	Slovene
+01052428-a	wangi	KEEP	O	None	None
+03748886-n	produk	KEEP	Y	1	English
+00158309-r	saja	KEEP	O	None	None
+01828736-v	menikmati	KEEP	O	None	None
+02568672-v	membuat	DELETE	O	None	None
+00770437-v	mendatangkan	DELETE	O	None	None
+01199751-a	seragam	KEEP	O	None	None
+00004722-r	cuma	KEEP	O	None	None
+07966927-n	bisnis	KEEP	O	1	English
+08489497-n	disini	DELETE	X	1	English
+12433081-n	bawang	KEEP	Y	1	Polish
+00819274-n	pelestarian	KEEP	O	1	Japanese
+01999218-v	mengemudikan	DELETE	O	None	None
+10689878-n	bakat	KEEP	O	1	English
+90000187-n	rumah makan minang	KEEP	None	None	None
+01635146-a	berdiri	KEEP	Y	None	None
+03788195-n	sultan	KEEP	None	1	English
+02353088-v	berebut	KEEP	None	None	None
+80001374-n	limau purut	KEEP	None	None	None
+02236124-v	membenarkan masuk	DELETE	X	None	None
+01428578-v	menjadikan	DELETE	O	None	None
+15149472-n	1940-an	KEEP	None	1	English
+03291819-n	amplop	KEEP	X	1	Spanish
+01032040-n	upacara	KEEP	O	1	English
+00119139-r	walau	KEEP	O	None	None
+08497294-n	wilayah	KEEP	O	1	Finnish
+00567161-a	tertaut	KEEP	None	None	None
+00230746-v	menjadi	KEEP	O	None	None
+01768086-a	pribadi	KEEP	O	None	None
+02686471-v	mengajak	DELETE	O	None	None
+13765396-n	sebotol	KEEP	None	1	Polish
+07196075-n	wawancara	KEEP	O	1	English
+02560585-v	aktiviti	DELETE	None	None	None
+14017206-n	tidak berdaya	KEEP	X	1	English
+09284015-n	hutan	KEEP	Y	1	Portuguese
+01767329-a	personal	KEEP	Y	None	None
+00324427-v	mendidih	KEEP	O	None	None
+02229550-v	menurun	KEEP	L	None	None
+00488187-a	menghairankan	DELETE	None	None	None
+02479323-v	pembekalan	DELETE	Y	None	None
+03671668-n	garisan	DELETE	None	1	English
+09918248-n	anak	KEEP	Y	1	Spanish
+08908954-n	sumatera	KEEP	None	1	Portuguese
+04559994-n	hazard	KEEP	None	None	None
+05984584-n	pengalaman	KEEP	Y	1	English
+04054213-n	mrt singapura	DELETE	X	1	Finnish
+01156834-v	mengalami	DELETE	O	None	None
+07165086-n	penawaran	KEEP	O	1	Spanish
+02686568-n	pesawat	KEEP	Y	1	Greek
+08588152-n	sebelah dalam	DELETE	X	1	English
+01173933-v	mengganyang	KEEP	None	None	None
+90000049-n	kaum peranakan	KEEP	None	None	None
+00182406-v	menambah isi	KEEP	X	None	None
+90000167-n	Thekchen Choling	KEEP	None	None	None
+08544813-n	negara	KEEP	O	1	Arabic
+00085512-r	khusus	KEEP	O	None	None
+07026352-n	opera	KEEP	Y	1	Polish
+80001132-n	ku-	KEEP	None	None	None
+01847845-v	didatangkan	KEEP	None	None	None
+00238022-n	penyertaan	DELETE	O	1	Spanish
+80001085-n	Ibu	KEEP	None	None	None
+01495912-a	besar	KEEP	None	None	None
+02525044-v	berhasil	KEEP	Y	None	None
+01912159-v	menjelajahi	KEEP	O	None	None
+02677097-v	mengenai	KEEP	O	None	None
+02276305-a	berbuih	KEEP	O	None	None
+00547616-n	pukulan	KEEP	O	1	English
+08561583-n	selatan	KEEP	O	1	English
+09776807-n	pecinta	KEEP	None	1	English
+02225510-a	terampil	KEEP	Y	None	None
+02020590-v	mendarat	DELETE	O	None	None
+80000101-n	teh tarik	KEEP	None	None	None
+07886572-n	buat	DELETE	O	1	English
+02286687-v	menemukan	KEEP	O	None	None
+02161982-a	penting	KEEP	O	None	None
+01984695-n	crayfish	KEEP	None	1	English
+00488561-a	jarang	KEEP	O	None	None
+04946877-n	tekstur	KEEP	Y	1	English
+00449332-a	arah	KEEP	None	None	None
+02741546-v	membutuhkan	DELETE	O	None	None
+00034574-n	kebaikan hati	KEEP	X	1	Slovene
+01410606-a	menyerupai	KEEP	Y	None	None
+02402825-v	memensiunkan	DELETE	O	None	None
+01662771-v	mengacu	KEEP	O	None	None
+02648253-v	abadikan	KEEP	X	None	None
+00414080-a	neo-klasik	KEEP	None	None	None
+01679806-v	hiasi	KEEP	L	None	None
+02418421-v	bermain	KEEP	O	None	None
+00900616-a	pokok	KEEP	Y	None	None
+07669788-n	babi panggang	KEEP	X	None	None
+00979862-a	cepat	KEEP	O	None	None
+03287178-n	hasil	KEEP	Y	1	English
+13748622-n	24	KEEP	None	None	None
+02636516-v	bawa	KEEP	O	None	None
+02280969-a	seru	KEEP	None	None	None
+08430568-n	garisan	DELETE	None	1	Thai
+00048374-n	tiba	KEEP	O	3	Finnish, English, Spanish
+03671473-n	talian	DELETE	None	1	Spanish
+01971280-n	cumi	KEEP	X	1	English
+00001740-a	keahlian	KEEP	O	None	None
+04203889-n	perbelanjaan	KEEP	Y	1	English
+02460199-v	menyewakan	KEEP	O	None	None
+00243918-n	masakan	KEEP	O	1	English
+13903576-n	pinggir	KEEP	O	1	Finnish
+02305586-v	mendapatkan	KEEP	Y	None	None
+14474264-n	berkat	KEEP	O	1	Slovene
+01688757-a	dangkal	DELETE	O	None	None
+07555184-n	keinginan	KEEP	O	1	Greek
+02685951-v	mengoperkan	DELETE	O	None	None
+00631378-n	praktek	KEEP	None	1	English
+90000325-n	belachan	KEEP	None	None	None
+10732967-n	akrobat	KEEP	O	1	English
+00973192-a	bergaya	KEEP	None	None	None
+01012855-a	perdana	KEEP	O	None	None
+05982915-n	ide	KEEP	Y	1	English
+02526085-v	melaksanakan	DELETE	Y	None	None
+00274724-v	mengikis	KEEP	L	None	None
+07829412-n	kuah	KEEP	Y	1	Spanish
+00031899-r	sungguh	KEEP	Y	None	None
+00951831-a	bhg dlm	DELETE	X	None	None
+00257770-n	mandi	KEEP	O	1	English
+01917980-v	berjalan-jalan	KEEP	Y	None	None
+90000070-n	nabi ibrahim	KEEP	None	None	None
+02020590-v	mengantongi	DELETE	O	None	None
+01842367-v	meninggalkan	KEEP	O	None	None
+01400562-a	halal	KEEP	O	None	None
+02620587-v	mewakili	DELETE	O	None	None
+02016523-v	masuk	KEEP	Y	None	None
+01729566-a	tua	KEEP	O	None	None
+00429060-v	mengurangi	KEEP	Y	None	None
+06427387-n	ensikopledia	KEEP	None	1	Greek
+15159583-n	hari	KEEP	Y	1	Polish
+04136161-n	sari	KEEP	O	1	English
+01975138-a	berhubungan	KEEP	O	None	None
+09480809-n	dunia	KEEP	O	1	Arabic
+00598954-v	temukan	KEEP	None	None	None
+00820075-v	menolak	KEEP	O	None	None
+00060632-r	sebelum ini	KEEP	X	None	None
+01091234-a	dekoratif	KEEP	O	None	None
+00213794-v	dapat	DELETE	Y	None	None
+00350104-v	lanjutkan	KEEP	None	None	None
+01599445-a	lazim	DELETE	O	None	None
+01496976-a	berarti	KEEP	O	None	None
+08672738-n	perkampungan	KEEP	O	2	English, Portuguese
+05752296-n	power	KEEP	None	None	None
+00464513-a	masuk akal	KEEP	None	None	None
+02647497-v	wujud	DELETE	O	None	None
+01664172-v	terbuat	KEEP	None	None	None
+01807219-a	menyenangkan	KEEP	O	None	None
+00046299-r	terlalu	KEEP	O	None	None
+02588677-v	berteman	KEEP	None	None	None
+00784342-v	tanyakan	KEEP	None	None	None
+00652900-v	banding	KEEP	Y	None	None
+02284169-a	lisan	KEEP	O	None	None
+13386465-n	pembayaran tunai	KEEP	X	1	English
+03485997-n	pegangan	KEEP	O	1	English
+01674242-a	biasa saja	DELETE	X	None	None
+00809465-n	milik	KEEP	Y	1	English
+01188725-v	berkehendakkan	DELETE	None	None	None
+01756292-a	bersifat sementara	KEEP	X	None	None
+01400562-a	hukum	KEEP	None	None	None
+02161432-a	penting	KEEP	Y	None	None
+07931733-n	air	DELETE	O	None	None
+90000030-n	Festival Musik Mosaic	KEEP	None	None	None
+01648126-v	mementaskan	KEEP	O	None	None
+11454591-n	banjir	KEEP	Y	1	English
+02547586-v	bantu	KEEP	Y	None	None
+01110274-n	niaga	KEEP	Y	1	English
+10009276-n	penyidik	KEEP	None	1	English
+05915584-n	yin	KEEP	None	1	Finnish
+01380122-v	menularkan	DELETE	O	None	None
+02148788-v	menampilkan	KEEP	O	None	None
+01982395-v	membajau	DELETE	O	None	None
+02727883-v	jual	KEEP	L	None	None
+08111419-n	jenis	KEEP	O	1	English
+07783667-n	ikan teri	KEEP	X	1	English
+13365286-n	mata pencaharian	KEEP	None	1	English
+00023271-n	pengetahuan	KEEP	O	2	English, Spanish
+02950711-a	strategis	KEEP	Y	None	None
+14792703-n	sakarida	KEEP	None	1	English
+10655730-n	awak	KEEP	None	1	English
+07652585-n	otak	KEEP	O	1	English
+00118965-r	dulu	KEEP	O	None	None
+00022829-r	sekali	KEEP	O	None	None
+02418421-v	bermain-main	KEEP	O	None	None
+01734502-v	ulang	KEEP	X	None	None
+02058994-v	bergegaslah	KEEP	None	None	None
+01664172-v	berisi	KEEP	None	None	None
+07867616-n	cheese	KEEP	None	None	None
+01284212-a	menyolok	KEEP	None	None	None
+11838916-n	bugenvil	KEEP	O	None	None
+15164957-n	hari	KEEP	O	1	Finnish
+00829745-a	berpendidikan	KEEP	None	None	None
+02169891-v	mendengarkan	KEEP	None	None	None
+09254614-n	benua	KEEP	O	1	Polish
+04101232-n	rolls	KEEP	None	1	English
+02297142-v	ditawar-tawari	KEEP	None	None	None
+00110533-r	sebelah dalam	DELETE	X	None	None
+00927017-a	yang ada	KEEP	X	None	None
+01427127-v	memasukkan	DELETE	O	None	None
+02735753-v	sesuai	KEEP	Y	None	None
+00972642-a	mutakhir	KEEP	O	None	None
+00119139-r	walaupun	KEEP	O	None	None
+90000060-n	lau pa sat festival market	KEEP	None	None	None
+02346895-v	mengadopsi	KEEP	None	None	None
+90000183-n	ngo hiang	KEEP	None	None	None
+01156834-v	jadi	DELETE	O	None	None
+07815588-n	lada	KEEP	O	1	English
+00087736-v	membawa	DELETE	O	None	None
+00181075-r	lepas	KEEP	None	None	None
+01728614-a	purba	KEEP	O	None	None
+01722980-v	penataan	KEEP	None	None	None
+02402825-v	lepaskan	DELETE	X	None	None
+06693198-n	pujian	KEEP	O	1	Spanish
+07193596-n	pertanyaan	KEEP	Y	1	English
+02727462-v	yang masih ada	KEEP	None	None	None
+08593924-n	leluhur	DELETE	O	1	Spanish
+00347610-v	bermain muzik	DELETE	X	None	None
+00799076-v	hengkang	DELETE	O	None	None
+00695209-a	berjaya	KEEP	O	None	None
+00825807-a	oriental	KEEP	None	None	None
+00059171-r	sangat baik	KEEP	X	None	None
+00734054-v	membilang	DELETE	O	None	None
+00027384-r	walaupun	KEEP	O	None	None
+02526934-v	berhasil	KEEP	O	None	None
+14450691-n	kebutuhan	KEEP	O	1	English
+03541696-n	hotel	KEEP	Y	1	Portuguese
+05870055-n	satu	KEEP	L	1	English
+02150948-v	tontonan	KEEP	None	None	None
+08401248-n	cabang	KEEP	O	1	Greek
+13255145-n	pendapatan	KEEP	Y	1	Portuguese
+02621395-v	membentuk watak	DELETE	X	None	None
+02236124-v	memasukkan	DELETE	O	None	None
+00076193-r	bolak-balik	KEEP	O	None	None
+06799897-n	talian	DELETE	None	1	English
+03727605-n	mahakarya	KEEP	O	1	English
+77000076-a	dua-duanya	DELETE	None	None	None
+14438788-n	nama	KEEP	O	1	English
+07580253-n	khas	KEEP	Y	1	English
+00893435-v	menjelaskan	KEEP	O	None	None
+01667132-v	membetulkan	KEEP	O	None	None
+07812184-n	rempah	KEEP	O	1	English
+90000165-n	Tanjong Pagar	KEEP	None	None	None
+15239579-n	musim	KEEP	O	1	English
+00473572-v	mengasah	KEEP	O	None	None
+01190683-a	sibuk	KEEP	O	None	None
+01123148-a	bagus	KEEP	O	None	None
+00183090-r	yang menakjubkan	KEEP	X	None	None
+02631856-v	menunjukkan	KEEP	Y	None	None
+00713558-a	yang penting	KEEP	X	None	None
+05844105-n	gaya	KEEP	O	1	Portuguese
+90000157-n	sentosa island	KEEP	None	None	None
+02923745-a	hindi	KEEP	None	None	None
+07490579-n	olah	KEEP	O	1	English
+02727462-v	tinggal	KEEP	O	None	None
+01525116-a	tidak bergerak	KEEP	None	None	None
+80000201-n	Idul Adha	KEEP	None	None	None
+03841417-n	karya	KEEP	Y	2	Portuguese, Spanish
+14924602-n	jade	KEEP	None	1	Thai
+13926786-n	suatu situasi tertentu	DELETE	X	1	English
+04677514-n	bentuk	KEEP	O	1	English
+01413247-a	bakal	KEEP	O	None	None
+00389231-a	hitam	KEEP	O	None	None
+01829292-v	bakar	KEEP	L	None	None
+02008396-v	berangkat	KEEP	O	None	None
+01394075-a	mini	KEEP	O	None	None
+05839024-n	kelas	KEEP	O	1	English
+01645601-v	menjadikan	KEEP	O	None	None
+02110220-v	alami	KEEP	None	None	None
+13748890-n	26	KEEP	None	None	None
+09347779-n	rawa	KEEP	O	1	English
+01197014-v	menghabiskan	DELETE	O	None	None
+07709333-n	sayuran	KEEP	None	1	English
+02526085-v	mencapai	KEEP	Y	None	None
+90000090-n	semenanjung melayu	KEEP	None	None	None
+00576451-n	aksi	KEEP	L	1	English
+01638438-a	lama	KEEP	O	None	None
+00065294-r	dua kali	KEEP	X	None	None
+13745270-n	9	KEEP	None	1	English
+08061042-n	bisnis	KEEP	O	1	English
+07447641-n	pesta	KEEP	Y	1	Portuguese
+08929922-n	perancis	KEEP	X	1	English
+01670669-a	korporat	KEEP	O	None	None
+01378556-v	tersiar	KEEP	O	None	None
+06601327-n	maksud	KEEP	Y	1	English
+00098625-n	pelayanan	KEEP	None	1	Polish
+01573515-v	putus	KEEP	O	None	None
+01380122-v	menyemaikan	DELETE	O	None	None
+01588876-v	bermerek	KEEP	None	None	None
+01180351-v	tersaji	KEEP	Y	None	None
+01605327-a	selatan	KEEP	O	None	None
+00829107-v	diajarkan	KEEP	None	None	None
+01904930-v	jalan	KEEP	Y	None	None
+00272951-r	seberang	KEEP	Y	None	None
+10694258-n	guru	KEEP	Y	1	Portuguese
+08613593-n	di luar	KEEP	None	1	English
+00051848-r	langsung	KEEP	O	None	None
+00935103-a	terjangkau	KEEP	Y	None	None
+00453803-v	menambah	KEEP	O	None	None
+02678839-v	mempesona	KEEP	X	None	None
+00341917-v	tiba	KEEP	O	None	None
+00968211-v	membagi	KEEP	O	None	None
+05332802-n	ginjal	KEEP	Y	1	Portuguese
+03024132-a	eurasia	KEEP	None	None	None
+02355596-v	mengambil	DELETE	O	None	None
+00617422-a	onde-onde	KEEP	None	None	None
+00283911-v	warna	KEEP	O	None	None
+07649854-n	daging	KEEP	Y	1	Spanish
+02059462-v	berlomba	KEEP	O	None	None
+12587803-n	kelapa	KEEP	O	2	Slovene, English
+01385773-a	raksasa	KEEP	O	None	None
+08489627-n	sana	KEEP	O	1	English
+00049003-n	tindakan memasuki	DELETE	X	1	Spanish
+02968325-a	eropa	KEEP	None	None	None
+03767745-n	menara	KEEP	None	1	Arabic
+01001857-v	terdaftar	KEEP	L	None	None
+01024190-v	menyebutkan	KEEP	O	None	None
+11448343-n	angin timur	KEEP	O	1	Finnish
+07560542-n	makanan halal	KEEP	X	1	English
+01437963-a	panjang	KEEP	Y	None	None
+02006834-v	menabrak	DELETE	O	None	None
+00075161-r	balik	KEEP	Y	None	None
+01959294-a	berkala	KEEP	Y	None	None
+00069164-r	disepanjang	KEEP	None	None	None
+02387486-v	mendidik	KEEP	O	None	None
+08558155-n	kerajaan	KEEP	O	1	English
+80001116-n	keropok	DELETE	None	None	None
+04073547-n	relik	KEEP	O	1	Spanish
+02648639-v	tinggal	KEEP	O	None	None
+00014285-r	banyak	KEEP	O	None	None
+00251791-v	berasal	KEEP	O	None	None
+06706676-n	medali	KEEP	Y	1	Slovene
+02398608-a	tajam	KEEP	O	None	None
+08652970-n	ruang	KEEP	O	1	English
+14939445-n	cecair	DELETE	None	1	English
+01777210-v	menyukai	KEEP	O	None	None
+14475661-n	kerugian	KEEP	O	1	English
+02608347-v	dijelajahi	KEEP	None	None	None
+07503260-n	jijik	KEEP	O	1	Portuguese
+14526182-n	suasana	KEEP	Y	1	English
+01228645-n	perhatian	KEEP	O	1	Portuguese
+77000023-n	-mu	KEEP	None	None	None
+01326528-v	memakan	DELETE	O	None	None
+90000224-n	kampong glam	KEEP	None	None	None
+08441203-n	undang-undang	KEEP	Y	1	Spanish
+00956131-a	jujur	KEEP	Y	None	None
+01119169-v	serang	KEEP	O	None	None
+00886448-a	berlaga	KEEP	None	None	None
+02004874-v	pulang	KEEP	Y	None	None
+09316454-n	pulau kecil	KEEP	X	1	Spanish
+10176679-n	pekerja	KEEP	O	1	English
+02039679-v	terbenam	KEEP	O	None	None
+07515790-n	kedamaian	KEEP	Y	1	Portuguese
+01552519-v	potong	KEEP	L	None	None
+02704349-v	berukuran	KEEP	O	None	None
+00759944-v	shalat	KEEP	X	None	None
+07886572-n	bru	DELETE	X	1	English
+01749184-v	cetakan	KEEP	O	None	None
+01930482-v	mengendarai	KEEP	None	None	None
+15150134-n	1960-an	KEEP	None	1	English
+00120252-a	yang hidup	KEEP	X	None	None
+02440461-a	tinggi	KEEP	None	None	None
+04727214-n	udara	KEEP	O	1	Greek
+02547586-v	membantu	KEEP	Y	None	None
+01968165-a	sehari-hari	KEEP	Y	None	None
+14526182-n	semangat	KEEP	Y	1	English
+07702193-n	dumpling	KEEP	None	1	Slovene
+13969700-n	kedamaian	KEEP	O	1	Slovene
+00022131-r	se-	KEEP	None	None	None
+09885145-n	pembeli	KEEP	O	1	Japanese
+07328756-n	yang menghasilkan	KEEP	X	1	English
+01639446-a	antik	KEEP	O	None	None
+06636259-n	fakta	KEEP	Y	1	English
+01180351-v	dilayani	KEEP	None	None	None
+77000076-a	keduanya	DELETE	None	None	None
+00833018-a	beroperasi	KEEP	O	None	None
+90000003-n	armani exchange	KEEP	None	None	None
+07729485-n	kedelai	KEEP	O	1	English
+13308999-n	pajak	KEEP	O	1	Spanish
+00331446-a	pinggir	KEEP	O	None	None
+04248607-n	gambar	KEEP	O	1	Portuguese
+02737876-v	menganggotai	DELETE	None	None	None
+02678438-v	mengenai	KEEP	O	None	None
+01772222-n	laba-laba	KEEP	O	1	Japanese
+02905036-n	panggangan	KEEP	O	1	Finnish
+07557434-n	santapan	DELETE	Y	1	English
+00195786-r	tidak perlu	KEEP	None	None	None
+07804323-n	bachang	KEEP	None	1	Portuguese
+07601999-n	chocolate	KEEP	None	1	English
+01348528-a	penting	KEEP	O	None	None
+07797189-n	kakap	KEEP	O	1	English
+02023107-v	bertemu	KEEP	Y	None	None
+01410606-a	kayak	DELETE	O	None	None
+02374451-n	kuda	KEEP	Y	1	English
+02358034-v	buka	KEEP	O	None	None
+02319428-v	promosi	KEEP	Y	None	None
+00921014-a	seru	KEEP	O	None	None
+10727944-n	trekker	KEEP	None	1	Finnish
+11410625-n	akibat	KEEP	Y	1	English
+13957268-n	hidup bersama	KEEP	X	2	English, Portuguese
+04152829-n	layar	KEEP	Y	1	English
+02467662-v	terbagi	KEEP	None	None	None
+01508719-a	pedas	KEEP	None	None	None
+00524682-v	memahirkan	DELETE	O	None	None
+06891493-n	persembahan	KEEP	O	1	English
+07491038-n	kegembiraan	KEEP	O	1	English
+01853228-a	tertentu	DELETE	O	None	None
+01579128-a	yang akhir	KEEP	X	None	None
+01777210-v	laksana	DELETE	O	None	None
+05115040-n	melimpah	KEEP	Y	1	English
+90000307-n	penang	KEEP	None	None	None
+08588152-n	bhg dalam	DELETE	X	1	English
+01565921-v	menghabiskan keseluruh	DELETE	X	None	None
+00120796-v	membawa	DELETE	O	None	None
+13661273-n	dollar	KEEP	None	1	Spanish
+01462005-v	mencampur	DELETE	O	None	None
+13983304-n	cahaya	KEEP	O	2	Portuguese, Spanish
+02394183-v	makan	DELETE	O	None	None
+04451818-n	perkakas	KEEP	O	1	Portuguese
+02062670-a	tetap sama	KEEP	None	None	None
+01215392-n	berkat	KEEP	Y	1	English
+04756635-n	kemungkinan	KEEP	O	1	Spanish
+02818832-n	ranjang	KEEP	O	1	Portuguese
+15210045-n	januari	KEEP	O	2	Slovene, Spanish
+13862780-n	kelihatan spt	DELETE	X	1	Polish
+01389776-v	masukkan	KEEP	X	None	None
+00705891-a	cantik	KEEP	O	None	None
+07583197-n	soup	KEEP	None	1	Finnish
+01882170-v	jalan	KEEP	Y	None	None
+02664769-v	setaraf	DELETE	O	None	None
+00514884-a	sepanjang	KEEP	O	None	None
+06647206-n	rekaman	KEEP	O	1	English
+76100077-x	bentuk	KEEP	None	None	None
+06099269-n	elektronik	KEEP	Y	1	English
+09179606-n	sebaik	KEEP	None	1	Slovene
+10720453-n	penjual	KEEP	O	1	Finnish
+15168790-n	subuh	KEEP	Y	1	English
+01824339-v	ingin	KEEP	O	None	None
+05936704-n	kesan	KEEP	L	1	Portuguese
+13956488-n	kebenaran	KEEP	Y	1	Greek
+08833295-n	sydney	KEEP	None	2	English, Polish
+02006834-v	sampai	DELETE	O	None	None
+01620854-v	mengakhiri	KEEP	O	None	None
+08219493-n	anak	KEEP	None	1	English
+01161561-v	menggunakan	KEEP	O	None	None
+00024073-r	non-	KEEP	None	None	None
+00939444-a	misterius	KEEP	None	None	None
+01850315-v	menggeser	KEEP	None	None	None
+02717102-v	memasukkan	DELETE	O	None	None
+14333433-n	siksaan	KEEP	O	1	English
+00257269-v	berkembang	KEEP	O	None	None
+00108647-r	kemari	KEEP	None	None	None
+08588152-n	di dalam	KEEP	X	1	English
+00298497-n	berkendara	KEEP	O	1	English
+05162985-n	kehilangan	KEEP	O	1	English
+02236124-v	makan	DELETE	O	None	None
+08650157-n	sebelah	KEEP	O	1	English
+00393105-a	plain	KEEP	None	None	None
+02741546-v	terima	DELETE	O	None	None
+08641113-n	kawasan sekitar	DELETE	X	1	English
+00369941-a	keemasan	KEEP	O	None	None
+07557165-n	“sedap-sedapan”	KEEP	None	1	English
+00699626-v	bersikeras	KEEP	None	None	None

@@ -98,7 +98,7 @@ H. B. M. Noor, S. Sapuan, and F. Bond. [Creating the open Wordnet Bahasa](https:
 
 Bond and G. Bonansinga. Exploring Cross-Lingual Sense Mapping in a Multilingual Parallel Corpus, pages 56–61. 01 2015. ISBN 9788899200008. doi: 10.4000/books.aaccademia.1321
 
-Kratochvil and L. Morgado da Costa. [Abui Wordnet: Using a toolbox dictionary to develop a wordnet for a low-resource language](https: //aclanthology.org/2022.fieldmatters-1.7). In Proceedings of the first workshop on NLP applications to field linguistics, pages 54–63, Gyeongju, Republic of Korea, Oct. 2022. International Conference on Computational Linguistics.
+Kratochvil and L. Morgado da Costa. [Abui Wordnet: Using a toolbox dictionary to develop a wordnet for a low-resource language](https://aclanthology.org/2022.fieldmatters-1.7/). In Proceedings of the first workshop on NLP applications to field linguistics, pages 54–63, Gyeongju, Republic of Korea, Oct. 2022. International Conference on Computational Linguistics.
 
 Tiedemann. [Parallel data, tools and interfaces in opus](https://aclanthology.org/L12-1246/). In N. Calzolari, K. Choukri, T. Declerck, M. U. Dogan, B. Maegaard, J. Mariani, J. Odijk, and S. Piperidis, ed- itors, LREC, pages 2214–2218. European Language Resources Association (ELRA), 2012. ISBN 978-2-9517408-7-7.
 

@@ -4,7 +4,7 @@ This repository is a part of the thesis project for MA Linguistics (Human Langua
 ## Special Note:
 Due to limited storage space on GitHub, all the complete repository along with its data can be downloaded from this drive as well:
 
-JSON file for Wiktionary extraction compiled by Ylonen (2022) can be download through this [kaikki.org](https://kaikki.org/dictionary/English/kaikki.org-dictionary-English.json](https://kaikki.org/dictionary/English/index.html). Navigate to the Download section. Once the file is downloaded, store the file into [data](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/tree/main/wiktionary/data) and rename the file as 'kaikki.org-dictionary-English.json'
+JSON file for Wiktionary extraction compiled by Ylonen (2022) can be download through this [kaikki.org](https://kaikki.org/dictionary/English/index.html). Navigate to the Download section. Once the file is downloaded, store the file into [data](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/tree/main/wiktionary/data) and rename the file as 'kaikki.org-dictionary-English.json'
 
 ## Table of Contents
 - [Opus Folder](#opus-folder)

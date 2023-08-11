@@ -28,7 +28,7 @@ The [`opus`](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/tree/main/
 - [raw_data_qed](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/tree/main/opus/raw_data_qed) contains the QED corpus.
 - [raw_data_tanzil](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/tree/main/opus/raw_data_tanzil) stores the Tanzil corpus.
 
-### Jupyter Notebooks:
+### Jupyter Notebooks and scripts:
 
 - [1. opus_extraction.ipynb](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/blob/main/opus/1.%20opus_extraction.ipynb) parses data from the four different corpora.
 - [2. intersection_algorithm_opus.ipynb](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/blob/main/opus/2.%20intersection_algorithm_opus.ipynb) maps senses using the intersection algorithm on the OPUS data.
@@ -49,7 +49,7 @@ The [`wiktionary`](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/tree
 - [data](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/tree/main/wiktionary/data): This directory stores all the files of the original parallel data from SourceForge.
 - [predictions_results](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/tree/main/wiktionary/predictions_results): This is where the prediction results of the system's sense alignment are stored.
 
-### Jupyter Notebooks:
+### Jupyter Notebooks and scripts:
 
 - [1. wiktionary_extraction.ipynb](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/blob/main/wiktionary/1.%20wiktionary_extraction.ipynb) parses data from the Wiktionary JSON file downloaded from [kaikki.org](https://kaikki.org/dictionary/English/index.html).
 - [2. intersection_algorithm_wiktionary.ipynb](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/blob/main/wiktionary/2.%20intersection_algorithm_wiktionary.ipynb) maps senses using the intersection algorithm on the Wiktionary data.
@@ -71,7 +71,7 @@ The [`wn-msa-all`](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/tree
 - [data](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/tree/main/wn-msa-all/data) stores all the files of the original parallel data from SourceForge.
 - [predictions_results](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/tree/main/wn-msa-all/predictions_results) stores prediction results of the system's sense alignment.
 
-### Jupyter Notebooks:
+### Jupyter Notebooks and scripts:
 
 - [1. development_evaluation_sets.ipynb](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/blob/main/wn-msa-all/1.%20development_evaluation_sets.ipynb) builds development and evaluation sets.
 - [2. goodness_labels_extraction.ipynb](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/blob/main/wn-msa-all/2.%20goodness_labels_extraction.ipynb) extracts data from the main data (https://sourceforge.net/p/wn-msa/tab/HEAD/tree/trunk/) with labels B and I, extracting goodness labels to the development and evaluation sets.

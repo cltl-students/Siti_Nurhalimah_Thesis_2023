@@ -10,9 +10,9 @@ This repository is a part of the thesis project for MA Linguistics (Human Langua
 - [Contact](#contact)
 - [License](#license)
 
-## [opus Folder](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/tree/main/opus)
+## opus Folder
 
-The `opus` folder contains data related to the OPUS corpus, a parallel data collection. It is organized as follows:
+The [`opus`](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/tree/main/opus) folder contains data related to the OPUS corpus, a parallel data collection. It is organized as follows:
 
 ### Subfolders:
 

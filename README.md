@@ -78,7 +78,7 @@ The [`wn-msa-all`](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/tree
 - [4. wn-msa_error_analysis.ipynb](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/blob/main/wn-msa-all/4.%20wn-msa_error_analysis.ipynb) suggests senses for the main data (https://sourceforge.net/p/wn-msa/tab/HEAD/tree/trunk/) using Wiktionary and OPUS data respectively for the final error analysis step. Takes 150 random samples from each data source.
 - [5. error_analysis_hand-checked.ipynb](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/blob/main/wn-msa-all/5.%20error_analysis_hand-checked.ipynb) obtains glosses of the 150 random samples and generates accuracy scores for both Wiktionary and OPUS for the last step of error analysis.
 - [senses.ipynb](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/blob/main/wn-msa-all/senses.ipynb) checks senses, gloss, hypernym and hyponyms of a synset in WordNet for the purpose of further data anlysis.
-- [classification_report_generator.py](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/blob/main/wn-msa-all/classification_report_generator.py) generates a classification report in the `predictions_results` folder.
+- [classification_report_generator.py](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/blob/main/wn-msa-all/classification_report_generator.py) generates a classification report in the [`predictions_results`](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/tree/main/wn-msa-all/predictions_results) folder.
 
 ## [requirement.txt](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/blob/main/requirements.txt)
 This file contains all the information about the packages needed to run the code. 

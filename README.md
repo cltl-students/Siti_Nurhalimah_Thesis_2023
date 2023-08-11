@@ -4,6 +4,9 @@ This repository is a part of the thesis project for MA Linguistics (Human Langua
 ## Special Note:
 Due to limited storage space on GitHub, all the complete repository along with its data can be downloaded from this drive as well:
 
+JSON file for Wiktionary extraction compiled by 
+
+https://kaikki.org/dictionary/English/kaikki.org-dictionary-English.json
 
 ## Table of Contents
 - [Opus Folder](#opus-folder)

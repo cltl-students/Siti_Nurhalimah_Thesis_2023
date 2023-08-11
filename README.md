@@ -10,7 +10,7 @@ This repository is a part of the thesis project for MA Linguistics (Human Langua
 - [Contact](#contact)
 - [License](#license)
 
-## opus Folder
+## [opus Folder](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/tree/main/opus)
 
 The `opus` folder contains data related to the OPUS corpus, a parallel data collection. It is organized as follows:
 
@@ -26,14 +26,14 @@ The `opus` folder contains data related to the OPUS corpus, a parallel data coll
 ### Jupyter Notebooks:
 
 - [1. opus_extraction.ipynb](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/blob/main/opus/1.%20opus_extraction.ipynb) parses data from the four different corpora.
-- **2. intersection_algorithm_opus.ipynb** maps senses using the intersection algorithm on the OPUS data.
-- **3. opus_algorithm_based_conditions.ipynb** runs the mapped senses based on five conditions.
-- **4. opus_token_count.ipynb** counts the number of tokens in the OPUS corpus for data analysis.
-- **5. opus_languages_intersection_analysis.ipynb** counts the number of language intersections in the OPUS corpus.
-- **6. data_analysis.ipynb** counts the number of senses suggested by one or two languages in the development set for data analysis.
-- **7. error_analysis.ipynb** counts senses suggested by certain languages based on evaluation set results for error analysis.
-- **8. evaluation_set.ipynb** generates matching between OPUS and the evaluation set and runs the intersection algorithm using the best condition (condition 5).
-- **classification_report_generator.py** generates a classification report in the `predictions_results` folder.
+- [2. intersection_algorithm_opus.ipynb](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/blob/main/opus/2.%20intersection_algorithm_opus.ipynb) maps senses using the intersection algorithm on the OPUS data.
+- [3. opus_algorithm_based_conditions.ipynb](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/blob/main/opus/3.%20opus_algorithm_based_conditions.ipynb) runs the mapped senses based on five conditions.
+- [4. opus_token_count.ipynb](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/blob/main/opus/4.%20opus_token_count.ipynb) counts the number of tokens in the OPUS corpus for data analysis.
+- [5. opus_languages_intersection_analysis.ipynb](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/blob/main/opus/5.%20opus_languages_intersection_analysis.ipynb) counts the number of language intersections in the OPUS corpus.
+- [6. data_analysis.ipynb](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/blob/main/opus/6.%20data_analysis.ipynb) counts the number of senses suggested by one or two languages in the development set for data analysis.
+- [7. error_analysis.ipynb](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/blob/main/opus/7.%20error_analysis.ipynb) counts senses suggested by certain languages based on evaluation set results for error analysis.
+- [8. evaluation_set.ipynb](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/blob/main/opus/8.%20evaluation_set.ipynb) generates matching between OPUS and the evaluation set and runs the intersection algorithm using the best condition (condition 5).
+- [classification_report_generator.py](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/blob/main/opus/classification_report_generator.py) generates a classification report in the `predictions_results` folder.
 
 ## wiktionary Folder
 

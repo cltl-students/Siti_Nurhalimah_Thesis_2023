@@ -2,7 +2,7 @@
 This repository is a part of the thesis project for MA Linguistics (Human Language Technology). This project focuses on the cleaning up of [Wordnet Bahasa](https://compling.upol.cz/ntumc/cgi-bin/wn-gridx.cgi?gridmode=gridx) by comparing automatically aligned dictionary data ([OPUS](https://opus.nlpl.eu/)) with hand-curated dictionary data ([Wiktionary](https://kaikki.org/dictionary/English/index.html)) using the multilingual sense intersection (MSI) methodology. This repository contains tools and scripts for performing sense alignment and evaluation using various datasets and algorithms. The repository is organized into different subfolders and contains a variety of Jupyter notebooks and Python scripts to facilitate the process.
 
 ## Special Note:
-Due to limited storage space on GitHub, all the complete repository along with its data can be downloaded from this drive as well:
+Due to limited storage space on GitHub, all the complete repository along with its data can be downloaded from this [Google Drive](https://drive.google.com/file/d/1_3RWldGglV-cLoL1QH20uxe-fBqEVtY4/view?usp=sharing) as well.
 
 JSON file for Wiktionary extraction compiled by Ylonen (2022) can be download through [kaikki.org](https://kaikki.org/dictionary/English/index.html) website. Navigate to the **Download** section. Once the file is downloaded, store the file into [data](https://github.com/iamima188/Siti_Nurhalimah_Thesis_2023/tree/main/wiktionary/data) and rename the file as _kaikki.org-dictionary-English.json_.
 

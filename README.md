@@ -94,7 +94,7 @@ If you have any questions or encounter any issues, please feel free to reach out
 Licence of the repository.
 
 ## References
-H. B. M. Noor, S. Sapuan, and F. Bond. [Creating the open Wordnet Bahasa](https://aclanthology.org/Y11-1027). In Proceedings of the 25th Pacific Asia Conference on Language, Information and Computa- tion, pages 255–264, Singapore, Dec. 2011. Institute of Digital Enhancement of Cog- nitive Processing, Waseda University.
+H. B. M. Noor, S. Sapuan, and F. Bond. [Creating the open Wordnet Bahasa](https://aclanthology.org/Y11-1027). In Proceedings of the 25th Pacific Asia Conference on Language, Information and Computation, pages 255–264, Singapore, Dec. 2011. Institute of Digital Enhancement of Cog- nitive Processing, Waseda University.
 
 Bond and G. Bonansinga. Exploring Cross-Lingual Sense Mapping in a Multilingual Parallel Corpus, pages 56–61. 01 2015. ISBN 9788899200008. doi: 10.4000/books.aaccademia.1321
 
